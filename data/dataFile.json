@@ -1,1 +1,162 @@
-[{}]
+[
+    {
+      "name": "javascript",
+      "indicationName": "javascript",
+      "founder": "Brendan Eich",
+      "firstRelease": 1995,
+      "isActive": "TRUE",
+      "extensions": "js|mjs"
+    },
+    {
+      "name": "java",
+      "indicationName": "java",
+      "founder": "James Gosling",
+      "firstRelease": 1995,
+      "isActive": "TRUE",
+      "extensions": "java"
+    },
+    {
+      "name": "typescript",
+      "indicationName": "typescript",
+      "founder": "Microsoft",
+      "firstRelease": 2012,
+      "isActive": "TRUE",
+      "extensions": "ts"
+    },
+    {
+      "name": "jsx",
+      "indicationName": "jsx",
+      "founder": "Jordan Walke",
+      "firstRelease": 2013,
+      "isActive": "TRUE",
+      "extensions": "jsx"
+    },
+    {
+      "name": "tsx",
+      "indicationName": "tsx",
+      "founder": "Jordan Walke",
+      "firstRelease": 2013,
+      "isActive": "TRUE",
+      "extensions": "tsx"
+    },
+    {
+      "name": "csharp",
+      "indicationName": "csharp",
+      "founder": "Microsoft",
+      "firstRelease": 2000,
+      "isActive": "TRUE",
+      "extensions": "cs"
+    },
+    {
+      "name": "c",
+      "indicationName": "c",
+      "founder": "Dennis Ritchie",
+      "firstRelease": 1972,
+      "isActive": "TRUE",
+      "extensions": "c|h"
+    },
+    {
+      "name": "c++",
+      "indicationName": "cpp",
+      "founder": "Bjarne Stroustrup",
+      "firstRelease": 1985,
+      "isActive": "TRUE",
+      "extensions": "cpp"
+    },
+    {
+      "name": "objective c",
+      "indicationName": "objectivec",
+      "founder": "Brad Cox",
+      "firstRelease": 1984,
+      "isActive": "TRUE",
+      "extensions": "m|h"
+    },
+    {
+      "name": "swift",
+      "indicationName": "swift",
+      "founder": "Chris Lattner",
+      "firstRelease": 2014,
+      "isActive": "TRUE",
+      "extensions": "swift"
+    },
+    {
+      "name": "rust",
+      "indicationName": "rust",
+      "founder": "Graydon Hoare",
+      "firstRelease": 2010,
+      "isActive": "TRUE",
+      "extensions": "rs|rlib"
+    },
+    {
+      "name": "ruby",
+      "indicationName": "ruby",
+      "founder": "Yukihiro Matsumoto",
+      "firstRelease": 1995,
+      "isActive": "TRUE",
+      "extensions": "rb"
+    },
+    {
+      "name": "markup",
+      "indicationName": "markup",
+      "founder": "Tim Berners-Lee",
+      "firstRelease": 1993,
+      "isActive": "TRUE",
+      "extensions": "html|htm"
+    },
+    {
+      "name": "xml",
+      "indicationName": "markup",
+      "founder": "Tim Bray",
+      "firstRelease": 1998,
+      "isActive": "TRUE",
+      "extensions": "xml"
+    },
+    {
+      "name": "json",
+      "indicationName": "json",
+      "founder": "Douglas Crockford",
+      "firstRelease": 2013,
+      "isActive": "TRUE",
+      "extensions": "json"
+    },
+    {
+      "name": "kotlin",
+      "indicationName": "kotlin",
+      "founder": "JetBrains",
+      "firstRelease": 2011,
+      "isActive": "TRUE",
+      "extensions": "kt|kts|ktm"
+    },
+    {
+      "name": "dart",
+      "indicationName": "dart",
+      "founder": "Lars Bak",
+      "firstRelease": 2011,
+      "isActive": "TRUE",
+      "extensions": "dart"
+    },
+    {
+      "name": "python",
+      "indicationName": "python",
+      "founder": "Guido van Rossum",
+      "firstRelease": 1991,
+      "isActive": "TRUE",
+      "extensions": "py|pyi|pyc|pyd|pyo|pyw|pyz"
+    },
+    {
+      "name": "r",
+      "indicationName": "r",
+      "founder": "Ross Ihaka",
+      "firstRelease": 1993,
+      "isActive": "TRUE",
+      "extensions": "r"
+    },
+    {
+      "name": "sql",
+      "indicationName": "sql",
+      "founder": "Donald D. Chamberlin",
+      "firstRelease": 1989,
+      "isActive": "TRUE",
+      "extensions": "sql"
+    }
+  ]

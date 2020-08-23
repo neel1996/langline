@@ -1,8 +1,8 @@
 export interface LangData {
   name: string;
+  indicatorName: String;
   developer: string;
   year: number;
-  type: string;
   isActive: boolean;
   extensions: string[];
 }

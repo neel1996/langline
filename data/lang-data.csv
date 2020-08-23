@@ -1,2 +1,21 @@
-name,developer,year,type,isActive,extensions
-javascript,netscape,1995,procedural,true,.js||.mjs
+name,indicationName,founder,firstRelease,isActive,extensions
+javascript,javascript,Brendan Eich,1995,TRUE,js|mjs
+java,java,James Gosling,1995,TRUE,java
+typescript,typescript,Microsoft,2012,TRUE,ts
+jsx,jsx,Jordan Walke,2013,TRUE,jsx
+tsx,tsx,Jordan Walke,2013,TRUE,tsx
+csharp,csharp,Microsoft,2000,TRUE,cs
+c ,c,Dennis Ritchie,1972,TRUE,c|h
+c++,cpp,Bjarne Stroustrup,1985,TRUE,cpp
+objective c,objectivec,Brad Cox,1984,TRUE,m|h
+swift,swift,Chris Lattner,2014,TRUE,swift
+rust,rust,Graydon Hoare,2010,TRUE,rs|rlib
+ruby,ruby,Yukihiro Matsumoto,1995,TRUE,rb
+markup,markup,Tim Berners-Lee,1993,TRUE,html|htm
+xml,markup,Tim Bray,1998,TRUE,xml
+json,json,Douglas Crockford,2013,TRUE,json
+kotlin,kotlin,JetBrains,2011,TRUE,kt|kts|ktm
+dart,dart,Lars Bak,2011,TRUE,dart
+python,python,Guido van Rossum,1991,TRUE,py|pyi|pyc|pyd|pyo|pyw|pyz
+r,r,Ross Ihaka,1993,TRUE,r
+sql,sql,Donald D. Chamberlin,1989,TRUE,sql

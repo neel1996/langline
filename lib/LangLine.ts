@@ -9,4 +9,6 @@ export class LangLine {
   }
 
   public withFileName(fileName: string) {}
+
+  public withLanguageName(languageName: string) {}
 }
