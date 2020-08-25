@@ -16,7 +16,8 @@ export class WriteToJSONDataFile {
       .then((jsonObject: any[]) => {
         if (jsonObject && this.csvFileName && this.targetFileName) {
           let fileData: string[] = [];
-          jsonObject.forEach((langData: Object) => {
+          jsonObject.forEach((langData) => {
+            langData.extensions = langData.extensions.split("|");
             fileData.push(JSON.stringify(langData));
           });
           fs.writeFileSync(this.targetFileName, "[" + fileData.join() + "]");

@@ -15,5 +15,8 @@
     "csvtojson": "^2.0.10",
     "istextorbinary": "^5.10.0",
     "textextensions": "^5.10.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.10"
   }
 }
