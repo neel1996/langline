@@ -1,7 +1,6 @@
 import csvtojson from "csvtojson";
-import path from "path";
 import fs from "fs";
-import { LangData } from "../lib/interface/LangDataInterface";
+import path from "path";
 
 export class WriteToJSONDataFile {
   constructor(private csvFileName?: string, private targetFileName?: string) {}
