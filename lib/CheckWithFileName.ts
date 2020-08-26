@@ -1,7 +1,7 @@
-import { ExtensionValidator } from "./ExtensionValidator";
 import { CheckWithExtension } from "./CheckWithExtension";
-import { LangData } from "./interface/LangDataInterface";
+import { ExtensionValidator } from "./ExtensionValidator";
 import { ErrorObject } from "./interface/ErrorInterface";
+import { LangData } from "./interface/LangDataInterface";
 
 export class CheckWithFileName {
   constructor(private fileName: string, private dataFileContent: LangData[]) {}

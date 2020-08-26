@@ -1,11 +1,11 @@
-import { ErrorObject } from "./interface/ErrorInterface";
-import { CheckWithFileName } from "./CheckWithFileName";
-import { CheckWithExtension } from "./CheckWithExtension";
 import path from "path";
-import { ExtensionValidator } from "./ExtensionValidator";
-import { FileValidator } from "./FileValidator";
-import { LangData } from "./interface/LangDataInterface";
 import { DataFileReader } from "../utils/readFromDataFile";
+import { CheckWithExtension } from "./CheckWithExtension";
+import { CheckWithFileName } from "./CheckWithFileName";
+import { CheckWithLanguageName } from "./CheckWithLanguageName";
+import { ExtensionValidator } from "./ExtensionValidator";
+import { ErrorObject } from "./interface/ErrorInterface";
+import { LangData } from "./interface/LangDataInterface";
 
 export class LangLine {
   private dataFilePath: string = path.join(
@@ -20,20 +20,10 @@ export class LangLine {
   }
 
   public withExtension(extension: string): LangData | ErrorObject {
-    const isTextExtension: boolean = new ExtensionValidator(
-      extension
-    ).isTextExtension();
-
-    if (isTextExtension && this.dataFileContent) {
-      return new CheckWithExtension(
-        extension,
-        this.dataFileContent
-      ).checkWithExtensionHandler();
-    } else {
-      return {
-        status: "No matching language found.",
-      };
-    }
+    return new CheckWithExtension(
+      extension,
+      this.dataFileContent
+    ).checkWithExtensionHandler();
   }
 
   public withFileName(fileName: string): LangData | ErrorObject {
@@ -43,5 +33,10 @@ export class LangLine {
     ).checkWithFileNameHandler();
   }
 
-  public withLanguageName(languageName: string) {}
+  public withLanguageName(languageName: string): LangData | ErrorObject {
+    return new CheckWithLanguageName(
+      languageName,
+      this.dataFileContent
+    ).checkWithLanguageNameHandler();
+  }
 }

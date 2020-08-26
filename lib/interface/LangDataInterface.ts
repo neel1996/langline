@@ -3,6 +3,5 @@ export interface LangData {
   indicatorName: String;
   developer: string;
   year: number;
-  isActive: boolean;
   extensions: string[];
 }
