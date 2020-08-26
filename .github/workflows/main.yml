@@ -1,0 +1,25 @@
+name: langline primray pipeline
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [12.x]
+    steps:
+    - uses: actions/checkout@v2
+    - name: Uses Node JS ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - run: npm install
+    - run: npm i -g typescript jest
+    - run: tsc
+    - run: node ./dist/utils/runCsvToJsonConvertor.js
+    - run: jest --silent
