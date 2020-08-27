@@ -11,7 +11,7 @@ export class LangLine {
   private dataFilePath: string = path.join(
     __dirname,
     "..",
-    "data/dataFile.json"
+    "data/linguistDataSet.json"
   );
   private dataFileContent: LangData[] = [];
 

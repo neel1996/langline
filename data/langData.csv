@@ -1,0 +1,385 @@
+name,prismIndicator,extensions
+1C Enterprise,undefined,.bsl|.os
+4D,4d,.4dm
+ABAP,abap,.abap
+AGS Script,ags,.asc|.ash
+AMPL,ampl,.ampl|.mod
+ANTLR,antlr,.g4
+APL,apl,.apl|.dyalog
+ASL,asl,.asl|.dsl
+ASP,asp,.asp|.asax|.ascx|.ashx|.asmx|.aspx|.axd
+ATS,ats,.dats|.hats|.sats
+ActionScript,actionscript,.as
+Ada,ada,.adb|.ada|.ads
+Agda,agda,.agda
+Alloy,alloy,.als
+AngelScript,angelscript,.as|.angelscript
+Apex,apex,.cls
+Apollo Guidance Computer,undefined,.agc
+AppleScript,applescript,.applescript|.scpt
+Arc,arc,.arc
+AspectJ,aspectj,.aj
+Assembly,assembly,.asm|.a51|.i|.inc|.nasm
+Asymptote,asymptote,.asy
+Augeas,augeas,.aug
+AutoHotkey,autohotkey,.ahk|.ahkl
+AutoIt,autoit,.au3
+Awk,awk,.awk|.auk|.gawk|.mawk|.nawk
+Ballerina,ballerina,.bal
+Batchfile,batchfile,.bat|.cmd
+Befunge,befunge,.befunge
+Bison,bison,.bison
+BitBake,bitbake,.bb
+BlitzBasic,blitzbasic,.bb|.decls
+BlitzMax,blitzmax,.bmx
+Bluespec,bluespec,.bsv
+Boo,boo,.boo
+Brainfuck,brainfuck,.b|.bf
+Brightscript,brightscript,.brs
+C,c,.c|.cats|.h|.idc
+C#,csharp,.cs|.cake|.csx|.linq
+C++,cpp,.cpp|.c++|.cc|.cp|.cxx|.h|.h++|.hh|.hpp|.hxx|.inc|.inl|.ino|.ipp|.re|.tcc|.tpp
+C2hs Haskell,c2hs,.chs
+CLIPS,clips,.clp
+CMake,cmake,.cmake|.cmake.in
+COBOL,cobol,.cob|.cbl|.ccp|.cobol|.cpy
+CWeb,cweb,.w
+Cap'n Proto,undefined,.capnp
+CartoCSS,cartocss,.mss
+Ceylon,ceylon,.ceylon
+Chapel,chapel,.chpl
+Charity,charity,.ch
+ChucK,chuck,.ck
+Cirru,cirru,.cirru
+Clarion,clarion,.clw
+Clean,clean,.icl|.dcl
+Click,click,.click
+Clojure,clojure,.clj|.boot|.cl2|.cljc|.cljs|.cljs.hl|.cljscm|.cljx|.hic
+CodeQL,codeql,.ql|.qll
+CoffeeScript,coffeescript,.coffee|._coffee|.cake|.cjsx|.iced
+ColdFusion,coldfusion,.cfm|.cfml
+ColdFusion CFC,cfc,.cfc
+Common Lisp,lisp,.lisp|.asd|.cl|.l|.lsp|.ny|.podsl|.sexp
+Common Workflow Language,cwl,.cwl
+Component Pascal,delphi,.cp|.cps
+Cool,cool,.cl
+Coq,coq,.coq|.v
+Crystal,crystal,.cr
+Csound,csound,.orc|.udo
+Csound Document,csound-csd,.csd
+Csound Score,csound-sco,.sco
+Cuda,cuda,.cu|.cuh
+Cycript,cycript,.cy
+Cython,cython,.pyx|.pxd|.pxi
+D,d,.d|.di
+DIGITAL Command Language,dcl,.com
+DM,dm,.dm
+DTrace,dtrace,.d
+Dafny,dafny,.dfy
+Dart,dart,.dart
+DataWeave,dataweave,.dwl
+Dhall,dhall,.dhall
+Dockerfile,dockerfile,.dockerfile
+Dogescript,dogescript,.djs
+Dylan,dylan,.dylan|.dyl|.intr|.lid
+E,e,.E
+ECL,ecl,.ecl|.eclxml
+ECLiPSe,eclipse,.ecl
+EQ,eq,.eq
+Eiffel,eiffel,.e
+Elixir,elixir,.ex|.exs
+Elm,elm,.elm
+Emacs Lisp,elisp,.el|.emacs|.emacs.desktop
+EmberScript,emberscript,.em|.emberscript
+Erlang,erlang,.erl|.app.src|.es|.escript|.hrl|.xrl|.yrl
+F#,fsharp,.fs|.fsi|.fsx
+F*,fstar,.fst
+FLUX,flux,.fx|.flux
+Factor,factor,.factor
+Fancy,fancy,.fy|.fancypack
+Fantom,fantom,.fan
+Faust,faust,.dsp
+Filebench WML,undefined,.f
+Filterscript,filterscript,.fs
+Forth,forth,.fth|.4th|.f|.for|.forth|.fr|.frt|.fs
+Fortran,fortran,.f|.f77|.for|.fpp
+Fortran Free Form,undefined,.f90|.f03|.f08|.f95
+FreeMarker,freemarker,.ftl
+Frege,frege,.fr
+Futhark,futhark,.fut
+G-code,undefined,.g|.cnc|.gco|.gcode
+GAML,gaml,.gaml
+GAMS,gams,.gms
+GAP,gap,.g|.gap|.gd|.gi|.tst
+GCC Machine Description,undefined,.md
+GDB,gdb,.gdb|.gdbinit
+GDScript,gdscript,.gd
+GLSL,glsl,.glsl|.fp|.frag|.frg|.fs|.fsh|.fshader|.geo|.geom|.glslf|.glslv|.gs|.gshader|.shader|.tesc|.tese|.vert|.vrx|.vsh|.vshader
+Game Maker Language,undefined,.gml
+Genie,genie,.gs
+Genshi,genshi,.kid
+Gentoo Ebuild,undefined,.ebuild
+Gentoo Eclass,undefined,.eclass
+Gherkin,gherkin,.feature
+Glyph,glyph,.glf
+Gnuplot,gnuplot,.gp|.gnu|.gnuplot|.p|.plot|.plt
+Go,go,.go
+Golo,golo,.golo
+Gosu,gosu,.gs|.gst|.gsx|.vark
+Grace,grace,.grace
+Grammatical Framework,gf,.gf
+Groovy,groovy,.groovy|.grt|.gtpl|.gvy
+Groovy Server Pages,gsp,.gsp
+HCL,hcl,.hcl|.tf|.tfvars|.workflow
+HLSL,hlsl,.hlsl|.cginc|.fx|.fxh|.hlsli
+Hack,hack,.hack|.hh|.hhi|.php
+Harbour,harbour,.hb
+Haskell,haskell,.hs|.hs-boot|.hsc
+Haxe,haxe,.hx|.hxsl
+HiveQL,hiveql,.q|.hql
+HolyC,holyc,.hc
+Hy,hy,.hy
+HyPhy,hyphy,.bf
+IDL,idl,.pro|.dlm
+IGOR Pro,igor,.ipf
+Idris,idris,.idr|.lidr
+Inform 7,i7,.ni|.i7x
+Inno Setup,undefined,.iss|.isl
+Io,io,.io
+Ioke,ioke,.ik
+Isabelle,isabelle,.thy
+J,j,.ijs
+JFlex,jflex,.flex|.jflex
+JSONiq,jsoniq,.jq
+JSX,jsx,.jsx
+Jasmin,jasmin,.j
+Java,java,.java
+Java Server Pages,jsp,.jsp
+JavaScript,javascript,.js|._js|.bones|.cjs|.es|.es6|.frag|.gs|.jake|.jsb|.jscad|.jsfl|.jsm|.jss|.mjs|.njs|.pac|.sjs|.ssjs|.xsjs|.xsjslib
+JavaScript+ERB,undefined,.js.erb
+Jison,jison,.jison
+Jison Lex,undefined,.jisonlex
+Jolie,jolie,.ol|.iol
+Jsonnet,jsonnet,.jsonnet|.libsonnet
+Julia,julia,.jl
+KRL,krl,.krl
+Kaitai Struct,ksy,.ksy
+Kotlin,kotlin,.kt|.ktm|.kts
+LFE,lfe,.lfe
+LLVM,llvm,.ll
+LOLCODE,lolcode,.lol
+LSL,lsl,.lsl|.lslp
+LabVIEW,labview,.lvproj
+Lasso,lasso,.lasso|.las|.lasso8|.lasso9
+Lean,lean,.lean|.hlean
+Lex,lex,.l|.lex
+LilyPond,lilypond,.ly|.ily
+Limbo,limbo,.b|.m
+Literate Agda,undefined,.lagda
+Literate CoffeeScript,litcoffee,.litcoffee
+Literate Haskell,lhaskell,.lhs
+LiveScript,livescript,.ls|._ls
+Logos,logos,.xm|.x|.xi
+Logtalk,logtalk,.lgt|.logtalk
+LookML,lookml,.lookml|.model.lkml|.view.lkml
+LoomScript,loomscript,.ls
+Lua,lua,.lua|.fcgi|.nse|.p8|.pd_lua|.rbxs|.rockspec|.wlua
+M,m,.mumps|.m
+M4,m4,.m4
+M4Sugar,m4sugar,.m4
+MATLAB,matlab,.matlab|.m
+MAXScript,maxscript,.ms|.mcr
+MLIR,mlir,.mlir
+MQL4,mql4,.mq4|.mqh
+MQL5,mql5,.mq5|.mqh
+MUF,muf,.muf|.m
+Macaulay2,macaulay2,.m2
+Makefile,makefile,.mak|.d|.make|.mk|.mkfile
+Mako,mako,.mako|.mao
+Mathematica,mathematica,.mathematica|.cdf|.m|.ma|.mt|.nb|.nbp|.wl|.wlt
+Max,max,.maxpat|.maxhelp|.maxproj|.mxt|.pat
+Mercury,mercury,.m|.moo
+Metal,metal,.metal
+MiniD,minid,.minid
+Mirah,mirah,.druby|.duby|.mirah
+Modelica,modelica,.mo
+Modula-2,undefined,.mod
+Modula-3,undefined,.i3|.ig|.m3|.mg
+Module Management System,undefined,.mms|.mmk
+Monkey,monkey,.monkey|.monkey2
+Moocode,moocode,.moo
+MoonScript,moonscript,.moon
+Motorola 68K Assembly,m68k,.asm|.i|.inc|.s|.x68
+Myghty,myghty,.myt
+NASL,nasl,.nasl|.inc
+NCL,ncl,.ncl
+NSIS,nsis,.nsi|.nsh
+Nearley,nearley,.ne|.nearley
+Nemerle,nemerle,.n
+NetLinx,netlinx,.axs|.axi
+NetLinx+ERB,undefined,.axs.erb|.axi.erb
+NetLogo,netlogo,.nlogo
+NewLisp,newlisp,.nl|.lisp|.lsp
+Nextflow,nextflow,.nf
+Nim,nim,.nim|.nim.cfg|.nimble|.nimrod|.nims
+Nit,nit,.nit
+Nix,nix,.nix
+Nu,nu,.nu
+NumPy,numpy,.numpy|.numpyw|.numsc
+OCaml,ocaml,.ml|.eliom|.eliomi|.ml4|.mli|.mll|.mly
+ObjectScript,objectscript,.cls
+Objective-C,obj-c,.m|.h
+Objective-C++,obj-c++,.mm
+Objective-J,obj-j,.j|.sj
+Odin,odin,.odin
+Omgrofl,omgrofl,.omgrofl
+Opa,opa,.opa
+Opal,opal,.opal
+Open Policy Agent,undefined,.rego
+OpenCL,opencl,.cl|.opencl
+OpenEdge ABL,progress,.p|.cls|.w
+OpenQASM,openqasm,.qasm
+OpenSCAD,openscad,.scad
+Ox,ox,.ox|.oxh|.oxo
+Oxygene,oxygene,.oxygene
+Oz,oz,.oz
+P4,p4,.p4
+PHP,php,.php|.aw|.ctp|.fcgi|.inc|.php3|.php4|.php5|.phps|.phpt
+PLSQL,plsql,.pls|.bdy|.ddl|.fnc|.pck|.pkb|.pks|.plb|.plsql|.prc|.spc|.sql|.tpb|.tps|.trg|.vw
+PLpgSQL,plpgsql,.pgsql|.sql
+POV-Ray SDL,pov-ray,.pov|.inc
+Pan,pan,.pan
+Papyrus,papyrus,.psc
+Parrot,parrot,.parrot
+Parrot Assembly,pasm,.pasm
+Parrot Internal Representation,pir,.pir
+Pascal,pascal,.pas|.dfm|.dpr|.inc|.lpr|.pascal|.pp
+Pawn,pawn,.pwn|.inc|.sma
+Pep8,pep8,.pep
+Perl,perl,.pl|.al|.cgi|.fcgi|.perl|.ph|.plx|.pm|.psgi|.t
+PicoLisp,picolisp,.l
+PigLatin,piglatin,.pig
+Pike,pike,.pike|.pmod
+PogoScript,pogoscript,.pogo
+Pony,pony,.pony
+PowerBuilder,powerbuilder,.pbt|.sra|.sru|.srw
+PowerShell,powershell,.ps1|.psd1|.psm1
+Processing,processing,.pde
+Prolog,prolog,.pl|.pro|.prolog|.yap
+Propeller Spin,undefined,.spin
+Puppet,puppet,.pp
+PureBasic,purebasic,.pb|.pbi
+PureScript,purescript,.purs
+Python,python,.py|.cgi|.fcgi|.gyp|.gypi|.lmi|.py3|.pyde|.pyi|.pyp|.pyt|.pyw|.rpy|.smk|.spec|.tac|.wsgi|.xpy
+Q#,qsharp,.qs
+QML,qml,.qml|.qbs
+QMake,qmake,.pro|.pri
+Qt Script,undefined,.qs
+R,r,.r|.rd|.rsx
+REALbasic,realbasic,.rbbas|.rbfrm|.rbmnu|.rbres|.rbtbar|.rbuistate
+REXX,rexx,.rexx|.pprx|.rex
+RPC,rpc,.x
+Racket,racket,.rkt|.rktd|.rktl|.scrbl
+Ragel,ragel,.rl
+Raku,raku,.6pl|.6pm|.nqp|.p6|.p6l|.p6m|.pl|.pl6|.pm|.pm6|.t
+Rascal,rascal,.rsc
+Reason,reason,.re|.rei
+Rebol,rebol,.reb|.r|.r2|.r3|.rebol
+Red,red,.red|.reds
+Redcode,redcode,.cw
+Ren'Py,renpy,.rpy
+RenderScript,renderscript,.rs|.rsh
+Ring,ring,.ring
+RobotFramework,robotframework,.robot
+Rouge,rouge,.rg
+Ruby,ruby,.rb|.builder|.eye|.fcgi|.gemspec|.god|.jbuilder|.mspec|.pluginspec|.podspec|.rabl|.rake|.rbi|.rbuild|.rbw|.rbx|.ru|.ruby|.spec|.thor|.watchr
+Rust,rust,.rs|.rs.in
+SAS,sas,.sas
+SMT,smt,.smt2|.smt
+SQF,sqf,.sqf|.hqf
+SQLPL,sqlpl,.sql|.db2
+SWIG,swig,.i
+Sage,sage,.sage|.sagews
+SaltStack,saltstack,.sls
+Scala,scala,.scala|.kojo|.sbt|.sc
+Scheme,scheme,.scm|.sch|.sld|.sls|.sps|.ss
+Scilab,scilab,.sci|.sce|.tst
+Self,self,.self
+ShaderLab,shaderlab,.shader
+Shell,shell,.sh|.bash|.bats|.cgi|.command|.env|.fcgi|.ksh|.sh.in|.tmux|.tool|.zsh
+ShellSession,shellsession,.sh-session
+Shen,shen,.shen
+Sieve,sieve,.sieve
+Slash,slash,.sl
+Slice,slice,.ice
+SmPL,smpl,.cocci
+Smali,smali,.smali
+Smalltalk,smalltalk,.st|.cs
+Smarty,smarty,.tpl
+SourcePawn,sourcepawn,.sp|.inc
+Squirrel,squirrel,.nut
+Stan,stan,.stan
+Standard ML,sml,.ML|.fun|.sig|.sml
+Starlark,starlark,.bzl
+Stata,stata,.do|.ado|.doh|.ihlp|.mata|.matah|.sthlp
+SuperCollider,supercollider,.sc|.scd
+Swift,swift,.swift
+SystemVerilog,systemverilog,.sv|.svh|.vh
+TI Program,undefined,.8xp|.8xk|.8xk.txt|.8xp.txt
+TLA,tla,.tla
+TSQL,tsql,.sql
+TSX,tsx,.tsx
+TXL,txl,.txl
+Tcl,tcl,.tcl|.adp|.tm
+Tcsh,tcsh,.tcsh|.csh
+Terra,terra,.t
+Thrift,thrift,.thrift
+Turing,turing,.t|.tu
+TypeScript,typescript,.ts
+Unified Parallel C,undefined,.upc
+Unix Assembly,undefined,.s|.ms
+Uno,uno,.uno
+UnrealScript,unrealscript,.uc
+UrWeb,urweb,.ur|.urs
+V,v,.v
+VBA,vba,.bas|.cls|.frm|.frx|.vba
+VBScript,vbscript,.vbs
+VCL,vcl,.vcl
+VHDL,vhdl,.vhdl|.vhd|.vhf|.vhi|.vho|.vhs|.vht|.vhw
+Vala,vala,.vala|.vapi
+Verilog,verilog,.v|.veo
+Vim script,vim,.vim|.vba|.vmb
+Visual Basic .NET,visual basic,.vb|.vbhtml
+Volt,volt,.volt
+WebAssembly,webassembly,.wast|.wat
+WebIDL,webidl,.webidl
+Wollok,wollok,.wlk
+X10,x10,.x10
+XC,xc,.xc
+XProc,xproc,.xpl|.xproc
+XQuery,xquery,.xquery|.xq|.xql|.xqm|.xqy
+XS,xs,.xs
+XSLT,xslt,.xslt|.xsl
+Xojo,xojo,.xojo_code|.xojo_menu|.xojo_report|.xojo_script|.xojo_toolbar|.xojo_window
+Xtend,xtend,.xtend
+YARA,yara,.yar|.yara
+Yacc,yacc,.y|.yacc|.yy
+ZAP,zap,.zap|.xzap
+ZIL,zil,.zil|.mud
+Zeek,zeek,.zeek|.bro
+ZenScript,zenscript,.zs
+Zephir,zephir,.zep
+Zig,zig,.zig
+Zimpl,zimpl,.zimpl|.zmpl|.zpl
+eC,ec,.ec|.eh
+fish,fish,.fish
+mIRC Script,undefined,.mrc
+mcfunction,mcfunction,.mcfunction
+mupad,mupad,.mu
+nesC,nesc,.nc
+ooc,ooc,.ooc
+q,q,.q
+sed,sed,.sed
+wdl,wdl,.wdl
+wisp,wisp,.wisp
+xBase,xbase,.prg|.ch|.prw

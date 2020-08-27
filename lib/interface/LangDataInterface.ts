@@ -1,7 +1,5 @@
 export interface LangData {
   name: string;
-  indicatorName: String;
-  developer: string;
-  year: number;
+  prismIndicator: String;
   extensions: string[];
 }
