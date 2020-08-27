@@ -1,4 +1,12 @@
-import { LangLine } from "../lib/index";
+import { LangLine } from "./../lib/index";
+describe("tests language check with language name", () => {
+  test("positive test case for language name based check", () => {
+    const result = new LangLine().withLanguageName("javascript");
+    expect(result.name).toBeTruthy();
+  });
 
-const languageName: string = process.argv[2];
-console.log(new LangLine().withLanguageName(languageName));
+  test("negative test case for language name based check", () => {
+    const result = new LangLine().withLanguageName("pizza");
+    expect(result.status).toBeTruthy();
+  });
+});

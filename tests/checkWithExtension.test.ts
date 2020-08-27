@@ -1,4 +1,11 @@
 import { LangLine } from "../lib/index";
 
-const extension: string = process.argv[2];
-console.log(new LangLine().withExtension(extension));
+describe("tests language check based on extension", () => {
+  test("positive test case : checkWithExtension", () => {
+    expect(new LangLine().withExtension("js").name).toBeTruthy();
+  });
+
+  test("negative test case : checkWithExtension", () => {
+    expect(new LangLine().withExtension("NULL").status).toBeTruthy();
+  });
+});
