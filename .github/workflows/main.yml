@@ -25,4 +25,4 @@ jobs:
       - run: cp -rp data/ ./dist/
       - run: jest --silent
       - run: jest --coverage
-      - run: curl -s https://codecov.io/bash -f ./coverage/coverage-final.json
+      - run: bash <(curl -s https://codecov.io/bash) -f ./coverage/coverage-final.json
