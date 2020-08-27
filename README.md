@@ -21,10 +21,10 @@ Update the JSON file `./data/linguistDataSet.json` with the language specific en
 
 **CSV File**
 
-Update the CSV file `langData.csv` with the following entries
+Update the CSV file `./data/langData.csv` with the following entries
 
 | name | prismIndicator | extensions |
 | :-: | :-: | :-: |
-| NAME OF THE LANGUAGE | IF THE LANGUAGE IS SUPPORTED BY PRISM THEN THE PRISMJS COMPONENT NAME | LANGUAGE FILE EXTENSIONS | 
+| NAME OF THE LANGUAGE | IF THE LANGUAGE IS SUPPORTED BY PRISM THEN THE PRISMJS COMPONENT NAME | LANGUAGE FILE EXTENSIONS. SPLIT MULTIPLE EXTENSIONS WITH PIPE | 
 
 **Note:** Project is still under development and contributions will be accepeted once project is stable for use
