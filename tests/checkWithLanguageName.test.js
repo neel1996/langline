@@ -1,4 +1,5 @@
-import { LangLine } from "./../lib/index";
+const { LangLine } = require("../dist/lib/index");
+
 describe("tests language check with language name", () => {
   test("positive test case for language name based check", () => {
     const result = new LangLine().withLanguageName("javascript");

@@ -1,4 +1,4 @@
-import { LangLine } from "../lib/index";
+const { LangLine } = require("../dist/lib/index");
 
 describe("tests language check based on extension", () => {
   test("positive test case : checkWithExtension", () => {

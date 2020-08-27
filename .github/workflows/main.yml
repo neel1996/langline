@@ -2,9 +2,9 @@ name: langline primray pipeline
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   build:
@@ -13,13 +13,16 @@ jobs:
       matrix:
         node-version: [12.x]
     steps:
-    - uses: actions/checkout@v2
-    - name: Uses Node JS ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
-      with:
-        node-version: ${{ matrix.node-version }}
-    - run: npm install
-    - run: npm i -g typescript jest
-    - run: tsc
-    - run: node ./dist/utils/runCsvToJsonConvertor.js
-    - run: jest --silent
+      - uses: actions/checkout@v2
+      - name: Uses Node JS ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - run: npm install
+      - run: npm i -g typescript jest
+      - run: tsc
+      - run: node ./dist/utils/runCsvToJsonConvertor.js
+      - run: cp -rp data/ ./dist/
+      - run: jest --silent
+      - run: jest --coverage
+      - run: curl -s https://codecov.io/bash -f ./coverage/coverage-final.json
