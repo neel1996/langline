@@ -6,6 +6,7 @@ import { CheckWithLanguageName } from "./CheckWithLanguageName";
 import { ExtensionValidator } from "./ExtensionValidator";
 import { ErrorObject } from "./interface/ErrorInterface";
 import { LangData } from "./interface/LangDataInterface";
+import { CheckWithFile } from "./CheckWithFile";
 
 export class LangLine {
   private dataFilePath: string = path.join(
@@ -31,6 +32,13 @@ export class LangLine {
       fileName,
       this.dataFileContent
     ).checkWithFileNameHandler();
+  }
+
+  public async withFile(fileName: string): Promise<LangData | ErrorObject> {
+    return await new CheckWithFile(
+      fileName,
+      this.dataFileContent
+    ).chechWithFileHandler();
   }
 
   public withLanguageName(languageName: string): LangData | ErrorObject {
