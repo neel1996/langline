@@ -17,6 +17,7 @@
     "textextensions": "^5.10.0"
   },
   "devDependencies": {
-    "@types/jest": "^26.0.10"
+    "@types/jest": "^26.0.10",
+    "codecov": "^3.7.2"
   }
 }
