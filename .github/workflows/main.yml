@@ -23,8 +23,5 @@ jobs:
       - run: tsc
       - run: node ./dist/utils/runCsvToJsonConvertor.js
       - run: cp -rp data/ ./dist/
-      - run: jest --silent
-      - run: cd /home/runner/work/langline/
-      - run: jest --coverage
-      - run: ls
-      - run: bash <(curl -s https://codecov.io/bash) -f ./coverage/coverage-final.json
+      - run: jest 
+      - run: bash <(curl -s https://codecov.io/bash)
