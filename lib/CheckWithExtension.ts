@@ -17,14 +17,10 @@ export class CheckWithExtension {
     if (isTextExtension && this.dataFileContent) {
       const matchingLanguage: LangData | undefined = this.dataFileContent.find(
         (langData: any, index) => {
-          if (langData) {
-            const extensions: string[] = langData.extensions;
+          const extensions: string[] = langData.extensions;
 
-            if (extensions && extensions.includes("." + this.extension)) {
-              return langData;
-            } else {
-              return null;
-            }
+          if (extensions && extensions.includes("." + this.extension)) {
+            return langData;
           } else {
             return errorMessage;
           }

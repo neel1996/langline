@@ -1,15 +1,15 @@
 {
   "name": "langline",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Node library to look up programming languages",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "itassistors",
+  "license": "Apache License 2.0",
   "dependencies": {
     "@types/node": "^14.6.0",
     "codacy-coverage": "^3.4.0",

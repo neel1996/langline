@@ -24,7 +24,7 @@ jobs:
       - run: node ./dist/utils/runCsvToJsonConvertor.js
       - run: cp -rp data/ ./dist/
       - run: jest
-      - name: COdacy coverage generator
+      - name: Codacy coverage generator
         uses: codacy/codacy-coverage-reporter-action@master
         with:
           project-token: ${{ secrets.CODACY_PROJECT_TOKEN }}

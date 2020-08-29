@@ -1,4 +1,14 @@
 # langline
+
+<p align="center">
+    <p align="center">
+        <img width="240" alt="icon" src="https://user-images.githubusercontent.com/47709856/91642490-5eab0580-ea49-11ea-97ec-3bc64cc4a9a5.png">
+    </p>
+    <p align="center">
+        <img src="https://github.com/neel1996/langline/workflows/langline%20primray%20pipeline/badge.svg" />
+    </p>
+</p>
+
 Node library for getting information about a programming languages
 
 The programming language dataset is adapted from github linguist language list

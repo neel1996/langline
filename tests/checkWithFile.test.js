@@ -9,8 +9,15 @@ describe("tests language check based on file", () => {
     expect(result.name).toBeTruthy();
   });
 
-  test("negative test case for file based check", async () => {
-    const result = await new LangLine().withFile("./checkWithExtension.js");
+  test("negative test case for file based check - Non existant file", async () => {
+    const result = await new LangLine().withFile("test.js");
+    expect(result.status).toBeTruthy();
+  });
+
+  test("negative test case for file based check - Non-text file", async () => {
+    const result = await new LangLine().withFile(
+      path.join(__dirname, "..", "icon.png")
+    );
     expect(result.status).toBeTruthy();
   });
 });
