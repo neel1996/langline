@@ -1,7 +1,6 @@
 import csvtojson from "csvtojson";
 import fs from "fs";
 import path from "path";
-
 export class WriteToJSONDataFile {
   constructor(private csvFileName?: string, private targetFileName?: string) {}
 

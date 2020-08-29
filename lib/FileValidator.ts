@@ -1,5 +1,4 @@
 import { isText } from "istextorbinary";
-
 export class FileValidator {
   constructor(private targetFile: string) {
     this.targetFile = targetFile;

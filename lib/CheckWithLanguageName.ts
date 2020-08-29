@@ -1,6 +1,5 @@
 import { ErrorObject } from "./interface/ErrorInterface";
 import { LangData } from "./interface/LangDataInterface";
-
 export class CheckWithLanguageName {
   constructor(
     private languageName: string,

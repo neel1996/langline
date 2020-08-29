@@ -7,7 +7,7 @@
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
+  "keywords": ["linguist", "languages", "programming", "synatx-highlighting"],
   "author": "itassistors",
   "license": "Apache License 2.0",
   "dependencies": {

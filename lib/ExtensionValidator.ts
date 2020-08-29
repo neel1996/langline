@@ -1,5 +1,4 @@
 import Extensions from "textextensions";
-
 export class ExtensionValidator {
   constructor(private entension: string) {}
 

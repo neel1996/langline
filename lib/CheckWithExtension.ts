@@ -1,7 +1,6 @@
 import { ExtensionValidator } from "./ExtensionValidator";
 import { ErrorObject } from "./interface/ErrorInterface";
 import { LangData } from "./interface/LangDataInterface";
-
 export class CheckWithExtension {
   constructor(private extension: string, private dataFileContent: LangData[]) {}
 

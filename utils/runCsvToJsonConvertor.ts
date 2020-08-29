@@ -1,6 +1,5 @@
 import { WriteToJSONDataFile } from "./writeToJSONDataFile";
 import path from "path";
-
 export class RunCSVToJSONConvertor {
   constructor() {
     const csvFile: string = path.join(__dirname, "..", "data/langData.csv");

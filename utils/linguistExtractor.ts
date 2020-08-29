@@ -9,7 +9,7 @@ class LinguistExtractor {
     let lingData = new LinguistData().getLingData();
     const languages = Object.keys(lingData);
 
-    let langDataSet = languages.map((lang) => {
+    let langDataSet = languages.map((lang: string) => {
       let langObject = {};
       //@ts-expect-error
       const innerData = lingData[lang];

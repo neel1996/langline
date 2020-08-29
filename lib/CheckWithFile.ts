@@ -1,9 +1,8 @@
-import { isText } from "istextorbinary";
 import fs from "fs";
-import path from "path";
+import { isText } from "istextorbinary";
+import { CheckWithExtension } from "./CheckWithExtension";
 import { ErrorObject } from "./interface/ErrorInterface";
 import { LangData } from "./interface/LangDataInterface";
-import { CheckWithExtension } from "./CheckWithExtension";
 export class CheckWithFile {
   private langError: ErrorObject;
   private fileError: ErrorObject;
