@@ -23,5 +23,9 @@ jobs:
       - run: tsc
       - run: node ./dist/utils/runCsvToJsonConvertor.js
       - run: cp -rp data/ ./dist/
-      - run: jest 
-      - run: bash <(curl -s https://codecov.io/bash)
+      - run: jest
+      - name: COdacy coverage generator
+        uses: codacy/codacy-coverage-reporter-action@master
+        with:
+          project-token: ${{ secrets.CODACY_PROJECT_TOKEN }}
+          coverage-reports: cobertura.xml
