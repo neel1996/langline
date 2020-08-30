@@ -1,4 +1,4 @@
-const { LangLine } = require("../dist/lib/index");
+const { LangLine } = require("../dist/index");
 
 describe("tests language check with language name", () => {
   test("positive test case for language name based check", () => {

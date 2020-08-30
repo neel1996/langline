@@ -1,4 +1,4 @@
-name: langline primray pipeline
+name: langline build
 
 on:
   push:

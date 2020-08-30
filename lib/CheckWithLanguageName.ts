@@ -1,8 +1,10 @@
 import { ErrorObject } from "./interface/ErrorInterface";
 import { LangData } from "./interface/LangDataInterface";
+import { LanguageType } from "./types/LanguageType";
+
 export class CheckWithLanguageName {
   constructor(
-    private languageName: string,
+    private languageName: LanguageType,
     private dataFileContent: LangData[]
   ) {}
 
@@ -15,7 +17,7 @@ export class CheckWithLanguageName {
       (lang) => {
         if (
           lang.name.trim().toLowerCase() ===
-          this.languageName.trim().toLowerCase()
+          this.languageName.toString().trim().toLowerCase()
         ) {
           return lang;
         }

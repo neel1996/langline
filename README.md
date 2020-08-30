@@ -9,7 +9,12 @@
     </p>
 </p>
 
-Node library for getting information about a programming languages
+Node library for getting information about programming languages by supplying the following options,
+
+- Name of the language
+- File extension of the language (E.g: js, py)
+- Fully qualified file name with the extension
+- The actual file which holds the code
 
 The programming language dataset is adapted from github linguist language list
 

@@ -1,13 +1,18 @@
 {
-  "name": "langline",
-  "version": "0.0.1",
-  "description": "Node library to look up programming languages",
+  "name": "@itassistors/langline",
+  "version": "0.0.2",
+  "description": "Node library to look up programming languages based on file extensions, file name and actual file",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "jest"
   },
-  "keywords": ["linguist", "languages", "programming", "synatx-highlighting"],
+  "keywords": [
+    "linguist",
+    "languages",
+    "programming",
+    "synatx-highlighting"
+  ],
   "author": "itassistors",
   "license": "Apache License 2.0",
   "dependencies": {

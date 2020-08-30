@@ -1,4 +1,4 @@
-const { LangLine } = require("../dist/lib/index");
+const { LangLine } = require("../dist/index");
 const path = require("path");
 
 describe("tests language check based on file", () => {
