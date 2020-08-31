@@ -7,6 +7,9 @@
     <p align="center">
         <img src="https://github.com/neel1996/langline/workflows/langline%20primray%20pipeline/badge.svg" />
         <img src="https://api.codacy.com/project/badge/Grade/851b4c5df5ac4ca89564dd773e57f589" />
+        <a href="https://www.npmjs.com/package/@itassistors/langline" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=langline&message=v0.0.2&color=brightgreen&logo=npm" />
+        </a>
     </p>
 </p>
 
