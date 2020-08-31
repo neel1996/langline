@@ -21,12 +21,24 @@ export class LangLine {
     dataFileContent = new DataFileReader(dataFilePath).readFromFile();
   }
 
+  /**
+   * Method to lookup a language using extension. Pass a valid file extension to get the respective programming language
+   * @param  {string} extension
+   * @returns LangData - Language object with name, extensions and prismjs component name if exists
+   */
+
   public withExtension(extension: string): LangData | ErrorObject {
     return new CheckWithExtension(
       extension,
       dataFileContent
     ).checkWithExtensionHandler();
   }
+
+  /**
+   * Method to get the programming language based on a supplied file name
+   * @param  {string} fileName
+   * @returns LangData - Language object with name, extensions and prismjs component name if exists
+   */
 
   public withFileName(fileName: string): LangData | ErrorObject {
     return new CheckWithFileName(
@@ -35,6 +47,12 @@ export class LangLine {
     ).checkWithFileNameHandler();
   }
 
+  /**
+   * Method to get the programming language by passing on an actual file
+   * @param  {string} fileName - Actual file
+   * @returns Promise - resolves a promise with the language data
+   */
+
   public async withFile(fileName: string): Promise<LangData | ErrorObject> {
     return await new CheckWithFile(
       fileName,
@@ -42,7 +60,13 @@ export class LangLine {
     ).chechWithFileHandler();
   }
 
-  public withLanguageName(languageName: LanguageType): LangData | ErrorObject {
+  /**
+   * Method which accepts a language name from a set of allowed values and returns the respective language data
+   * @param  {LanguageType} languageName
+   * @returns LangData
+   */
+  
+   public withLanguageName(languageName: LanguageType): LangData | ErrorObject {
     return new CheckWithLanguageName(
       languageName,
       dataFileContent
