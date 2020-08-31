@@ -6,6 +6,7 @@
     </p>
     <p align="center">
         <img src="https://github.com/neel1996/langline/workflows/langline%20primray%20pipeline/badge.svg" />
+        <img src="https://api.codacy.com/project/badge/Grade/851b4c5df5ac4ca89564dd773e57f589" />
     </p>
 </p>
 
