@@ -26,7 +26,7 @@ const { LangLine } = require("@itassistors/langline");
 import { LangLine } from "@itassistors/langline";
 ```
 
-- Fetching language with Extension
+- **Fetching language with Extension**
 
 ```
 const { LangLine } = require("@itassistors/langline");
@@ -37,7 +37,7 @@ const language = new LangLine().withExtension(extension);
 console.log(language);
 ```
 
-- Fetching language with File Name
+- **Fetching language with File Name**
 
 ```
 const { LangLine } = require("@itassistors/langline");
@@ -48,7 +48,7 @@ const language = new LangLine().withFileName(fileName);
 console.log(language);
 ```
 
-- Fetching language by supplying an actual file
+- **Fetching language by supplying an actual file**
 
 >Note: In this case, the supplied file will be validated to check its existance and confirm its type. If the validation fails, then the language will not be returned. 
 
@@ -113,8 +113,8 @@ Update the JSON file `./data/linguistDataSet.json` with the language specific en
 
 Update the CSV file `./data/langData.csv` with the following entries
 
-| name | prismIndicator | extensions |
+| name | extensions | prismIndicator |
 | :-: | :-: | :-: |
-| NAME OF THE LANGUAGE | IF THE LANGUAGE IS SUPPORTED BY PRISM THEN THE PRISMJS COMPONENT NAME | LANGUAGE FILE EXTENSIONS. SPLIT MULTIPLE EXTENSIONS WITH PIPE | 
+| NAME OF THE LANGUAGE | LANGUAGE FILE EXTENSIONS. SPLIT MULTIPLE EXTENSIONS WITH PIPE | IF THE LANGUAGE IS SUPPORTED BY PRISM THEN THE PRISMJS COMPONENT NAME | 
 
 **Note:** Project is still under development and contributions will be accepeted once project is stable for use
