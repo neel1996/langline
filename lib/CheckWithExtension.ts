@@ -14,17 +14,20 @@ export class CheckWithExtension {
     };
 
     if (isTextExtension && this.dataFileContent) {
-      const matchingLanguage: LangData | undefined = this.dataFileContent.find(
+      let filteredLanguage: LangData[] = this.dataFileContent.filter(
         (langData: any, index) => {
           const extensions: string[] = langData.extensions;
 
           if (extensions && extensions.includes("." + this.extension)) {
-            return langData;
+            return true;
           } else {
-            return errorMessage;
+            return false;
           }
         }
       );
+
+      const matchingLanguage: LangData | undefined =
+        filteredLanguage.length > 0 ? filteredLanguage[0] : undefined;
 
       if (matchingLanguage) {
         return matchingLanguage;

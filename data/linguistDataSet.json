@@ -10,6 +10,10 @@
     "extensions": [".abap"],
     "prismIndicator": "abap"
 }, {
+    "name": "ABNF",
+    "extensions": [".abnf"],
+    "prismIndicator": "abnf"
+}, {
     "name": "AGS Script",
     "extensions": [".asc", ".ash"],
     "prismIndicator": "ags"
@@ -21,6 +25,10 @@
     "name": "ANTLR",
     "extensions": [".g4"],
     "prismIndicator": "antlr"
+}, {
+    "name": "API Blueprint",
+    "extensions": [".apib"],
+    "prismIndicator": "markup"
 }, {
     "name": "APL",
     "extensions": [".apl", ".dyalog"],
@@ -60,6 +68,10 @@
     "name": "AngelScript",
     "extensions": [".as", ".angelscript"],
     "prismIndicator": "angelscript"
+}, {
+    "name": "ApacheConf",
+    "extensions": [".apacheconf", ".vhost"],
+    "prismIndicator": "apacheconf"
 }, {
     "name": "Apex",
     "extensions": [".cls"],
@@ -116,6 +128,10 @@
     "extensions": [".befunge"],
     "prismIndicator": "befunge"
 }, {
+    "name": "BibTeX",
+    "extensions": [".bib", ".bibtex"],
+    "prismIndicator": "markup"
+}, {
     "name": "Bison",
     "extensions": [".bison"],
     "prismIndicator": "bison"
@@ -123,6 +139,10 @@
     "name": "BitBake",
     "extensions": [".bb"],
     "prismIndicator": "bitbake"
+}, {
+    "name": "Blade",
+    "extensions": [".blade", ".blade.php"],
+    "prismIndicator": "markup"
 }, {
     "name": "BlitzBasic",
     "extensions": [".bb", ".decls"],
@@ -176,6 +196,22 @@
     "extensions": [".cob", ".cbl", ".ccp", ".cobol", ".cpy"],
     "prismIndicator": "cobol"
 }, {
+    "name": "COLLADA",
+    "extensions": [".dae"],
+    "prismIndicator": "collada"
+}, {
+    "name": "CSON",
+    "extensions": [".cson"],
+    "prismIndicator": "cson"
+}, {
+    "name": "CSS",
+    "extensions": [".css"],
+    "prismIndicator": "markup"
+}, {
+    "name": "CSV",
+    "extensions": [".csv"],
+    "prismIndicator": "csv"
+}, {
     "name": "CWeb",
     "extensions": [".w"],
     "prismIndicator": "cweb"
@@ -222,6 +258,10 @@
     "name": "Clojure",
     "extensions": [".clj", ".boot", ".cl2", ".cljc", ".cljs", ".cljs.hl", ".cljscm", ".cljx", ".hic"],
     "prismIndicator": "clojure"
+}, {
+    "name": "Closure Templates",
+    "extensions": [".soy"],
+    "prismIndicator": "markup"
 }, {
     "name": "CodeQL",
     "extensions": [".ql", ".qll"],
@@ -319,6 +359,10 @@
     "extensions": [".dhall"],
     "prismIndicator": "dhall"
 }, {
+    "name": "Diff",
+    "extensions": [".diff", ".patch"],
+    "prismIndicator": "diff"
+}, {
     "name": "Dockerfile",
     "extensions": [".dockerfile"],
     "prismIndicator": "dockerfile"
@@ -335,6 +379,10 @@
     "extensions": [".E"],
     "prismIndicator": "e"
 }, {
+    "name": "EBNF",
+    "extensions": [".ebnf"],
+    "prismIndicator": "ebnf"
+}, {
     "name": "ECL",
     "extensions": [".ecl", ".eclxml"],
     "prismIndicator": "ecl"
@@ -343,9 +391,25 @@
     "extensions": [".ecl"],
     "prismIndicator": "eclipse"
 }, {
+    "name": "EJS",
+    "extensions": [".ejs"],
+    "prismIndicator": "markup"
+}, {
+    "name": "EML",
+    "extensions": [".eml", ".mbox"],
+    "prismIndicator": "eml"
+}, {
     "name": "EQ",
     "extensions": [".eq"],
     "prismIndicator": "eq"
+}, {
+    "name": "Eagle",
+    "extensions": [".sch", ".brd"],
+    "prismIndicator": "eagle"
+}, {
+    "name": "Easybuild",
+    "extensions": [".eb"],
+    "prismIndicator": "easybuild"
 }, {
     "name": "Eiffel",
     "extensions": [".e"],
@@ -406,6 +470,10 @@
     "extensions": [".fs"],
     "prismIndicator": "filterscript"
 }, {
+    "name": "Formatted",
+    "extensions": [".for", ".eam.fs"],
+    "prismIndicator": "formatted"
+}, {
     "name": "Forth",
     "extensions": [".fth", ".4th", ".f", ".for", ".forth", ".fr", ".frt", ".fs"],
     "prismIndicator": "forth"
@@ -455,9 +523,17 @@
     "extensions": [".gd"],
     "prismIndicator": "gdscript"
 }, {
+    "name": "GEDCOM",
+    "extensions": [".ged"],
+    "prismIndicator": "gedcom"
+}, {
     "name": "GLSL",
     "extensions": [".glsl", ".fp", ".frag", ".frg", ".fs", ".fsh", ".fshader", ".geo", ".geom", ".glslf", ".glslv", ".gs", ".gshader", ".shader", ".tesc", ".tese", ".vert", ".vrx", ".vsh", ".vshader"],
     "prismIndicator": "glsl"
+}, {
+    "name": "GN",
+    "extensions": [".gn", ".gni"],
+    "prismIndicator": "gn"
 }, {
     "name": "Game Maker Language",
     "extensions": [".gml"]
@@ -504,9 +580,17 @@
     "extensions": [".grace"],
     "prismIndicator": "grace"
 }, {
+    "name": "Gradle",
+    "extensions": [".gradle"],
+    "prismIndicator": "gradle"
+}, {
     "name": "Grammatical Framework",
     "extensions": [".gf"],
     "prismIndicator": "gf"
+}, {
+    "name": "GraphQL",
+    "extensions": [".graphql", ".gql", ".graphqls"],
+    "prismIndicator": "graphql"
 }, {
     "name": "Groovy",
     "extensions": [".groovy", ".grt", ".gtpl", ".gvy"],
@@ -516,6 +600,10 @@
     "extensions": [".gsp"],
     "prismIndicator": "gsp"
 }, {
+    "name": "HAProxy",
+    "extensions": [".cfg"],
+    "prismIndicator": "haproxy"
+}, {
     "name": "HCL",
     "extensions": [".hcl", ".tf", ".tfvars", ".workflow"],
     "prismIndicator": "hcl"
@@ -524,9 +612,53 @@
     "extensions": [".hlsl", ".cginc", ".fx", ".fxh", ".hlsli"],
     "prismIndicator": "hlsl"
 }, {
+    "name": "HTML",
+    "extensions": [".html", ".htm", ".html.hl", ".inc", ".st", ".xht", ".xhtml"],
+    "prismIndicator": "markup"
+}, {
+    "name": "HTML+Django",
+    "extensions": [".jinja", ".jinja2", ".mustache", ".njk"],
+    "prismIndicator": "markup"
+}, {
+    "name": "HTML+ECR",
+    "extensions": [".ecr"],
+    "prismIndicator": "markup"
+}, {
+    "name": "HTML+EEX",
+    "extensions": [".eex"],
+    "prismIndicator": "markup"
+}, {
+    "name": "HTML+ERB",
+    "extensions": [".erb", ".erb.deface", ".rhtml"],
+    "prismIndicator": "markup"
+}, {
+    "name": "HTML+PHP",
+    "extensions": [".phtml"],
+    "prismIndicator": "markup"
+}, {
+    "name": "HTML+Razor",
+    "extensions": [".cshtml", ".razor"],
+    "prismIndicator": "markup"
+}, {
+    "name": "HTTP",
+    "extensions": [".http"],
+    "prismIndicator": "http"
+}, {
+    "name": "HXML",
+    "extensions": [".hxml"],
+    "prismIndicator": "hxml"
+}, {
     "name": "Hack",
     "extensions": [".hack", ".hh", ".hhi", ".php"],
     "prismIndicator": "hack"
+}, {
+    "name": "Haml",
+    "extensions": [".haml", ".haml.deface"],
+    "prismIndicator": "markup"
+}, {
+    "name": "Handlebars",
+    "extensions": [".handlebars", ".hbs"],
+    "prismIndicator": "markup"
 }, {
     "name": "Harbour",
     "extensions": [".hb"],
@@ -564,6 +696,10 @@
     "extensions": [".ipf"],
     "prismIndicator": "igor"
 }, {
+    "name": "INI",
+    "extensions": [".ini", ".cfg", ".dof", ".lektorproject", ".prefs", ".pro", ".properties"],
+    "prismIndicator": "ini"
+}, {
     "name": "Idris",
     "extensions": [".idr", ".lidr"],
     "prismIndicator": "idris"
@@ -596,6 +732,18 @@
     "name": "JFlex",
     "extensions": [".flex", ".jflex"],
     "prismIndicator": "jflex"
+}, {
+    "name": "JSON",
+    "extensions": [".json", ".avsc", ".geojson", ".gltf", ".har", ".ice", ".JSON-tmLanguage", ".jsonl", ".mcmeta", ".tfstate", ".tfstate.backup", ".topojson", ".webapp", ".webmanifest", ".yy", ".yyp"],
+    "prismIndicator": "json"
+}, {
+    "name": "JSON5",
+    "extensions": [".json5"],
+    "prismIndicator": "json5"
+}, {
+    "name": "JSONLD",
+    "extensions": [".jsonld"],
+    "prismIndicator": "jsonld"
 }, {
     "name": "JSONiq",
     "extensions": [".jq"],
@@ -643,6 +791,10 @@
     "extensions": [".jl"],
     "prismIndicator": "julia"
 }, {
+    "name": "Jupyter Notebook",
+    "extensions": [".ipynb"],
+    "prismIndicator": "markup"
+}, {
     "name": "KRL",
     "extensions": [".krl"],
     "prismIndicator": "krl"
@@ -650,6 +802,10 @@
     "name": "Kaitai Struct",
     "extensions": [".ksy"],
     "prismIndicator": "ksy"
+}, {
+    "name": "Kit",
+    "extensions": [".kit"],
+    "prismIndicator": "markup"
 }, {
     "name": "Kotlin",
     "extensions": [".kt", ".ktm", ".kts"],
@@ -679,9 +835,17 @@
     "extensions": [".lasso", ".las", ".lasso8", ".lasso9"],
     "prismIndicator": "lasso"
 }, {
+    "name": "Latte",
+    "extensions": [".latte"],
+    "prismIndicator": "markup"
+}, {
     "name": "Lean",
     "extensions": [".lean", ".hlean"],
     "prismIndicator": "lean"
+}, {
+    "name": "Less",
+    "extensions": [".less"],
+    "prismIndicator": "markup"
 }, {
     "name": "Lex",
     "extensions": [".l", ".lex"],
@@ -694,6 +858,10 @@
     "name": "Limbo",
     "extensions": [".b", ".m"],
     "prismIndicator": "limbo"
+}, {
+    "name": "Liquid",
+    "extensions": [".liquid"],
+    "prismIndicator": "markup"
 }, {
     "name": "Literate Agda",
     "extensions": [".lagda"]
@@ -762,6 +930,10 @@
     "extensions": [".mq5", ".mqh"],
     "prismIndicator": "mql5"
 }, {
+    "name": "MTML",
+    "extensions": [".mtml"],
+    "prismIndicator": "markup"
+}, {
     "name": "MUF",
     "extensions": [".muf", ".m"],
     "prismIndicator": "muf"
@@ -777,6 +949,14 @@
     "name": "Mako",
     "extensions": [".mako", ".mao"],
     "prismIndicator": "mako"
+}, {
+    "name": "Marko",
+    "extensions": [".marko"],
+    "prismIndicator": "markup"
+}, {
+    "name": "Mask",
+    "extensions": [".mask"],
+    "prismIndicator": "markup"
 }, {
     "name": "Mathematica",
     "extensions": [".mathematica", ".cdf", ".m", ".ma", ".mt", ".nb", ".nbp", ".wl", ".wlt"],
@@ -846,6 +1026,14 @@
     "extensions": [".ncl"],
     "prismIndicator": "ncl"
 }, {
+    "name": "NEON",
+    "extensions": [".neon"],
+    "prismIndicator": "neon"
+}, {
+    "name": "NL",
+    "extensions": [".nl"],
+    "prismIndicator": "nl"
+}, {
     "name": "NSIS",
     "extensions": [".nsi", ".nsh"],
     "prismIndicator": "nsis"
@@ -877,9 +1065,17 @@
     "extensions": [".nf"],
     "prismIndicator": "nextflow"
 }, {
+    "name": "Nginx",
+    "extensions": [".nginxconf", ".vhost"],
+    "prismIndicator": "nginx"
+}, {
     "name": "Nim",
     "extensions": [".nim", ".nim.cfg", ".nimble", ".nimrod", ".nims"],
     "prismIndicator": "nim"
+}, {
+    "name": "Ninja",
+    "extensions": [".ninja"],
+    "prismIndicator": "ninja"
 }, {
     "name": "Nit",
     "extensions": [".nit"],
@@ -900,6 +1096,10 @@
     "name": "OCaml",
     "extensions": [".ml", ".eliom", ".eliomi", ".ml4", ".mli", ".mll", ".mly"],
     "prismIndicator": "ocaml"
+}, {
+    "name": "ObjDump",
+    "extensions": [".objdump"],
+    "prismIndicator": "objdump"
 }, {
     "name": "ObjectScript",
     "extensions": [".cls"],
@@ -1023,6 +1223,14 @@
     "extensions": [".pl", ".al", ".cgi", ".fcgi", ".perl", ".ph", ".plx", ".pm", ".psgi", ".t"],
     "prismIndicator": "perl"
 }, {
+    "name": "Pic",
+    "extensions": [".pic", ".chem"],
+    "prismIndicator": "markup"
+}, {
+    "name": "Pickle",
+    "extensions": [".pkl"],
+    "prismIndicator": "pickle"
+}, {
     "name": "PicoLisp",
     "extensions": [".l"],
     "prismIndicator": "picolisp"
@@ -1035,6 +1243,10 @@
     "extensions": [".pike", ".pmod"],
     "prismIndicator": "pike"
 }, {
+    "name": "PlantUML",
+    "extensions": [".puml", ".iuml", ".plantuml"],
+    "prismIndicator": "plantuml"
+}, {
     "name": "PogoScript",
     "extensions": [".pogo"],
     "prismIndicator": "pogoscript"
@@ -1042,6 +1254,14 @@
     "name": "Pony",
     "extensions": [".pony"],
     "prismIndicator": "pony"
+}, {
+    "name": "PostCSS",
+    "extensions": [".pcss", ".postcss"],
+    "prismIndicator": "markup"
+}, {
+    "name": "PostScript",
+    "extensions": [".ps", ".eps", ".epsi", ".pfa"],
+    "prismIndicator": "markup"
 }, {
     "name": "PowerBuilder",
     "extensions": [".pbt", ".sra", ".sru", ".srw"],
@@ -1051,9 +1271,17 @@
     "extensions": [".ps1", ".psd1", ".psm1"],
     "prismIndicator": "powershell"
 }, {
+    "name": "Prisma",
+    "extensions": [".prisma"],
+    "prismIndicator": "prisma"
+}, {
     "name": "Processing",
     "extensions": [".pde"],
     "prismIndicator": "processing"
+}, {
+    "name": "Proguard",
+    "extensions": [".pro"],
+    "prismIndicator": "proguard"
 }, {
     "name": "Prolog",
     "extensions": [".pl", ".pro", ".prolog", ".yap"],
@@ -1061,6 +1289,10 @@
 }, {
     "name": "Propeller Spin",
     "extensions": [".spin"]
+}, {
+    "name": "Pug",
+    "extensions": [".jade", ".pug"],
+    "prismIndicator": "markup"
 }, {
     "name": "Puppet",
     "extensions": [".pp"],
@@ -1103,6 +1335,10 @@
     "extensions": [".r", ".rd", ".rsx"],
     "prismIndicator": "r"
 }, {
+    "name": "RAML",
+    "extensions": [".raml"],
+    "prismIndicator": "markup"
+}, {
     "name": "REALbasic",
     "extensions": [".rbbas", ".rbfrm", ".rbmnu", ".rbres", ".rbtbar", ".rbuistate"],
     "prismIndicator": "realbasic"
@@ -1114,6 +1350,10 @@
     "name": "RPC",
     "extensions": [".x"],
     "prismIndicator": "rpc"
+}, {
+    "name": "RUNOFF",
+    "extensions": [".rnh", ".rno"],
+    "prismIndicator": "markup"
 }, {
     "name": "Racket",
     "extensions": [".rkt", ".rktd", ".rktl", ".scrbl"],
@@ -1155,13 +1395,29 @@
     "extensions": [".rs", ".rsh"],
     "prismIndicator": "renderscript"
 }, {
+    "name": "Rich Text Format",
+    "extensions": [".rtf"],
+    "prismIndicator": "markup"
+}, {
     "name": "Ring",
     "extensions": [".ring"],
     "prismIndicator": "ring"
 }, {
+    "name": "Riot",
+    "extensions": [".riot"],
+    "prismIndicator": "markup"
+}, {
     "name": "RobotFramework",
     "extensions": [".robot"],
     "prismIndicator": "robotframework"
+}, {
+    "name": "Roff",
+    "extensions": [".roff", ".1", ".1in", ".1m", ".1x", ".2", ".3", ".3in", ".3m", ".3p", ".3pm", ".3qt", ".3x", ".4", ".5", ".6", ".7", ".8", ".9", ".l", ".man", ".mdoc", ".me", ".ms", ".n", ".nr", ".rno", ".tmac"],
+    "prismIndicator": "markup"
+}, {
+    "name": "Roff Manpage",
+    "extensions": [".1", ".1in", ".1m", ".1x", ".2", ".3", ".3in", ".3m", ".3p", ".3pm", ".3qt", ".3x", ".4", ".5", ".6", ".7", ".8", ".9", ".man", ".mdoc"],
+    "prismIndicator": "markup"
 }, {
     "name": "Rouge",
     "extensions": [".rg"],
@@ -1179,17 +1435,41 @@
     "extensions": [".sas"],
     "prismIndicator": "sas"
 }, {
+    "name": "SCSS",
+    "extensions": [".scss"],
+    "prismIndicator": "markup"
+}, {
     "name": "SMT",
     "extensions": [".smt2", ".smt"],
     "prismIndicator": "smt"
+}, {
+    "name": "SPARQL",
+    "extensions": [".sparql", ".rq"],
+    "prismIndicator": "sparql"
 }, {
     "name": "SQF",
     "extensions": [".sqf", ".hqf"],
     "prismIndicator": "sqf"
 }, {
+    "name": "SQL",
+    "extensions": [".sql", ".cql", ".ddl", ".inc", ".mysql", ".prc", ".tab", ".udf", ".viw"],
+    "prismIndicator": "sql"
+}, {
     "name": "SQLPL",
     "extensions": [".sql", ".db2"],
     "prismIndicator": "sqlpl"
+}, {
+    "name": "SRecode Template",
+    "extensions": [".srt"],
+    "prismIndicator": "markup"
+}, {
+    "name": "STON",
+    "extensions": [".ston"],
+    "prismIndicator": "ston"
+}, {
+    "name": "SVG",
+    "extensions": [".svg"],
+    "prismIndicator": "svg"
 }, {
     "name": "SWIG",
     "extensions": [".i"],
@@ -1203,9 +1483,17 @@
     "extensions": [".sls"],
     "prismIndicator": "saltstack"
 }, {
+    "name": "Sass",
+    "extensions": [".sass"],
+    "prismIndicator": "markup"
+}, {
     "name": "Scala",
     "extensions": [".scala", ".kojo", ".sbt", ".sc"],
     "prismIndicator": "scala"
+}, {
+    "name": "Scaml",
+    "extensions": [".scaml"],
+    "prismIndicator": "markup"
 }, {
     "name": "Scheme",
     "extensions": [".scm", ".sch", ".sld", ".sls", ".sps", ".ss"],
@@ -1246,6 +1534,10 @@
     "name": "Slice",
     "extensions": [".ice"],
     "prismIndicator": "slice"
+}, {
+    "name": "Slim",
+    "extensions": [".slim"],
+    "prismIndicator": "markup"
 }, {
     "name": "SmPL",
     "extensions": [".cocci"],
@@ -1290,9 +1582,21 @@
     "extensions": [".do", ".ado", ".doh", ".ihlp", ".mata", ".matah", ".sthlp"],
     "prismIndicator": "stata"
 }, {
+    "name": "Stylus",
+    "extensions": [".styl"],
+    "prismIndicator": "markup"
+}, {
+    "name": "SugarSS",
+    "extensions": [".sss"],
+    "prismIndicator": "markup"
+}, {
     "name": "SuperCollider",
     "extensions": [".sc", ".scd"],
     "prismIndicator": "supercollider"
+}, {
+    "name": "Svelte",
+    "extensions": [".svelte"],
+    "prismIndicator": "markup"
 }, {
     "name": "Swift",
     "extensions": [".swift"],
@@ -1308,6 +1612,10 @@
     "name": "TLA",
     "extensions": [".tla"],
     "prismIndicator": "tla"
+}, {
+    "name": "TOML",
+    "extensions": [".toml"],
+    "prismIndicator": "toml"
 }, {
     "name": "TSQL",
     "extensions": [".sql"],
@@ -1329,6 +1637,14 @@
     "extensions": [".tcsh", ".csh"],
     "prismIndicator": "tcsh"
 }, {
+    "name": "TeX",
+    "extensions": [".tex", ".aux", ".bbx", ".cbx", ".cls", ".dtx", ".ins", ".lbx", ".ltx", ".mkii", ".mkiv", ".mkvi", ".sty", ".toc"],
+    "prismIndicator": "markup"
+}, {
+    "name": "Tea",
+    "extensions": [".tea"],
+    "prismIndicator": "markup"
+}, {
     "name": "Terra",
     "extensions": [".t"],
     "prismIndicator": "terra"
@@ -1340,6 +1656,14 @@
     "name": "Turing",
     "extensions": [".t", ".tu"],
     "prismIndicator": "turing"
+}, {
+    "name": "Turtle",
+    "extensions": [".ttl"],
+    "prismIndicator": "turtle"
+}, {
+    "name": "Twig",
+    "extensions": [".twig"],
+    "prismIndicator": "markup"
 }, {
     "name": "TypeScript",
     "extensions": [".ts"],
@@ -1391,6 +1715,10 @@
     "extensions": [".v", ".veo"],
     "prismIndicator": "verilog"
 }, {
+    "name": "Vim Snippet",
+    "extensions": [".snip", ".snippet", ".snippets"],
+    "prismIndicator": "markup"
+}, {
     "name": "Vim script",
     "extensions": [".vim", ".vba", ".vmb"],
     "prismIndicator": "vim"
@@ -1403,6 +1731,10 @@
     "extensions": [".volt"],
     "prismIndicator": "volt"
 }, {
+    "name": "Vue",
+    "extensions": [".vue"],
+    "prismIndicator": "markup"
+}, {
     "name": "WebAssembly",
     "extensions": [".wast", ".wat"],
     "prismIndicator": "webassembly"
@@ -1410,6 +1742,10 @@
     "name": "WebIDL",
     "extensions": [".webidl"],
     "prismIndicator": "webidl"
+}, {
+    "name": "WebVTT",
+    "extensions": [".vtt"],
+    "prismIndicator": "webvtt"
 }, {
     "name": "Wollok",
     "extensions": [".wlk"],
@@ -1422,6 +1758,14 @@
     "name": "XC",
     "extensions": [".xc"],
     "prismIndicator": "xc"
+}, {
+    "name": "XML",
+    "extensions": [".xml", ".adml", ".admx", ".ant", ".axml", ".builds", ".ccproj", ".ccxml", ".clixml", ".cproject", ".cscfg", ".csdef", ".csl", ".csproj", ".ct", ".depproj", ".dita", ".ditamap", ".ditaval", ".dll.config", ".dotsettings", ".filters", ".fsproj", ".fxml", ".glade", ".gml", ".gmx", ".grxml", ".iml", ".ivy", ".jelly", ".jsproj", ".kml", ".launch", ".mdpolicy", ".mjml", ".mm", ".mod", ".mxml", ".natvis", ".ncl", ".ndproj", ".nproj", ".nuspec", ".odd", ".osm", ".pkgproj", ".pluginspec", ".proj", ".props", ".ps1xml", ".psc1", ".pt", ".rdf", ".resx", ".rss", ".sch", ".scxml", ".sfproj", ".shproj", ".srdf", ".storyboard", ".sublime-snippet", ".targets", ".tml", ".ts", ".tsx", ".ui", ".urdf", ".ux", ".vbproj", ".vcxproj", ".vsixmanifest", ".vssettings", ".vstemplate", ".vxml", ".wixproj", ".workflow", ".wsdl", ".wsf", ".wxi", ".wxl", ".wxs", ".x3d", ".xacro", ".xaml", ".xib", ".xlf", ".xliff", ".xmi", ".xml.dist", ".xproj", ".xsd", ".xspec", ".xul", ".zcml"],
+    "prismIndicator": "xml"
+}, {
+    "name": "XPages",
+    "extensions": [".xsp-config", ".xsp.metadata"],
+    "prismIndicator": "xpages"
 }, {
     "name": "XProc",
     "extensions": [".xpl", ".xproc"],
@@ -1447,9 +1791,21 @@
     "extensions": [".xtend"],
     "prismIndicator": "xtend"
 }, {
+    "name": "YAML",
+    "extensions": [".yml", ".mir", ".reek", ".rviz", ".sublime-syntax", ".syntax", ".yaml", ".yaml-tmlanguage", ".yaml.sed", ".yml.mysql"],
+    "prismIndicator": "yaml"
+}, {
+    "name": "YANG",
+    "extensions": [".yang"],
+    "prismIndicator": "yang"
+}, {
     "name": "YARA",
     "extensions": [".yar", ".yara"],
     "prismIndicator": "yara"
+}, {
+    "name": "YASnippet",
+    "extensions": [".yasnippet"],
+    "prismIndicator": "markup"
 }, {
     "name": "Yacc",
     "extensions": [".y", ".yacc", ".yy"],
@@ -1483,9 +1839,21 @@
     "extensions": [".zimpl", ".zmpl", ".zpl"],
     "prismIndicator": "zimpl"
 }, {
+    "name": "desktop",
+    "extensions": [".desktop", ".desktop.in"],
+    "prismIndicator": "desktop"
+}, {
+    "name": "dircolors",
+    "extensions": [".dircolors"],
+    "prismIndicator": "dircolors"
+}, {
     "name": "eC",
     "extensions": [".ec", ".eh"],
     "prismIndicator": "ec"
+}, {
+    "name": "edn",
+    "extensions": [".edn"],
+    "prismIndicator": "edn"
 }, {
     "name": "fish",
     "extensions": [".fish"],
@@ -1501,6 +1869,10 @@
     "name": "mupad",
     "extensions": [".mu"],
     "prismIndicator": "mupad"
+}, {
+    "name": "nanorc",
+    "extensions": [".nanorc"],
+    "prismIndicator": "nanorc"
 }, {
     "name": "nesC",
     "extensions": [".nc"],
