@@ -1,5 +1,7 @@
 # langline
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/851b4c5df5ac4ca89564dd773e57f589)](https://app.codacy.com/manual/neel1996/langline?utm_source=github.com&utm_medium=referral&utm_content=neel1996/langline&utm_campaign=Badge_Grade_Dashboard)
+
 <p align="center">
     <p align="center">
         <img width="240" alt="icon" src="https://user-images.githubusercontent.com/47709856/91642490-5eab0580-ea49-11ea-97ec-3bc64cc4a9a5.png">
