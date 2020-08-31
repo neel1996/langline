@@ -16,6 +16,81 @@ Node library for getting information about programming languages by supplying th
 - Fully qualified file name with the extension
 - The actual file which holds the code
 
+## Importing LangLine to a project
+
+```
+// ES5 require
+const { LangLine } = require("@itassistors/langline");
+
+// ES6 import
+import { LangLine } from "@itassistors/langline";
+```
+
+- Fetching language with Extension
+
+```
+const { LangLine } = require("@itassistors/langline");
+
+const extension = "js"; //file extension
+const language = new LangLine().withExtension(extension);
+
+console.log(language);
+```
+
+- Fetching language with File Name
+
+```
+const { LangLine } = require("@itassistors/langline");
+
+const fileName = "addRepoApi.js"; //file name with extension
+const language = new LangLine().withFileName(fileName);
+
+console.log(language);
+```
+
+- Fetching language by supplying an actual file
+
+>Note: In this case, the supplied file will be validated to check its existance and confirm its type. If the validation fails, then the language will not be returned. 
+
+```
+const { LangLine } = require("@itassistors/langline");
+const path = require("path");
+
+async function langline() {
+  const fileName = path.join(__dirname, "..", "server.js"); //file name with extension
+  const language = await new LangLine()
+    .withFile(fileName)
+    .then((lang) => {
+      return lang;
+    })
+    .catch((err) => {
+      console.log("ERROR: ", err);
+    });
+
+  console.log(language);
+}
+
+langline();
+```
+
+## Output
+
+```
+{
+  name: 'JavaScript',
+  extensions: [
+    '.js',   '._js',   '.bones',
+    '.cjs',  '.es',    '.es6',
+    '.frag', '.gs',    '.jake',
+    '.jsb',  '.jscad', '.jsfl',
+    '.jsm',  '.jss',   '.mjs',
+    '.njs',  '.pac',   '.sjs',
+    '.ssjs', '.xsjs',  '.xsjslib'
+  ],
+  prismIndicator: 'javascript'
+}
+```
+
 The programming language dataset is adapted from github linguist language list
 
 ## Add a new Language
