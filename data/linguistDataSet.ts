@@ -1,5 +1,5 @@
 import { LangData } from "./../lib/interface/LangDataInterface";
-const languageDataSet: LangData[] = [{
+const languageData: LangData[] = [{
     name: "1C Enterprise",
     extensions: [".bsl", ".os"]
 }, {
@@ -1904,4 +1904,4 @@ const languageDataSet: LangData[] = [{
     prismIndicator: "xbase"
 }];
 
-export { languageDataSet };
+export { languageData };
