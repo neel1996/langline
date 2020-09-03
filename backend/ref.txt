@@ -1,0 +1,6 @@
+{ name: 'AngelScript', founder: 'Andreas Jönsson' }
+{ name: 'AMPL', founder: [
+    'Robert Fourer',
+    Brian Kernighan
+] }
+{ name: '1C Enterprise', founder: 'Boris Nuraliev' }
