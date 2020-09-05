@@ -343,7 +343,7 @@
     "extensions": [".d"],
     "prismIndicator": "dtrace"
 }, {
-    "name": "Dafny",
+    "name": "Dafny CFC",
     "extensions": [".dfy"],
     "prismIndicator": "dafny"
 }, {
@@ -394,10 +394,6 @@
     "name": "EJS",
     "extensions": [".ejs"],
     "prismIndicator": "markup"
-}, {
-    "name": "EML",
-    "extensions": [".eml", ".mbox"],
-    "prismIndicator": "eml"
 }, {
     "name": "EQ",
     "extensions": [".eq"],

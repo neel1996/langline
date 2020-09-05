@@ -33,3 +33,15 @@
 
 {name:'CWL', founder:[' Peter Amstutz, John Chilton, Nebojsa Tijanic, and Michael R. Crusoe ']}
 
+{ name: 'Alpine Abuild', founder: [] }
+{ name: 'CLIPS', founder: [] }
+{ name: 'Batchfile', founder: [] }
+{ name: 'Click', founder: [] }
+{ name: 'API Blueprint', founder: [] }
+{ name: 'Augeas', founder: [] }
+{name:'ColdFusion CFC', founder:['Jeremy Allaire']}
+{name:'Csound',founder:['Barry Vercoe']}
+{name:'BlitzBasic', founder:['Mark Sibly']}
+{name:'BibTeX',founder:['Oren Patashnik, Leslie Lamport']}
+{name:'DTrace',founder:['Bryan Cantrill, Adam Leventhal, Mike Shapiro (Sun Microsystems)']}
+{name:'Dafny',founder:['Rustan Leino']}
