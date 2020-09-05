@@ -173,11 +173,11 @@ const languageDataSet: LangData[] = [{
     extensions: [".c", ".cats", ".h", ".idc"],
     prismIndicator: "c"
 }, {
-    name: "C#",
+    name: "c sharp",
     extensions: [".cs", ".cake", ".csx", ".linq"],
     prismIndicator: "csharp"
 }, {
-    name: "C++",
+    name: "cpp",
     extensions: [".cpp", ".c++", ".cc", ".cp", ".cxx", ".h", ".h++", ".hh", ".hpp", ".hxx", ".inc", ".inl", ".ino", ".ipp", ".re", ".tcc", ".tpp"],
     prismIndicator: "cpp"
 }, {
@@ -252,9 +252,9 @@ const languageDataSet: LangData[] = [{
     extensions: [".icl", ".dcl"],
     prismIndicator: "clean"
 }, {
-    name: "Click",
-    extensions: [".click"],
-    prismIndicator: "click"
+    name: "cilk",
+    extensions: [".c",".c++"],
+    prismIndicator: "cilk"
 }, {
     name: "Clojure",
     extensions: [".clj", ".boot", ".cl2", ".cljc", ".cljs", ".cljs.hl", ".cljscm", ".cljx", ".hic"],
