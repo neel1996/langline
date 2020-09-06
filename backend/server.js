@@ -1,135 +1,136 @@
-const express = require('express');
-const axios = require('axios');
-const cheerio = require('cheerio');
-const app = express();
-const puppeteer = require('puppeteer');
-const EventEmitter = require('events');
-const emitter = new EventEmitter();
+const puppeteer = require("puppeteer");
+// const EventEmitter = require('events');
+const fs = require("fs");
+const langSet = require("../data/linguistDataSet");
+const { connected } = require("process");
 
-const langSet = require('../data/linguistDataSet');
-const { connected } = require('process');
-
-require('events').EventEmitter.defaultMaxListeners = Infinity;
-var langObj = [{}];
-
-// async function handler() {
-
-// }
+require("events").EventEmitter.defaultMaxListeners = Infinity;
+var langObj = [];
+var localObj = {};
+var jsonData;
+const users = [];
+let k = 0;
 
 (async function puppetLoader() {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
-    let k = 0;
 
-    langSet.forEach(async(element, index) => {
-        let data = element.name;
-        // console.log(data);
+    for (let i = 50; i < 100; i++) {
+        let data = langSet[i].name;
         let url = encodeURI(
             `https://www.google.com/search?q=${data} programming language founder`
         );
-        // console.log(url);
         let text;
 
         try {
             await page.goto(url, {
-                waitUntil: 'load',
+                waitUntil: "load",
                 timeout: 0,
             });
             try {
-                await page.waitForSelector('.FLP8od').catch((err) => {
-                    // console.log(`Error-${data} :` + err);
-                });
-
-                text = await page
-                    .$eval('.FLP8od', (el) => {
-                        return [el.innerHTML];
+                await page
+                    .evaluate(() => {
+                        return document.querySelector(".FLP8od").innerText;
                     })
                     .then(async(result) => {
-                        const localObj = {
-                            name: data,
-                            founder: [...result],
-                        };
-                        langObj.push(localObj);
-                        console.log(langObj[k]);
-                        k++;
+                        printOutput([result], data);
                     })
                     .catch(async(err) => {
-                        await page.waitForSelector('.Z0LcW').catch((err) => {
-                            // console.log(`Error-${data} : ` + err);
-                        });
-                        text = await page
-                            .$eval('.Z0LcW', (el) => {
-                                return [el.innerHTML];
+                        await page.waitForSelector('.Z0LcW').catch(err => {
+                            // console.log("errrrr");
+                        })
+                        await page
+                            .$eval(".Z0LcW", (el) => {
+                                return el.innerHTML;
                             })
-                            .then(async(res) => {
-                                const localObj = {
-                                    name: data,
-                                    founder: [...res],
-                                };
-                                langObj.push(localObj);
-                                console.log(langObj[k]);
-                                k++;
+                            .then(async(result) => {
+                                printOutput([result], data);
                             })
                             .catch(async(err) => {
                                 await page
                                     .evaluate(() => {
                                         return document
-                                            .querySelector('.ztXv9')
-                                            .getElementsByTagName('th')[1]
-                                            .innerText;
+                                            .querySelector(".ztXv9")
+                                            .getElementsByTagName("th")[1].innerText;
                                     })
                                     .then(async(value) => {
-                                        const localObj = {
-                                            name: data,
-                                            founder: [...value],
-                                        };
-                                        langObj.push(localObj);
-                                        console.log(langObj[k]);
-                                        k++;
+                                        printOutput([value], data);
                                     })
                                     .catch(async(err) => {
                                         const element = await page
-                                            .$$eval('.title', (anchors) => {
-                                                return anchors.map(
-                                                    (anchor) =>
-                                                    anchor.textContent
-                                                );
+                                            .$$eval(".title", (anchors) => {
+                                                return anchors.map((anchor) => anchor.textContent);
                                             })
 
                                         .then(async(src) => {
-                                                const localObj = {
-                                                    name: data,
-                                                    founder: [...src],
-                                                };
-                                                langObj.push(localObj);
-                                                console.log(langObj[k]);
-                                                k++;
+                                                printOutput(src, data);
                                             })
                                             .catch(async(err) => {
-                                                const localObj = {
-                                                    name: data,
-                                                    founder: [],
-                                                };
-                                                langObj.push(localObj);
-                                                console.log(langObj[k]);
-                                                k++;
+                                                await page
+                                                    .evaluate(() => {
+                                                        return document
+                                                            .querySelector(".ztXv9")
+                                                            .getElementsByTagName("td")[1].innerText;
+                                                    })
+                                                    .then(async(res) => {
+                                                        printOutput([res], data);
+                                                    })
+                                                    .catch(async(err) => {
+                                                        await page
+                                                            .$eval(".LrzXr", (el) => {
+                                                                return el.innerHTML;
+                                                            })
+                                                            .then(async(result) => {
+                                                                printOutput([result], data);
+                                                            })
+                                                            .catch(async(err) => {
+                                                                printOutput([], data);
+                                                            });
+                                                    });
                                             });
                                     })
                                     .catch(async(err) => {
-                                        console.log('Error:::' + err);
+                                        console.log("Error:::" + err);
                                     });
-                            })
-                            .catch(async(err) => {
-                                console.log('Error::' + err);
                             });
+                    })
+                    .catch(async(err) => {
+                        console.log("Error::" + err);
                     });
             } catch (err) {
-                console.log('Error5' + err);
+                console.log("Error5" + err);
             }
         } catch (err) {
-            console.log('Error6' + err);
+            console.log("Error6" + err);
         }
-    });
-    // await page.close();
-    // await browser.close();
+    }
+    fileSystem(users);
 })();
+
+function printOutput(value, data) {
+    localObj = {
+        name: data,
+        founder: value,
+    };
+    users.push(localObj);
+    k++;
+}
+
+var parseData;
+
+function fileSystem(users) {
+    jsonData = fs.readFileSync("../data_set/founder.json");
+
+    if (jsonData.buffer.byteLength === 0) {
+        langObj.push(users);
+        fs.writeFileSync("../data_set/founder.json", JSON.stringify(langObj));
+        console.log("Buffer!");
+    } else {
+        parseData = JSON.parse(jsonData);
+        langObj.push(parseData);
+        langObj.push(users);
+        console.log(langObj);
+        fs.writeFileSync("../data_set/founder.json", JSON.stringify(langObj));
+        console.log("Completed!");
+    }
+}

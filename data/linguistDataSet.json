@@ -144,7 +144,7 @@
     "extensions": [".blade", ".blade.php"],
     "prismIndicator": "markup"
 }, {
-    "name": "BlitzBasic",
+    "name": "Blitz Basic",
     "extensions": [".bb", ".decls"],
     "prismIndicator": "blitzbasic"
 }, {
@@ -431,11 +431,11 @@
     "extensions": [".erl", ".app.src", ".es", ".escript", ".hrl", ".xrl", ".yrl"],
     "prismIndicator": "erlang"
 }, {
-    "name": "F#",
+    "name": "F Sharp",
     "extensions": [".fs", ".fsi", ".fsx"],
     "prismIndicator": "fsharp"
 }, {
-    "name": "F*",
+    "name": "F Star",
     "extensions": [".fst"],
     "prismIndicator": "fstar"
 }, {
@@ -1171,7 +1171,7 @@
     "extensions": [".php", ".aw", ".ctp", ".fcgi", ".inc", ".php3", ".php4", ".php5", ".phps", ".phpt"],
     "prismIndicator": "php"
 }, {
-    "name": "PLSQL",
+    "name": "PL/SQL",
     "extensions": [".pls", ".bdy", ".ddl", ".fnc", ".pck", ".pkb", ".pks", ".plb", ".plsql", ".prc", ".spc", ".sql", ".tpb", ".tps", ".trg", ".vw"],
     "prismIndicator": "plsql"
 }, {
@@ -1309,7 +1309,7 @@
     "name": "Python console",
     "prismIndicator": "pycon"
 }, {
-    "name": "Q#",
+    "name": "Q Sharp",
     "extensions": [".qs"],
     "prismIndicator": "qsharp"
 }, {

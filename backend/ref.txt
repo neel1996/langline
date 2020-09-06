@@ -1,8 +1,8 @@
-{ name: 'AngelScript', founder: 'Andreas Jönsson' }
+{ name: 'AngelScript', founder: 'Andreas Jönsson' } #
 
-{ name: '1C Enterprise', founder: 'Boris Nuraliev' }
+{ name: '1C Enterprise', founder: 'Boris Nuraliev' } #
 
-{name : 'Apple script',founder: 'Apple Inc'}
+{name : 'Apple script',founder: 'Apple Inc'} #
 
 {name: 'Haskell', founder:[
     Lennart Augustsson, 
@@ -23,15 +23,15 @@
     Alastair Reid, 
     Colin Runciman, 
     Philip Wadler
-]}
+]} #
 
-{name: 'AspectJ', founder:[Mik Kersten]}
+{name: 'AspectJ', founder:[Mik Kersten]} #
 
-{name:'Asymptote', founder:[Andy Hammerlindl, John C. Bow...]}
+{name:'Asymptote', founder:[Andy Hammerlindl, John C. Bow...]} #
 
-{name: 'codeQl', founder:['Oege de Moor']}
+{name: 'codeQl', founder:['Oege de Moor']} #
 
-{name:'CWL', founder:[' Peter Amstutz, John Chilton, Nebojsa Tijanic, and Michael R. Crusoe ']}
+{name:'CWL', founder:[' Peter Amstutz, John Chilton, Nebojsa Tijanic, and Michael R. Crusoe ']} #
 
 { name: 'Alpine Abuild', founder: [] }
 { name: 'CLIPS', founder: [] }
@@ -39,9 +39,24 @@
 { name: 'Click', founder: [] }
 { name: 'API Blueprint', founder: [] }
 { name: 'Augeas', founder: [] }
+
 {name:'ColdFusion CFC', founder:['Jeremy Allaire']}
-{name:'Csound',founder:['Barry Vercoe']}
-{name:'BlitzBasic', founder:['Mark Sibly']}
-{name:'BibTeX',founder:['Oren Patashnik, Leslie Lamport']}
-{name:'DTrace',founder:['Bryan Cantrill, Adam Leventhal, Mike Shapiro (Sun Microsystems)']}
-{name:'Dafny',founder:['Rustan Leino']}
+{name:'Csound',founder:['Barry Vercoe']} #
+{name:'BlitzBasic', founder:['Mark Sibly']} #
+{name:'BibTeX',founder:['Oren Patashnik, Leslie Lamport']} #
+{name:'DTrace',founder:['Bryan Cantrill, Adam Leventhal, Mike Shapiro (Sun Microsystems)']} #
+{name:'Dafny',founder:['Rustan Leino']} #
+{name:'Dogescript',founder:['Zach Bruggeman']} #
+{name:'EBNF',founder:['Niklaus Wirth']} #
+{name:'EcLiPse',founder:['IBM']}
+
+
+Empty : 
+
+{ name: 'API Blueprint', founder: [] }
+{ name: 'Alpine Abuild', founder: [] }
+{ name: 'Augeas', founder: [] }
+{ name: 'CLIPS', founder: [] }
+{name: "CartoCSS",founder: []} 
+{ name: 'Cycript', founder: [] }
+{ name: 'Diff', founder: [] }
