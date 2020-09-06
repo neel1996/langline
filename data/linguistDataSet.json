@@ -749,9 +749,9 @@
     "extensions": [".jsx"],
     "prismIndicator": "jsx"
 }, {
-    "name": "Jasmin",
+    "name": "Jasmine",
     "extensions": [".j"],
-    "prismIndicator": "jasmin"
+    "prismIndicator": "jasmine"
 }, {
     "name": "Java",
     "extensions": [".java"],

@@ -59,4 +59,7 @@ Empty :
 { name: 'CLIPS', founder: [] }
 {name: "CartoCSS",founder: []} 
 { name: 'Cycript', founder: [] }
-{ name: 'Diff', founder: [] }
+{ name: 'Diff', founder: [] } 
+{ name: 'Filebench WML', founder: [] } 
+{ name: 'JSONiq', founder: [] }
+{ name: 'Isabelle ROOT', founder: [] }
