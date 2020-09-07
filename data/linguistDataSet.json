@@ -180,10 +180,6 @@
     "extensions": [".cpp", ".c++", ".cc", ".cp", ".cxx", ".h", ".h++", ".hh", ".hpp", ".hxx", ".inc", ".inl", ".ino", ".ipp", ".re", ".tcc", ".tpp"],
     "prismIndicator": "cpp"
 }, {
-    "name": "C2hs Haskell",
-    "extensions": [".chs"],
-    "prismIndicator": "c2hs"
-}, {
     "name": "CLIPS",
     "extensions": [".clp"],
     "prismIndicator": "clips"

@@ -1,0 +1,54 @@
+Processing, Prolog, ring, SPARQL
+
+No founder : 
+
+{ name: 'API Blueprint', founder: [] }
+{ name: 'Alpine Abuild', founder: [] }
+{ name: 'Augeas', founder: [] }
+{ name: 'CLIPS', founder: [] }
+{ name: 'CartoCSS',founder: []} 
+{ name: 'Cycript', founder: [] }
+{ name: 'Diff', founder: [] } 
+{ name: 'Filebench WML', founder: [] } 
+{ name: 'JSONiq', founder: [] }
+{ name: 'Isabelle ROOT', founder: [] }
+{ name: 'INI', founder: [] }
+{ name: 'Formatted', founder: [] }
+{ name: 'Gentoo Eclass', founder: [] }
+{ name: 'HTML+EEX', founder: [] }
+{ name: 'Kaitai Struct', founder: [] }
+{ name: 'LoomScript', founder: [] }
+{ name: 'M4Sugar', founder: [] } 
+{ name: 'Myghty', founder: [] }
+{ name: 'Nearley', founder: [] } 
+{ name: 'NetLinx', founder: [] } 
+{ name: 'NetLinx+ERB', founder: [] } 
+{ name: 'Nit', founder: [] }
+{ name: 'Nix', founder: [] }
+{ name: 'ObjDump', founder: [] }
+{ name: 'Pan', founder: [] }
+{ name: 'Parrot Internal Representation', founder: [] }
+{ name: 'Pawn', founder: [] }
+{ name: 'Pickle', founder: [] }
+{ name: 'pug', founder: [] }
+{ name: 'SMT', founder: [] }
+{ name: 'SQF', founder: [] }
+{ name: 'SRecode Template', founder: [] }
+{ name: 'STON', founder: [] }
+{ name: 'Slice', founder: [] }
+{ name: 'Smali', founder: [] }
+{ name: 'SourcePawn', founder: [] }
+{ name: 'TI Program', founder: [] }
+{ name: 'Terra', founder: [] }
+{ name: 'WebVTT', founder: [] }
+{ name: 'Wollok', founder: [] }
+{ name: 'YASnippet', founder: [] }
+{ name: 'Zimpl', founder: [] }
+{ name: 'desktop', founder: [] }
+{ name: 'dircolors', founder: [] }
+{ name: 'edn', founder: [] }
+{ name: 'mcfunction', founder: [] }
+{ name: 'nesC', founder: [] }
+{ name: 'wisp', founder: [] }
+{ name: 'ooc', founder: [] }
+
