@@ -1,5 +1,4 @@
 const puppeteer = require("puppeteer");
-// const EventEmitter = require('events');
 const fs = require("fs");
 const langSet = require("../data/linguistDataSet");
 const { connected } = require("process");
