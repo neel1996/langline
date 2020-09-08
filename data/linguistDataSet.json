@@ -768,7 +768,7 @@
     "extensions": [".jison"],
     "prismIndicator": "jison"
 }, {
-    "name": "Jison Lex",
+    "name": "Jison-Lex",
     "extensions": [".jisonlex"]
 }, {
     "name": "Jolie",
