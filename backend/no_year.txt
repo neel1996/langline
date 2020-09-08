@@ -2,4 +2,5 @@
 {"name": "CodeQL","year": [""]}
 {"name": "Kaitai Struct","year": [""]}
 {"name": "NEON","year": [""]}
-{"name": "Open Policy Agent","year": [""]} 
+{"name": "Open Policy Agent","year": [""]}
+{"name": "Wollok","year": [""]} 

@@ -14,7 +14,7 @@ let k = 0;
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
 
-    for (let i = 200; i < 300; i++) {
+    for (let i = 0; i < langSet.length; i++) {
         let langName = langSet[i].name;
         let url = encodeURI(
             `https://www.google.com/search?q=${langName} programming language founded year`
@@ -72,7 +72,6 @@ let k = 0;
                     });
             } catch (err) {
                 printOutput([], langName);
-                // console.log("Error5" + err);
             }
         } catch (err) {
             console.log("Error6" + err);
@@ -102,9 +101,7 @@ function fileSystem(users) {
         parseData = JSON.parse(jsonData);
         yearArr.push(parseData);
         yearArr.push(users);
-        // console.log(yearArr);
         fs.writeFileSync("../data_set/year.json", JSON.stringify(yearArr));
-        // fs.writeFileSync("../data_set/year.json", JSON.stringify(users));
         console.log("Completed!");
     }
 }
