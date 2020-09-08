@@ -659,7 +659,7 @@
     "name": "Literate Haskell",
     "founder": ["Richard Bird, Philip Wadler for Orwell, Donald Knuth"]
 }, {
-    "name": "LiveScript",
+    "name": "Live Script",
     "founder": ["Brandan Eich"]
 }, {
     "name": "Logos",
@@ -869,7 +869,7 @@
     "name": "OpenQASM",
     "founder": [" IBM's Quantum Information Software Kit "]
 }, {
-    "name": "OpenRC runscript",
+    "name": "OpenRC run script",
     "founder": ["OpenRC Developers"]
 }, {
     "name": "OpenSCAD",
