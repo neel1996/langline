@@ -1,0 +1,301 @@
+[{
+    "name": "1C Enterprise",
+    "year": ["1991"]
+}, {
+    "name": "4D",
+    "year": ["1984"]
+}, {
+    "name": "ABAP",
+    "year": ["1983"]
+}, {
+    "name": "ABNF",
+    "year": ["1959"]
+}, {
+    "name": "AGS Script",
+    "year": ["1997"]
+}, {
+    "name": "AMPL",
+    "year": ["1985"]
+}, {
+    "name": "ANTLR",
+    "year": ["1992"]
+}, {
+    "name": "API Blueprint",
+    "year": ["2013"]
+}, {
+    "name": "APL",
+    "year": ["27, 1966"]
+}, {
+    "name": "ASL",
+    "year": ["2014"]
+}, {
+    "name": "ASP",
+    "year": ["2002"]
+}, {
+    "name": "ATS",
+    "year": ["2019"]
+}, {
+    "name": "ActionScript",
+    "year": ["1998"]
+}, {
+    "name": "Ada",
+    "year": ["1980s"]
+}, {
+    "name": "Agda",
+    "year": ["1999"]
+}, {
+    "name": "Alloy",
+    "year": ["1997"]
+}, {
+    "name": "Alpine-Abuild",
+    "year": ["2006"]
+}, {
+    "name": "AngelScript",
+    "year": ["2003"]
+}, {
+    "name": "ApacheConf",
+    "year": ["1995"]
+}, {
+    "name": "Apex",
+    "year": ["2007"]
+}, {
+    "name": "Apollo Guidance Computer",
+    "year": ["1966"]
+}, {
+    "name": "AppleScript",
+    "year": ["1993"]
+}, {
+    "name": "Arc",
+    "year": ["2001"]
+}, {
+    "name": "AspectJ",
+    "year": ["2001"]
+}, {
+    "name": "Assembly",
+    "year": ["1949"]
+}, {
+    "name": "Asymptote",
+    "year": ["2004"]
+}, {
+    "name": "Augeas",
+    "year": ["1995"]
+}, {
+    "name": "AutoHotkey",
+    "year": ["2003"]
+}, {
+    "name": "AutoIt",
+    "year": ["1999"]
+}, {
+    "name": "Awk",
+    "year": ["1977"]
+}, {
+    "name": "Ballerina",
+    "year": ["2015"]
+}, {
+    "name": "Batchfile",
+    "year": ["1985"]
+}, {
+    "name": "Befunge",
+    "year": ["1993"]
+}, {
+    "name": "BibTeX",
+    "year": ["1985"]
+}, {
+    "name": "Bison",
+    "year": ["1985"]
+}, {
+    "name": "BitBake",
+    "year": ["2004"]
+}, {
+    "name": "Blade",
+    "year": ["2011"]
+}, {
+    "name": "Blitz Basic",
+    "year": ["2004"]
+}, {
+    "name": "BlitzMax",
+    "year": ["2004"]
+}, {
+    "name": "Bluespec",
+    "year": ["2003"]
+}, {
+    "name": "Boo",
+    "year": ["2003"]
+}, {
+    "name": "Brainfuck",
+    "year": ["1993"]
+}, {
+    "name": "Brightscript",
+    "year": ["2008"]
+}, {
+    "name": "C",
+    "year": ["1972 and 1973"]
+}, {
+    "name": "C sharp",
+    "year": ["2000"]
+}, {
+    "name": "Cpp",
+    "year": ["1980"]
+}, {
+    "name": "CLIPS",
+    "year": ["1985"]
+}, {
+    "name": "CMake",
+    "year": ["2000"]
+}, {
+    "name": "COBOL",
+    "year": ["1959"]
+}, {
+    "name": "COLLADA",
+    "year": ["2004"]
+}, {
+    "name": "CSON",
+    "year": ["1972"]
+}, {
+    "name": "CSS",
+    "year": ["1996"]
+}, {
+    "name": "CSV",
+    "year": ["2005"]
+}, {
+    "name": "CWeb",
+    "year": ["1987"]
+}, {
+    "name": "Cap'n Proto",
+    "year": ["June 17, 2014"]
+}, {
+    "name": "CartoCSS",
+    "year": ["2011"]
+}, {
+    "name": "Ceylon",
+    "year": ["2011"]
+}, {
+    "name": "Chapel",
+    "year": ["2009"]
+}, {
+    "name": "Charity",
+    "year": ["1992"]
+}, {
+    "name": "ChucK",
+    "year": ["2003"]
+}, {
+    "name": "Cirru",
+    "year": ["1980s"]
+}, {
+    "name": "Clarion",
+    "year": ["1986"]
+}, {
+    "name": "Clean",
+    "year": ["1987"]
+}, {
+    "name": "cilk",
+    "year": ["2010"]
+}, {
+    "name": "Clojure",
+    "year": ["2007"]
+}, {
+    "name": "Closure Templates",
+    "year": ["November 5, 2009"]
+}, {
+    "name": "CodeQL",
+    "year": [""]
+}, {
+    "name": "CoffeeScript",
+    "year": ["2009"]
+}, {
+    "name": "ColdFusion",
+    "year": ["1995"]
+}, {
+    "name": "ColdFusion CFC",
+    "year": ["1995"]
+}, {
+    "name": "Common Lisp",
+    "year": ["1960"]
+}, {
+    "name": "Common Workflow Language",
+    "year": ["2014"]
+}, {
+    "name": "Component Pascal",
+    "year": ["1997"]
+}, {
+    "name": "Cool",
+    "year": ["1996"]
+}, {
+    "name": "Coq",
+    "year": ["1989"]
+}, {
+    "name": "Crystal",
+    "year": ["November 10, 2009"]
+}, {
+    "name": "Csound",
+    "year": ["1986"]
+}, {
+    "name": "Csound Document",
+    "year": ["1986"]
+}, {
+    "name": "Csound Score",
+    "year": ["1986"]
+}, {
+    "name": "Cuda",
+    "year": ["2007"]
+}, {
+    "name": "Cycript",
+    "year": ["2007"]
+}, {
+    "name": "Cython",
+    "year": ["1991"]
+}, {
+    "name": "D",
+    "year": ["2001"]
+}, {
+    "name": "DIGITAL Command Language",
+    "year": ["1997"]
+}, {
+    "name": "DM",
+    "year": ["1994"]
+}, {
+    "name": "DTrace",
+    "year": ["2005"]
+}, {
+    "name": "Dafny CFC",
+    "year": ["2009"]
+}, {
+    "name": "Dart",
+    "year": ["2011"]
+}, {
+    "name": "DataWeave",
+    "year": ["2014"]
+}, {
+    "name": "Dhall",
+    "year": ["2017"]
+}, {
+    "name": "Diff",
+    "year": ["1974"]
+}, {
+    "name": "Dockerfile",
+    "year": ["2013"]
+}, {
+    "name": "Dogescript",
+    "year": ["2013"]
+}, {
+    "name": "Dylan",
+    "year": ["1992"]
+}, {
+    "name": "E",
+    "year": ["1997"]
+}, {
+    "name": "EBNF",
+    "year": ["1996"]
+}, {
+    "name": "ECL",
+    "year": ["2000"]
+}, {
+    "name": "ECLiPSe",
+    "year": ["2001"]
+}, {
+    "name": "EJS",
+    "year": ["2010"]
+}, {
+    "name": "EQ",
+    "year": [""]
+}]
