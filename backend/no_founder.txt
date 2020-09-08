@@ -51,4 +51,3 @@ No founder :
 { name: 'nesC', founder: [] }
 { name: 'wisp', founder: [] }
 { name: 'ooc', founder: [] }
-

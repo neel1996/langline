@@ -14,7 +14,7 @@ let k = 0;
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
 
-    for (let i = 400; i < langSet.length; i++) {
+    for (let i = 0; i < langSet.length; i++) {
         let data = langSet[i].name;
         let url = encodeURI(
             `https://www.google.com/search?q=${data} programming language founder`
@@ -109,7 +109,7 @@ function printOutput(value, data) {
         founder: value,
     };
     users.push(localObj);
-    langObj.push(users);
+    // langObj.push(users);
     k++;
 }
 

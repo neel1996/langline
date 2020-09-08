@@ -62,7 +62,7 @@
     "extensions": [".als"],
     "prismIndicator": "alloy"
 }, {
-    "name": "Alpine Abuild",
+    "name": "Alpine-Abuild",
     "prismIndicator": "abuild"
 }, {
     "name": "AngelScript",
