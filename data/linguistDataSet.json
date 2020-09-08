@@ -768,7 +768,7 @@
     "extensions": [".jison"],
     "prismIndicator": "jison"
 }, {
-    "name": "Jison Lex",
+    "name": "Jison-Lex",
     "extensions": [".jisonlex"]
 }, {
     "name": "Jolie",
@@ -866,7 +866,7 @@
     "extensions": [".lhs"],
     "prismIndicator": "lhaskell"
 }, {
-    "name": "LiveScript",
+    "name": "Live Script",
     "extensions": [".ls", "._ls"],
     "prismIndicator": "livescript"
 }, {
@@ -1140,7 +1140,7 @@
     "extensions": [".qasm"],
     "prismIndicator": "openqasm"
 }, {
-    "name": "OpenRC runscript",
+    "name": "OpenRC run script",
     "prismIndicator": "openrc"
 }, {
     "name": "OpenSCAD",

@@ -1,2 +1,5 @@
 {"name": "EQ","year": [""]}
 {"name": "CodeQL","year": [""]}
+{"name": "Kaitai Struct","year": [""]}
+{"name": "NEON","year": [""]}
+{"name": "Open Policy Agent","year": [""]} 

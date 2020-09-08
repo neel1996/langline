@@ -14,7 +14,7 @@ let k = 0;
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
 
-    for (let i = 100; i < 200; i++) {
+    for (let i = 200; i < 300; i++) {
         let langName = langSet[i].name;
         let url = encodeURI(
             `https://www.google.com/search?q=${langName} programming language founded year`
