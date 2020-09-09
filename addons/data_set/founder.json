@@ -1,0 +1,1444 @@
+[{
+    "name": "1C Enterprise",
+    "founder": ["Boris Nuraliev"]
+}, {
+    "name": "4D",
+    "founder": ["Guy Kawasaki"]
+}, {
+    "name": "ABAP",
+    "founder": ["SAP"]
+}, {
+    "name": "ABNF",
+    "founder": ["John Backus"]
+}, {
+    "name": "AGS Script",
+    "founder": ["Chris Jones"]
+}, {
+    "name": "AMPL",
+    "founder": ["Robert Fourer", "Brian Kernighan", "Bell Labs"]
+}, {
+    "name": "ANTLR",
+    "founder": ["Guido van Rossum"]
+}, {
+    "name": "API Blueprint",
+    "founder": [""]
+}, {
+    "name": "APL",
+    "founder": ["Kenneth E. Iverson"]
+}, {
+    "name": "ASL",
+    "founder": ["Achim Bernhardt PublicSoft GmbH"]
+}, {
+    "name": "ASP",
+    "founder": ["Microsoft"]
+}, {
+    "name": "ATS",
+    "founder": ["Hongwei Xi"]
+}, {
+    "name": "ActionScript",
+    "founder": ["Gary Grossman"]
+}, {
+    "name": "Ada",
+    "founder": ["Jean Ichbiah", "S. Tucker Taft"]
+}, {
+    "name": "Agda",
+    "founder": ["Ulf Norell"]
+}, {
+    "name": "Alloy",
+    "founder": ["Daniel Jackson"]
+}, {
+    "name": "Alpine-Abuild",
+    "founder": [""]
+}, {
+    "name": "AngelScript",
+    "founder": ["Andreas Jönsson"]
+}, {
+    "name": "Apache Conf",
+    "founder": ["Robert McCool"]
+}, {
+    "name": "Apex",
+    "founder": ["Salesforce.com"]
+}, {
+    "name": "Apollo Guidance Computer",
+    "founder": ["Charles Stark Draper"]
+}, {
+    "name": "AppleScript",
+    "founder": ["Apple Inc"]
+}, {
+    "name": "Arc",
+    "founder": ["Paul Graham"]
+}, {
+    "name": "AspectJ",
+    "founder": ["Mik Kersten"]
+}, {
+    "name": "Assembly",
+    "founder": ["David J. Wheeler"]
+}, {
+    "name": "Asymptote",
+    "founder": ["Andy Hammerlindl", "John C. Bow"]
+}, {
+    "name": "Augeas",
+    "founder": [""]
+}, {
+    "name": "AutoHotkey",
+    "founder": ["Chris Mallett"]
+}, {
+    "name": "AutoIt",
+    "founder": ["Jonathan Bennett"]
+}, {
+    "name": "Awk",
+    "founder": ["Alfred Aho", "Peter J. Weinberger", "Brian Kernighan"]
+}, {
+    "name": "Ballerina",
+    "founder": ["Sanjiva Weerawarana", "James Clark", "Sameera Jayasoma", "Hasitha Aravinda", "Srinath Perera", "Frank Leymann", "WSO2"]
+}, {
+    "name": "Batchfile",
+    "founder": ["batch script"]
+}, {
+    "name": "Befunge",
+    "founder": ["Chris Pressey"]
+}, {
+    "name": "BibTeX",
+    "founder": ["Oren Patashnik, Leslie Lamport"]
+}, {
+    "name": "Bison",
+    "founder": ["Robert Corbett"]
+}, {
+    "name": "BitBake",
+    "founder": ["Holger Schurig"]
+}, {
+    "name": "Blade",
+    "founder": ["Phillip Porras"]
+}, {
+    "name": "Blitz Basic",
+    "founder": ["Mark Sibly"]
+}, {
+    "name": "Blitz Max",
+    "founder": ["Mark Sibly"]
+}, {
+    "name": "Bluespec",
+    "founder": ["Professor Arvind"]
+}, {
+    "name": "Boo",
+    "founder": ["Rodrigo B. De Oliveira"]
+}, {
+    "name": "Brainfuck",
+    "founder": ["Urban Müller"]
+}, {
+    "name": "Brightscript",
+    "founder": ["Anthony Wood"]
+}, {
+    "name": "C",
+    "founder": ["Dennis Ritchie"]
+}, {
+    "name": "C sharp",
+    "founder": ["Microsoft Corporation"]
+}, {
+    "name": "Cpp",
+    "founder": ["Bjarne Stroustrup"]
+}, {
+    "name": "CLIPS",
+    "founder": [""]
+}, {
+    "name": "CMake",
+    "founder": ["Andy Cedilnik, Bill Hoffman, Brad King, Ken Martin, Alexander Neundorf"]
+}, {
+    "name": "COBOL",
+    "founder": ["Grace Murray Hopper"]
+}, {
+    "name": "COLLADA",
+    "founder": ["Rémi Arnaud"]
+}, {
+    "name": "CSON",
+    "founder": ["Fredrik Hübinette"]
+}, {
+    "name": "CSS",
+    "founder": ["Håkon Wium Lie"]
+}, {
+    "name": "CSV",
+    "founder": ["Adam Retter"]
+}, {
+    "name": "CWeb",
+    "founder": ["Fortran"]
+}, {
+    "name": "Cap'n Proto",
+    "founder": ["Wouter van Oortmerssen"]
+}, {
+    "name": "CartoCSS",
+    "founder": [""]
+}, {
+    "name": "Ceylon",
+    "founder": ["Gavin King"]
+}, {
+    "name": "Chapel",
+    "founder": ["David Callahan, Hans Zima, Brad Chamberlain, John Plevyak"]
+}, {
+    "name": "Charity",
+    "founder": ["Hagino Tatsuya,Robin Cockett,developed at the University of Calgary"]
+}, {
+    "name": "ChucK",
+    "founder": ["Ge Wang"]
+}, {
+    "name": "Cirru",
+    "founder": ["Michael Hanus, Sergio Antoy, et al."]
+}, {
+    "name": "Clarion",
+    "founder": ["Bruce Barrington"]
+}, {
+    "name": "Clean",
+    "founder": ["Software Technology Research Group of Radboud University Nijmegen"]
+}, {
+    "name": "cilk",
+    "founder": ["Intel"]
+}, {
+    "name": "Clojure",
+    "founder": ["Rich Hickey"]
+}, {
+    "name": "Closure Templates",
+    "founder": ["Google"]
+}, {
+    "name": "CodeQL",
+    "founder": ["Oege de Moor"]
+}, {
+    "name": "CoffeeScript",
+    "founder": ["Jeremy Ashkenas"]
+}, {
+    "name": "ColdFusion",
+    "founder": ["Jeremy Allaire"]
+}, {
+    "name": "ColdFusion CFC",
+    "founder": ["Jeremy Allaire"]
+}, {
+    "name": "Common Lisp",
+    "founder": ["John McCarthy", "Steve Russell", "Timothy P. Hart", "Mike Levin"]
+}, {
+    "name": "Common Workflow Language",
+    "founder": ["Peter Amstutz, John Chilton, Nebojsa Tijanic, and Michael R. Crusoe"]
+}, {
+    "name": "Component Pascal",
+    "founder": ["Niklaus Wirth"]
+}, {
+    "name": "Cool",
+    "founder": ["Alexander Aiken"]
+}, {
+    "name": "Coq",
+    "founder": ["Gérard Huet"]
+}, {
+    "name": "Crystal",
+    "founder": ["Ary Borenszweig"]
+}, {
+    "name": "Csound",
+    "founder": ["Barry Vercoe"]
+}, {
+    "name": "Csound Document",
+    "founder": ["Barry Vercoe"]
+}, {
+    "name": "Csound Score",
+    "founder": ["Barry Vercoe"]
+}, {
+    "name": "Cuda",
+    "founder": ["Nvidia"]
+}, {
+    "name": "Cycript",
+    "founder": [""]
+}, {
+    "name": "Cython",
+    "founder": ["Robert Bradshaw"]
+}, {
+    "name": "D",
+    "founder": ["Konrad Zuse"]
+}, {
+    "name": "DIGITAL Command Language",
+    "founder": ["Digital Equipment Corporation"]
+}, {
+    "name": "DM",
+    "founder": ["Dennis MacAlistair Ritchie"]
+}, {
+    "name": "DTrace",
+    "founder": ["Bryan Cantrill, Adam Leventhal, Mike Shapiro (Sun Microsystems)"]
+}, {
+    "name": "Dafny CFC",
+    "founder": ["Rustan Leino"]
+}, {
+    "name": "Dart",
+    "founder": ["Lars Bak"]
+}, {
+    "name": "DataWeave",
+    "founder": ["Karthik Bettadapura"]
+}, {
+    "name": "Dhall",
+    "founder": ["Gabriel Gonzalez"]
+}, {
+    "name": "Diff",
+    "founder": [""]
+}, {
+    "name": "Dockerfile",
+    "founder": ["Solomon Hykes"]
+}, {
+    "name": "Dogescript",
+    "founder": ["Zach Bruggeman"]
+}, {
+    "name": "Dylan",
+    "founder": ["Walter Smith"]
+}, {
+    "name": "E",
+    "founder": ["Mark S. Miller"]
+}, {
+    "name": "EBNF",
+    "founder": ["Niklaus Wirth"]
+}, {
+    "name": "ECL",
+    "founder": ["David Bayliss"]
+}, {
+    "name": "ECLiPSe",
+    "founder": ["IBM"]
+}, {
+    "name": "EJS",
+    "founder": ["Francisco Esquembre"]
+}, {
+    "name": "EQ",
+    "founder": ["Brad McQuaid, Steve Clover, and Bill Trost"]
+}, {
+    "name": "Eagle",
+    "founder": ["Rudolf Hofer"]
+}, {
+    "name": "Easybuild",
+    "founder": ["Guido van Rossum"]
+}, {
+    "name": "Eiffel",
+    "founder": ["Bertrand Meyer"]
+}, {
+    "name": "Elixir",
+    "founder": ["José Valim"]
+}, {
+    "name": "Elm",
+    "founder": ["Evan Czaplicki"]
+}, {
+    "name": "Emacs Lisp",
+    "founder": ["Richard Stallman"]
+}, {
+    "name": "Erlang",
+    "founder": ["Joe Armstrong"]
+}, {
+    "name": "F Sharp",
+    "founder": ["Don Syme", "Microsoft Research"]
+}, {
+    "name": "F Star",
+    "founder": ["Microsoft Research", "French Institute for Research in Computer Science and Automation"]
+}, {
+    "name": "FLUX",
+    "founder": ["Paul Dix"]
+}, {
+    "name": "Factor",
+    "founder": ["Slava Pestov"]
+}, {
+    "name": "Fancy",
+    "founder": ["Rasmus Lerdorf"]
+}, {
+    "name": "Fantom",
+    "founder": ["Andy Frank"]
+}, {
+    "name": "Faust",
+    "founder": ["Yann Orlarey, Dominique Fober, Stéphane Letz"]
+}, {
+    "name": "Filebench WML",
+    "founder": []
+}, {
+    "name": "Filterscript",
+    "founder": ["Jonathan Mitchell"]
+}, {
+    "name": "Formatted",
+    "founder": [""]
+}, {
+    "name": "Forth",
+    "founder": ["Charles H. Moore"]
+}, {
+    "name": "Fortran",
+    "founder": ["John Backus"]
+}, {
+    "name": "Fortran Free Form",
+    "founder": ["John Backus Developer"]
+}, {
+    "name": "FreeMarker",
+    "founder": ["Jonathan Revusky, Attila Szegedi, Dániel Dékány, and others"]
+}, {
+    "name": "Frege",
+    "founder": ["Ingo Wechsung"]
+}, {
+    "name": "Futhark",
+    "founder": ["Troels Henriksen, Cosmin Oancea, Martin Elsman"]
+}, {
+    "name": "G-code",
+    "founder": ["Massachusetts Institute of Technology"]
+}, {
+    "name": "GAML",
+    "founder": ["Robert Griesemer Rob Pike Ken Thompson"]
+}, {
+    "name": "GAMS",
+    "founder": ["George Dantzig"]
+}, {
+    "name": "GAP",
+    "founder": ["Joachim Neubüser"]
+}, {
+    "name": "GCC Machine Description",
+    "founder": ["GNU Project"]
+}, {
+    "name": "GDB",
+    "founder": ["Richard Stallman"]
+}, {
+    "name": "GDScript",
+    "founder": ["Juan Linietsky"]
+}, {
+    "name": "GEDCOM",
+    "founder": ["LDS FHD"]
+}, {
+    "name": "GLSL",
+    "founder": ["Mark Segal"]
+}, {
+    "name": "GN",
+    "founder": ["Mahesh Kulkarni"]
+}, {
+    "name": "Game Maker Language",
+    "founder": ["Mark Overmars"]
+}, {
+    "name": "Genie",
+    "founder": ["Jamie McCracken"]
+}, {
+    "name": "Genshi",
+    "founder": ["Edgewall Software"]
+}, {
+    "name": "Gentoo Ebuild",
+    "founder": ["Portage"]
+}, {
+    "name": "Gentoo Eclass",
+    "founder": [""]
+}, {
+    "name": "Gherkin",
+    "founder": ["Aslak Hellesøy, Joseph Wilk, Matt Wynne, Gregory Hnatiuk, Mike Sassak"]
+}, {
+    "name": "Glyph",
+    "founder": ["Glyph Lefkowitz"]
+}, {
+    "name": "Gnuplot",
+    "founder": ["Thomas Williams, Colin Kelley"]
+}, {
+    "name": "Go",
+    "founder": ["Robert Griesemer, Rob Pike,Ken Thompson"]
+}, {
+    "name": "Golo",
+    "founder": ["INSA Lyon"]
+}, {
+    "name": "Gosu",
+    "founder": ["Guidewire and open source contributors"]
+}, {
+    "name": "Grace",
+    "founder": ["Andrew Black"]
+}, {
+    "name": "Gradle",
+    "founder": ["Groovy language"]
+}, {
+    "name": "Grammatical Framework",
+    "founder": ["Martin Löf's"]
+}, {
+    "name": "GraphQL",
+    "founder": ["Lee Byron"]
+}, {
+    "name": "Groovy",
+    "founder": ["James Strachan"]
+}, {
+    "name": "Groovy Server Pages",
+    "founder": ["Graeme Rocher"]
+}, {
+    "name": "HAProxy",
+    "founder": ["Willy Tarreau"]
+}, {
+    "name": "HCL",
+    "founder": ["Shiv Nadar"]
+}, {
+    "name": "HLSL",
+    "founder": ["GLSL"]
+}, {
+    "name": "HTML",
+    "founder": ["Tim Berners-Lee"]
+}, {
+    "name": "HTML+Django",
+    "founder": ["Adrian Holovaty, Simon Willison"]
+}, {
+    "name": "HTML+ECR",
+    "founder": ["Konrad Zuse"]
+}, {
+    "name": "HTML+EEX",
+    "founder": [""]
+}, {
+    "name": "HTML+ERB",
+    "founder": ["David Heinemeier Hansson"]
+}, {
+    "name": "HTML+PHP",
+    "founder": ["Rasmus Lerdorf"]
+}, {
+    "name": "HTML+Razor",
+    "founder": ["Microsoft"]
+}, {
+    "name": "HTTP",
+    "founder": ["Sir Timothy John Berners-Lee"]
+}, {
+    "name": "HXML",
+    "founder": ["Konrad Zuse"]
+}, {
+    "name": "Hack",
+    "founder": ["Facebook"]
+}, {
+    "name": "Haml",
+    "founder": ["Hampton Catlin"]
+}, {
+    "name": "Handlebars",
+    "founder": ["Chris Wanstrath"]
+}, {
+    "name": "Harbour",
+    "founder": ["Antonio Linares"]
+}, {
+    "name": "Haskell",
+    "founder": ["Lennart Augustsson", "Dave Barton", "Brian Boutel", "Warren Burton", "Joseph Fasel", "Kevin Hammond", "Ralf Hinze", "Paul Hudak", "John Hughes", "Thomas Johnsson", "Mark Jones", "Simon Peyton Jones", "John Launchbury", "Erik Meijer", "John Peterson", "Alastair Reid", "Colin Runciman", "Philip Wadler"]
+}, {
+    "name": "Haxe",
+    "founder": ["Haxe Foundation"]
+}, {
+    "name": "HiveQL",
+    "founder": ["Facebook"]
+}, {
+    "name": "HolyC",
+    "founder": ["Terry A. Davis"]
+}, {
+    "name": "Hy",
+    "founder": ["Paul Tagliamonte"]
+}, {
+    "name": "HyPhy",
+    "founder": ["producer J Maine"]
+}, {
+    "name": "IDL",
+    "founder": ["David Stern"]
+}, {
+    "name": "IGOR Pro",
+    "founder": ["WaveMetrics Inc."]
+}, {
+    "name": "INI",
+    "founder": [""]
+}, {
+    "name": "Idris",
+    "founder": ["Edwin Brady"]
+}, {
+    "name": "Inform 7",
+    "founder": ["Graham Nelson"]
+}, {
+    "name": "Inno Setup",
+    "founder": ["Jordan Russell’s Software"]
+}, {
+    "name": "Io",
+    "founder": ["Steve Dekorte"]
+}, {
+    "name": "Ioke",
+    "founder": ["Ola Bini"]
+}, {
+    "name": "Isabelle",
+    "founder": ["Lawrence Paulson"]
+}, {
+    "name": "Isabelle ROOT",
+    "founder": [""]
+}, {
+    "name": "J",
+    "founder": ["Kenneth E. Iverson", "Roger Hui"]
+}, {
+    "name": "JFlex",
+    "founder": ["Alan Kay"]
+}, {
+    "name": "JSON",
+    "founder": ["Douglas Crockford"]
+}, {
+    "name": "JSON5",
+    "founder": ["Douglas Crockford"]
+}, {
+    "name": "JSONLD",
+    "founder": ["JSON for Linking Data Community Group"]
+}, {
+    "name": "JSONiq",
+    "founder": [""]
+}, {
+    "name": "JSX",
+    "founder": ["Jordan Walke"]
+}, {
+    "name": "Jasmine",
+    "founder": ["Pivotal Labs"]
+}, {
+    "name": "Java",
+    "founder": ["James Gosling"]
+}, {
+    "name": "Java Server Pages",
+    "founder": ["James Gosling"]
+}, {
+    "name": "JavaScript",
+    "founder": ["Brendan Eich"]
+}, {
+    "name": "JavaScript+ERB",
+    "founder": ["Brendan Eich"]
+}, {
+    "name": "Jison",
+    "founder": ["Robert Corbett"]
+}, {
+    "name": "Jison-Lex",
+    "founder": ["Zach Carter"]
+}, {
+    "name": "Jolie",
+    "founder": ["Fabrizio Montesi"]
+}, {
+    "name": "Jsonnet",
+    "founder": ["Google"]
+}, {
+    "name": "Julia",
+    "founder": [" "]
+}, {
+    "name": "Jupyter Notebook",
+    "founder": ["Fernando Pérez", "Brian Granger"]
+}, {
+    "name": "KRL",
+    "founder": ["KUKA"]
+}, {
+    "name": "Kaitai Struct",
+    "founder": [""]
+}, {
+    "name": "Kit",
+    "founder": ["Konrad Zuse"]
+}, {
+    "name": "Kotlin",
+    "founder": ["JetBrains"]
+}, {
+    "name": "LFE",
+    "founder": ["Robert Virding"]
+}, {
+    "name": "LLVM",
+    "founder": ["Vikram Adve, Chris Lattner"]
+}, {
+    "name": "LOLCODE",
+    "founder": ["Adam Lindsay"]
+}, {
+    "name": "LSL",
+    "founder": ["Linden Lab"]
+}, {
+    "name": "LabVIEW",
+    "founder": ["National Instruments"]
+}, {
+    "name": "Lasso",
+    "founder": ["Kyle Jessup"]
+}, {
+    "name": "Latte",
+    "founder": ["Jeremy Ashkenas"]
+}, {
+    "name": "Lean",
+    "founder": ["Microsoft Research"]
+}, {
+    "name": "Less",
+    "founder": ["Alexis Sellier"]
+}, {
+    "name": "Lex",
+    "founder": ["Mike Lesk, Eric Schmidt"]
+}, {
+    "name": "LilyPond",
+    "founder": ["David Kastrup, Werner Lemberg, Han-Wen Nienhuys, Jan Nieuwenhuizen, Carl Sorensen, Janek Warchoł, et al."]
+}, {
+    "name": "Limbo",
+    "founder": [" Phil Winterbottom", "Rob Pike"]
+}, {
+    "name": "Liquid",
+    "founder": ["Tobias Lütke"]
+}, {
+    "name": "Literate Agda",
+    "founder": ["Ulf Norell"]
+}, {
+    "name": "Literate CoffeeScript",
+    "founder": ["Jeremy Ashkenas"]
+}, {
+    "name": "Literate Haskell",
+    "founder": ["Richard Bird, Philip Wadler for Orwell, Donald Knuth"]
+}, {
+    "name": "Live Script",
+    "founder": ["Brandan Eich"]
+}, {
+    "name": "Logos",
+    "founder": ["George Mills"]
+}, {
+    "name": "Logtalk",
+    "founder": ["Paulo Moura"]
+}, {
+    "name": "LookML",
+    "founder": ["Lloyd Tabb"]
+}, {
+    "name": "LoomScript",
+    "founder": [""]
+}, {
+    "name": "Lua",
+    "founder": ["Roberto Ierusalimschy", "Luiz Henrique de Figueiredo"]
+}, {
+    "name": "M",
+    "founder": ["Neil Pappalardo"]
+}, {
+    "name": "M4",
+    "founder": ["Brian Kernighan", "Dennis Ritchie"]
+}, {
+    "name": "M4Sugar",
+    "founder": [""]
+}, {
+    "name": "MATLAB",
+    "founder": ["Cleve Moler"]
+}, {
+    "name": "MAXScript",
+    "founder": ["John Wainwright"]
+}, {
+    "name": "MLIR",
+    "founder": ["Chris Lattner"]
+}, {
+    "name": "MQL4",
+    "founder": ["MetaQuotes"]
+}, {
+    "name": "MQL5",
+    "founder": ["MetaQuotes Software Corp."]
+}, {
+    "name": "MTML",
+    "founder": ["Tim Berners-Lee"]
+}, {
+    "name": "MUF",
+    "founder": ["Piaw Na"]
+}, {
+    "name": "Macaulay2",
+    "founder": ["Daniel Grayson"]
+}, {
+    "name": "Makefile",
+    "founder": ["Stuart Feldman"]
+}, {
+    "name": "Mako",
+    "founder": ["Benjamin Mako Hill"]
+}, {
+    "name": "Marko",
+    "founder": ["Patrick Steele-Idem"]
+}, {
+    "name": "Mask",
+    "founder": ["Madame Rowley"]
+}, {
+    "name": "Mathematica",
+    "founder": ["Stephen Wolfram"]
+}, {
+    "name": "Max",
+    "founder": ["Miller Puckette"]
+}, {
+    "name": "Mercury",
+    "founder": ["Fergus Henderson, Thomas Conway, and Zoltan Somogyi"]
+}, {
+    "name": "Meson",
+    "founder": ["Jussi Pakkanen"]
+}, {
+    "name": "Metal",
+    "founder": ["Mozilla"]
+}, {
+    "name": "MiniD",
+    "founder": ["Jarrett Billingsley"]
+}, {
+    "name": "Mirah",
+    "founder": ["Charles Oliver Nutter"]
+}, {
+    "name": "Modelica",
+    "founder": ["Hilding Elmqvist"]
+}, {
+    "name": "Modula-2",
+    "founder": ["Niklaus Wirth"]
+}, {
+    "name": "Modula-3",
+    "founder": ["Luca Cardelli", "Greg Nelson"]
+}, {
+    "name": "Module Management System",
+    "founder": ["Siddhartha Errabolu"]
+}, {
+    "name": "Monkey",
+    "founder": ["CoffeeScript"]
+}, {
+    "name": "Moocode",
+    "founder": ["Konrad Zuse"]
+}, {
+    "name": "MoonScript",
+    "founder": ["Jeremy Ashkenas"]
+}, {
+    "name": "Motorola 68K Assembly",
+    "founder": ["eight address registers"]
+}, {
+    "name": "Myghty",
+    "founder": [""]
+}, {
+    "name": "NASL",
+    "founder": ["NASL"]
+}, {
+    "name": "NCL",
+    "founder": ["National Center for Atmospheric Research"]
+}, {
+    "name": "NEON",
+    "founder": ["Pranav Mistry"]
+}, {
+    "name": "NL",
+    "founder": ["James Flynn"]
+}, {
+    "name": "NSIS",
+    "founder": ["Nullsoft"]
+}, {
+    "name": "Nearley",
+    "founder": [""]
+}, {
+    "name": "Nemerle",
+    "founder": ["JetBrains"]
+}, {
+    "name": "NetLinx",
+    "founder": [""]
+}, {
+    "name": "NetLinx+ERB",
+    "founder": [""]
+}, {
+    "name": "NetLogo",
+    "founder": ["Uri Wilensky"]
+}, {
+    "name": "NewLisp",
+    "founder": ["Lutz Mueller"]
+}, {
+    "name": "Nextflow",
+    "founder": ["James Strachan"]
+}, {
+    "name": "Nginx",
+    "founder": ["Igor Sysoev"]
+}, {
+    "name": "Nim",
+    "founder": ["Andreas Rumpf"]
+}, {
+    "name": "Ninja",
+    "founder": ["Ankush Singla"]
+}, {
+    "name": "Nit",
+    "founder": [""]
+}, {
+    "name": "Nix",
+    "founder": [""]
+}, {
+    "name": "Nu",
+    "founder": ["Tim Burks"]
+}, {
+    "name": "NumPy",
+    "founder": ["Travis Oliphant"]
+}, {
+    "name": "OCaml",
+    "founder": ["Gérard Huet", "Guy Cousineau", "Xavier Leroy"]
+}, {
+    "name": "ObjDump",
+    "founder": [""]
+}, {
+    "name": "ObjectScript",
+    "founder": [""]
+}, {
+    "name": "Objective-C",
+    "founder": ["Brad Cox"]
+}, {
+    "name": "Objective-C++",
+    "founder": ["Brad Cox"]
+}, {
+    "name": "Objective-J",
+    "founder": ["Cappuccino Core Developers and community."]
+}, {
+    "name": "Odin",
+    "founder": ["Erik Trautman"]
+}, {
+    "name": "Omgrofl",
+    "founder": ["Juraj Borza"]
+}, {
+    "name": "Opa",
+    "founder": ["MLstate"]
+}, {
+    "name": "Opal",
+    "founder": [" Technical University of Berlin"]
+}, {
+    "name": "Open Policy Agent",
+    "founder": ["Tim Hinrichs"]
+}, {
+    "name": "OpenCL",
+    "founder": ["Khronos Group"]
+}, {
+    "name": "OpenEdge ABL",
+    "founder": ["Progress Software Corporation (PSC)"]
+}, {
+    "name": "OpenQASM",
+    "founder": [" IBM's Quantum Information Software Kit "]
+}, {
+    "name": "OpenRC run script",
+    "founder": ["OpenRC Developers"]
+}, {
+    "name": "OpenSCAD",
+    "founder": ["Marius Kintel"]
+}, {
+    "name": "Ox",
+    "founder": ["Jurgen Doornik"]
+}, {
+    "name": "Oxygene",
+    "founder": ["RemObjects Software"]
+}, {
+    "name": "Oz",
+    "founder": ["Gert Smolka"]
+}, {
+    "name": "P4",
+    "founder": ["Nick McKeown"]
+}, {
+    "name": "PHP",
+    "founder": ["Rasmus Lerdorf"]
+}, {
+    "name": "PL/SQL",
+    "founder": ["Oracle Corporation"]
+}, {
+    "name": "PLpgSQL",
+    "founder": ["Jan Wieck"]
+}, {
+    "name": "POV-Ray SDL",
+    "founder": ["David Kirk Buck, Aaron A. Collins, Alexander Enzmann"]
+}, {
+    "name": "Pan",
+    "founder": [""]
+}, {
+    "name": "Papyrus",
+    "founder": ["Commissariat à l'Énergie Atomique (CEA-List), Atos, Cedric Dumoulin (LIFL)"]
+}, {
+    "name": "Parrot",
+    "founder": ["Perl community"]
+}, {
+    "name": "Parrot Assembly",
+    "founder": ["David J. Wheeler"]
+}, {
+    "name": "Parrot Internal Representation",
+    "founder": [""]
+}, {
+    "name": "Pascal",
+    "founder": ["Niklaus Wirth"]
+}, {
+    "name": "Pawn",
+    "founder": [""]
+}, {
+    "name": "Pep8",
+    "founder": ["Guido van Rossum"]
+}, {
+    "name": "Perl",
+    "founder": ["Larry Wall"]
+}, {
+    "name": "Pic",
+    "founder": ["General Instrument'"]
+}, {
+    "name": "Pickle",
+    "founder": [""]
+}, {
+    "name": "PicoLisp",
+    "founder": ["Alexander Burger"]
+}, {
+    "name": "PigLatin",
+    "founder": ["Yahoo Research", "Apache Software Foundation"]
+}, {
+    "name": "Pike",
+    "founder": ["Fredrik Hübinette"]
+}, {
+    "name": "PlantUML",
+    "founder": ["Arnaud Roques"]
+}, {
+    "name": "PogoScript",
+    "founder": ["Philippe Mougin"]
+}, {
+    "name": "Pony",
+    "founder": ["Sylvan Clebsch"]
+}, {
+    "name": "PostCSS",
+    "founder": ["Andrey Sitnik, Ben Briggs, Bogdan Chadkin"]
+}, {
+    "name": "PostScript",
+    "founder": ["Adobe Systems"]
+}, {
+    "name": "PowerBuilder",
+    "founder": ["Powerscript"]
+}, {
+    "name": "PowerShell",
+    "founder": ["Microsoft"]
+}, {
+    "name": "Prisma",
+    "founder": ["Alexey Moiseenkov"]
+}, {
+    "name": "Processing",
+    "founder": ["Casey Reas, Ben Fry"]
+}, {
+    "name": "Proguard",
+    "founder": ["Eric P.F. Lafortune"]
+}, {
+    "name": "Prolog",
+    "founder": ["Alain Colmerauer, Robert Kowalski"]
+}, {
+    "name": "Propeller Spin",
+    "founder": ["Abhishek Desai"]
+}, {
+    "name": "Pug",
+    "founder": [""]
+}, {
+    "name": "Puppet",
+    "founder": ["Luke Kanies"]
+}, {
+    "name": "PureBasic",
+    "founder": ["Fantaisie Software"]
+}, {
+    "name": "PureScript",
+    "founder": ["Evan Czaplicki"]
+}, {
+    "name": "Python",
+    "founder": ["Guido van Rossum"]
+}, {
+    "name": "Python console",
+    "founder": ["Guido van Rossum"]
+}, {
+    "name": "Q Sharp",
+    "founder": ["Microsoft Research"]
+}, {
+    "name": "QML",
+    "founder": ["Qt Project"]
+}, {
+    "name": "QMake",
+    "founder": ["Trolltech, Nokia, Qt Project, Digia,The Qt Company "]
+}, {
+    "name": "Qt Script",
+    "founder": ["C++"]
+}, {
+    "name": "Quake",
+    "founder": ["John Carmack"]
+}, {
+    "name": "R",
+    "founder": ["Ross Ihaka", "Robert Gentleman"]
+}, {
+    "name": "RAML",
+    "founder": ["Uri Sarid"]
+}, {
+    "name": "REALbasic",
+    "founder": ["Geoff Perlman"]
+}, {
+    "name": "REXX",
+    "founder": ["Mike Cowlishaw"]
+}, {
+    "name": "RPC",
+    "founder": ["Bruce Jay Nelson"]
+}, {
+    "name": "RUNOFF",
+    "founder": ["Joe Ossanna"]
+}, {
+    "name": "Racket",
+    "founder": ["Matthias Felleisen"]
+}, {
+    "name": "Ragel",
+    "founder": ["Adrian Thurston"]
+}, {
+    "name": "Raku",
+    "founder": ["Larry Wall"]
+}, {
+    "name": "Rascal",
+    "founder": ["Konrad Zuse"]
+}, {
+    "name": "Reason",
+    "founder": ["Jordan Walke"]
+}, {
+    "name": "Rebol",
+    "founder": ["Carl Sassenrath"]
+}, {
+    "name": "Red",
+    "founder": ["Konrad Zuse"]
+}, {
+    "name": "Redcode",
+    "founder": ["D. G. Jones & A. K. Dewdney"]
+}, {
+    "name": "Ren'Py",
+    "founder": ["Tom 'PyTom' Rothamel"]
+}, {
+    "name": "RenderScript",
+    "founder": ["Google"]
+}, {
+    "name": "Rich Text Format",
+    "founder": ["Microsoft"]
+}, {
+    "name": "Ring",
+    "founder": ["Mahmoud Fayed"]
+}, {
+    "name": "Riot",
+    "founder": ["Riot Games"]
+}, {
+    "name": "RobotFramework",
+    "founder": ["PyCharm"]
+}, {
+    "name": "Roff",
+    "founder": ["Joe Ossanna"]
+}, {
+    "name": "Roff Manpage",
+    "founder": ["Joe Ossanna"]
+}, {
+    "name": "Rouge",
+    "founder": ["Dennis Ritchie"]
+}, {
+    "name": "Ruby",
+    "founder": ["Yukihiro Matsumoto"]
+}, {
+    "name": "Rust",
+    "founder": ["Graydon Hoare"]
+}, {
+    "name": "SAS",
+    "founder": ["Anthony James Barr"]
+}, {
+    "name": "SCSS",
+    "founder": ["Hampton Catlin"]
+}, {
+    "name": "SMT",
+    "founder": [""]
+}, {
+    "name": "SPARQL",
+    "founder": ["W3C"]
+}, {
+    "name": "SQF",
+    "founder": [""]
+}, {
+    "name": "SQL",
+    "founder": [" Donald D. Chamberlin", "Raymond F. Boyce"]
+}, {
+    "name": "SQLPL",
+    "founder": ["PostgreSQL Global Development Group"]
+}, {
+    "name": "SRecode Template",
+    "founder": [""]
+}, {
+    "name": "STON",
+    "founder": [""]
+}, {
+    "name": "SVG",
+    "founder": ["W3C SVG Working Group"]
+}, {
+    "name": "SWIG",
+    "founder": ["David M. Beazley"]
+}, {
+    "name": "Sage",
+    "founder": ["William Stein"]
+}, {
+    "name": "SaltStack",
+    "founder": ["founder Thomas S. Hatch"]
+}, {
+    "name": "Sass",
+    "founder": ["Hampton Catlin"]
+}, {
+    "name": "Scala",
+    "founder": ["Martin Odersky"]
+}, {
+    "name": "Scaml",
+    "founder": ["Gérard Huet", "Guy Cousineau", "Xavier Leroy"]
+}, {
+    "name": "Scheme",
+    "founder": ["Guy L. Steele Jr.", "Gerald Jay Sussman"]
+}, {
+    "name": "Scilab",
+    "founder": ["François Delebecque"]
+}, {
+    "name": "Self",
+    "founder": ["David Ungar"]
+}, {
+    "name": "ShaderLab",
+    "founder": ["GLSL"]
+}, {
+    "name": "Shell",
+    "founder": ["Stephen Bourne"]
+}, {
+    "name": "ShellSession",
+    "founder": ["Richard C. Haight"]
+}, {
+    "name": "Shen",
+    "founder": ["Mark Tarver"]
+}, {
+    "name": "Sieve",
+    "founder": ["Tim Showalter"]
+}, {
+    "name": "Slash",
+    "founder": ["Tanner Swett"]
+}, {
+    "name": "Slice",
+    "founder": [""]
+}, {
+    "name": "Slim",
+    "founder": [""]
+}, {
+    "name": "SmPL",
+    "founder": ["Dennis Ritchie"]
+}, {
+    "name": "Smali",
+    "founder": [""]
+}, {
+    "name": "Smalltalk",
+    "founder": ["Alan Kay", "Dan Ingalls", "Adele Goldberg"]
+}, {
+    "name": "Smarty",
+    "founder": ["Monte Ohrt, Messju Mohr, Uwe Tews"]
+}, {
+    "name": "Solidity",
+    "founder": ["Gavin Wood"]
+}, {
+    "name": "SourcePawn",
+    "founder": [""]
+}, {
+    "name": "Squirrel",
+    "founder": ["Alberto Demichelis"]
+}, {
+    "name": "Stan",
+    "founder": ["Stan Development Team"]
+}, {
+    "name": "Standard ML",
+    "founder": ["Robin Milner"]
+}, {
+    "name": "Starlark",
+    "founder": ["Andreas Rumpf"]
+}, {
+    "name": "Stata",
+    "founder": ["William Gould"]
+}, {
+    "name": "Stylus",
+    "founder": ["TJ Holowaychuk"]
+}, {
+    "name": "SugarSS",
+    "founder": ["Andreas Rumpf"]
+}, {
+    "name": "SuperCollider",
+    "founder": ["James McCartney"]
+}, {
+    "name": "Svelte",
+    "founder": ["Rich Harris"]
+}, {
+    "name": "Swift",
+    "founder": ["Chris Lattner", "Apple"]
+}, {
+    "name": "SystemVerilog",
+    "founder": ["Synopsys"]
+}, {
+    "name": "TI Program",
+    "founder": [""]
+}, {
+    "name": "TLA",
+    "founder": ["Leslie Lamport"]
+}, {
+    "name": "TOML",
+    "founder": ["Preston-Werner"]
+}, {
+    "name": "TSQL",
+    "founder": ["Donald D. Chamberlin Raymond F. Boyce"]
+}, {
+    "name": "TSX",
+    "founder": ["Microsoft Corporation"]
+}, {
+    "name": "TXL",
+    "founder": ["James Cordy"]
+}, {
+    "name": "Tcl",
+    "founder": ["John Ousterhout"]
+}, {
+    "name": "Tcsh",
+    "founder": ["Ken Greer"]
+}, {
+    "name": "TeX",
+    "founder": ["Donald Knuth"]
+}, {
+    "name": "Tea",
+    "founder": ["Jorge Nunes"]
+}, {
+    "name": "Terra",
+    "founder": []
+}, {
+    "name": "Thrift",
+    "founder": ["Facebook"]
+}, {
+    "name": "Turing",
+    "founder": [" Ric Holt", "James Cordy"]
+}, {
+    "name": "Turtle",
+    "founder": ["Wally Feurzeig", "Seymour Papert", "Cynthia Solomon"]
+}, {
+    "name": "Twig",
+    "founder": ["Fabien Potencier"]
+}, {
+    "name": "TypeScript",
+    "founder": ["Microsoft Corporation"]
+}, {
+    "name": "Unified Parallel C",
+    "founder": ["UPC Consortium"]
+}, {
+    "name": "Unix Assembly",
+    "founder": ["Dennis Ritchie"]
+}, {
+    "name": "Uno",
+    "founder": ["arduino.cc"]
+}, {
+    "name": "UnrealScript",
+    "founder": ["Tim Sweeney"]
+}, {
+    "name": "UrWeb",
+    "founder": ["Adam Chlipala"]
+}, {
+    "name": "V",
+    "founder": ["Alex Medvednikov"]
+}, {
+    "name": "VBA",
+    "founder": ["Microsoft"]
+}, {
+    "name": "VBScript",
+    "founder": ["Microsoft"]
+}, {
+    "name": "VCL",
+    "founder": ["Borland"]
+}, {
+    "name": "VHDL",
+    "founder": ["U.S. Department of Defense "]
+}, {
+    "name": "Vala",
+    "founder": ["Jürg Billeter"]
+}, {
+    "name": "Verilog",
+    "founder": ["Candence"]
+}, {
+    "name": "Vim Snippet",
+    "founder": ["Bram Moolenaar"]
+}, {
+    "name": "Vim script",
+    "founder": ["Bram Moolenaar"]
+}, {
+    "name": "Visual Basic .NET",
+    "founder": ["Microsoft Corporation"]
+}, {
+    "name": "Volt",
+    "founder": ["Alex Medvednikov"]
+}, {
+    "name": "Vue",
+    "founder": ["Evan You"]
+}, {
+    "name": "WebAssembly",
+    "founder": ["World Wide Web Consortium"]
+}, {
+    "name": "WebIDL",
+    "founder": ["David Stern"]
+}, {
+    "name": "WebVTT",
+    "founder": [""]
+}, {
+    "name": "Wollok",
+    "founder": []
+}, {
+    "name": "X10",
+    "founder": [""]
+}, {
+    "name": "XC",
+    "founder": ["Dennis Ritchie"]
+}, {
+    "name": "XML",
+    "founder": ["IBM"]
+}, {
+    "name": "XPages",
+    "founder": ["Trilog Group"]
+}, {
+    "name": "XProc",
+    "founder": ["Erik Siegel"]
+}, {
+    "name": "XQuery",
+    "founder": ["World Wide Web Consortium"]
+}, {
+    "name": "XS",
+    "founder": ["Larry Wall"]
+}, {
+    "name": "XSLT",
+    "founder": ["W3C"]
+}, {
+    "name": "Xojo",
+    "founder": ["Xojo, Inc"]
+}, {
+    "name": "Xtend",
+    "founder": ["typefox"]
+}, {
+    "name": "YAML",
+    "founder": ["Clark Evans"]
+}, {
+    "name": "YANG",
+    "founder": ["IETF NETCONF Data Modeling Language Working Group"]
+}, {
+    "name": "YARA",
+    "founder": ["Victor Alvarez"]
+}, {
+    "name": "YASnippet",
+    "founder": [""]
+}, {
+    "name": "Yacc",
+    "founder": ["Stephen C. Johnson"]
+}, {
+    "name": "ZAP",
+    "founder": ["Simon Bennetts"]
+}, {
+    "name": "ZIL",
+    "founder": ["Infocom"]
+}, {
+    "name": "Zeek",
+    "founder": ["Vern Paxson"]
+}, {
+    "name": "ZenScript",
+    "founder": [" Andi Gutmans", "Zeev Suraski "]
+}, {
+    "name": "Zephir",
+    "founder": []
+}, {
+    "name": "Zig",
+    "founder": ["Andrew Kelley."]
+}, {
+    "name": "Zimpl",
+    "founder": []
+}, {
+    "name": "desktop",
+    "founder": [""]
+}, {
+    "name": "dircolors",
+    "founder": [""]
+}, {
+    "name": "eC",
+    "founder": ["Jérôme Jacovella"]
+}, {
+    "name": "edn",
+    "founder": [""]
+}, {
+    "name": "fish",
+    "founder": ["Harpyon"]
+}, {
+    "name": "mIRC Script",
+    "founder": ["Khaled Mardam-Bey"]
+}, {
+    "name": "mcfunction",
+    "founder": [""]
+}, {
+    "name": "mupad",
+    "founder": ["The Mathworks Inc."]
+}, {
+    "name": "nanorc",
+    "founder": ["Chris Allegretta"]
+}, {
+    "name": "nesC",
+    "founder": [""]
+}, {
+    "name": "ooc",
+    "founder": [""]
+}, {
+    "name": "Q",
+    "founder": ["Arthur Whitney"]
+}, {
+    "name": "sed",
+    "founder": [""]
+}, {
+    "name": "wdl",
+    "founder": ["the Broad Institute"]
+}, {
+    "name": "wisp",
+    "founder": [""]
+}, {
+    "name": "xBase",
+    "founder": ["Antonio Linares"]
+}]
