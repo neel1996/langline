@@ -1,4 +1,5 @@
 import { LangData } from "./../lib/interface/LangDataInterface";
+
 const languageDataSet: LangData[] = [
   {
     name: "1C Enterprise",
