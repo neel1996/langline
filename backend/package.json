@@ -6,7 +6,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "nodemon founderSearch.js",
-        "year": "nodemon yearSearch.js"
+        "year": "nodemon yearSearch.js",
+        "lang": "nodemon langData.js"
     },
     "author": "",
     "license": "ISC",
