@@ -13,17 +13,18 @@
         "programming",
         "synatx-highlighting"
     ],
+    "repository": {
+        "url": "https://github.com/neel1996/langline"
+    },
     "author": "itassistors",
-    "license": "Apache License 2.0",
+    "license": "Apache 2.0",
     "dependencies": {
-        "@types/node": "^14.6.0",
-        "codacy-coverage": "^3.4.0",
         "csvtojson": "^2.0.10",
         "istextorbinary": "^5.10.0",
         "textextensions": "^5.10.0"
     },
     "devDependencies": {
         "@types/jest": "^26.0.10",
-        "jest": "^26.4.2"
+        "@types/node": "^14.6.0"
     }
 }
