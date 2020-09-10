@@ -1,6 +1,6 @@
 {
     "name": "@itassistors/langline",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "description": "Node library to look up programming languages based on file extensions, file name and actual file",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
