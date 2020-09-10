@@ -50,7 +50,7 @@
     "extensions": [".apl", ".dyalog"],
     "prismIndicator": "apl",
     "founder": ["Kenneth E. Iverson"],
-    "year": ["27, 1966"]
+    "year": ["1966"]
 }, {
     "name": "ASL",
     "extensions": [".asl", ".dsl"],

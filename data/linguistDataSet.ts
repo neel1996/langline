@@ -61,7 +61,7 @@ const languageDataSet: LangData[] = [
     extensions: [".apl", ".dyalog"],
     prismIndicator: "apl",
     founder: ["Kenneth E. Iverson"],
-    year: ["27, 1966"],
+    year: ["1966"],
   },
   {
     name: "ASL",
@@ -408,7 +408,7 @@ const languageDataSet: LangData[] = [
     name: "Cap'n Proto",
     extensions: [".capnp"],
     founder: ["Wouter van Oortmerssen"],
-    year: ["June 17, 2014"],
+    year: ["2014"],
   },
   {
     name: "CartoCSS",
@@ -499,7 +499,7 @@ const languageDataSet: LangData[] = [
     extensions: [".soy"],
     prismIndicator: "markup",
     founder: ["Google"],
-    year: ["November 5, 2009"],
+    year: ["2009"],
   },
   {
     name: "CodeQL",
@@ -585,7 +585,7 @@ const languageDataSet: LangData[] = [
     extensions: [".cr"],
     prismIndicator: "crystal",
     founder: ["Ary Borenszweig"],
-    year: ["November 10, 2009"],
+    year: ["2009"],
   },
   {
     name: "Csound",
@@ -869,7 +869,7 @@ const languageDataSet: LangData[] = [
     extensions: [".fs"],
     prismIndicator: "filterscript",
     founder: ["Jonathan Mitchell"],
-    year: ["November 10, 2009"],
+    year: ["2009"],
   },
   {
     name: "Formatted",
@@ -1534,7 +1534,7 @@ const languageDataSet: LangData[] = [
     extensions: [".jl"],
     prismIndicator: "julia",
     founder: [" "],
-    year: ["November 10, 2009"],
+    year: ["2009"],
   },
   {
     name: "Jupyter Notebook",
@@ -2088,7 +2088,7 @@ const languageDataSet: LangData[] = [
     extensions: [".numpy", ".numpyw", ".numsc"],
     prismIndicator: "numpy",
     founder: ["Travis Oliphant"],
-    year: ["As Numeric, 1995; as NumPy, 2006"],
+    year: ["2006"],
   },
   {
     name: "OCaml",
@@ -2151,7 +2151,7 @@ const languageDataSet: LangData[] = [
     extensions: [".opa"],
     prismIndicator: "opa",
     founder: ["MLstate"],
-    year: ["1.1.0 (stable) / February 13, 2013"],
+    year: ["2013"],
   },
   {
     name: "Opal",
@@ -2185,7 +2185,7 @@ const languageDataSet: LangData[] = [
     extensions: [".qasm"],
     prismIndicator: "openqasm",
     founder: [" IBM's Quantum Information Software Kit "],
-    year: ["March 7, 2017."],
+    year: ["2017"],
   },
   {
     name: "OpenRC run script",
@@ -2198,7 +2198,7 @@ const languageDataSet: LangData[] = [
     extensions: [".scad"],
     prismIndicator: "openscad",
     founder: ["Marius Kintel"],
-    year: ["Marius Kintel, Clifford Wolf"],
+    year: [""],
   },
   {
     name: "Ox",
@@ -2557,7 +2557,7 @@ const languageDataSet: LangData[] = [
     extensions: [".pro", ".pri"],
     prismIndicator: "qmake",
     founder: ["Trolltech, Nokia, Qt Project, Digia,The Qt Company "],
-    year: ["July 7, 2010"],
+    year: ["2010"],
   },
   {
     name: "Qt Script",
@@ -2665,7 +2665,7 @@ const languageDataSet: LangData[] = [
     extensions: [".re", ".rei"],
     prismIndicator: "reason",
     founder: ["Jordan Walke"],
-    year: ["May 16, 2016"],
+    year: ["2016"],
   },
   {
     name: "Rebol",
@@ -2714,7 +2714,7 @@ const languageDataSet: LangData[] = [
     extensions: [".ring"],
     prismIndicator: "ring",
     founder: ["Mahmoud Fayed"],
-    year: ["November 10, 2009"],
+    year: ["2009"],
   },
   {
     name: "Riot",
@@ -2835,7 +2835,7 @@ const languageDataSet: LangData[] = [
     extensions: [".rs", ".rs.in"],
     prismIndicator: "rust",
     founder: ["Graydon Hoare"],
-    year: ["July 7, 2010"],
+    year: ["2010"],
   },
   {
     name: "SAS",
@@ -2943,7 +2943,7 @@ const languageDataSet: LangData[] = [
     extensions: [".sass"],
     prismIndicator: "markup",
     founder: ["Hampton Catlin"],
-    year: ["28, 2006"],
+    year: ["2006"],
   },
   {
     name: "Scala",
@@ -3151,7 +3151,7 @@ const languageDataSet: LangData[] = [
     extensions: [".svelte"],
     prismIndicator: "markup",
     founder: ["Rich Harris"],
-    year: ["November 26, 2016"],
+    year: ["2016"],
   },
   {
     name: "Swift",
@@ -3331,7 +3331,7 @@ const languageDataSet: LangData[] = [
     extensions: [".v"],
     prismIndicator: "v",
     founder: ["Alex Medvednikov"],
-    year: ["November 10, 2009"],
+    year: ["2009"],
   },
   {
     name: "VBA",
@@ -3410,7 +3410,7 @@ const languageDataSet: LangData[] = [
     extensions: [".volt"],
     prismIndicator: "volt",
     founder: ["Alex Medvednikov"],
-    year: ["November 10, 2009"],
+    year: ["2009"],
   },
   {
     name: "Vue",

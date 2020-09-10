@@ -91,11 +91,13 @@ langline();
     '.njs',  '.pac',   '.sjs',
     '.ssjs', '.xsjs',  '.xsjslib'
   ],
-  prismIndicator: 'javascript'
+  prismIndicator: 'javascript',
+  founder: ["Brendan Eich"],
+  year: ["1995"]
 }
 ```
 
-The programming language dataset is adapted from github linguist language list
+The programming language dataset is adapted from github linguist language list. The founder and year data were collected using a google search web scrapping module which is available in the [addons](addons) directory
 
 ## Add a new Language
 

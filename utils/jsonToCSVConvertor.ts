@@ -12,17 +12,29 @@ class JSONtoCSVConvertor {
   }
 
   public convertToCSV() {
-    let header: string = "name,extensions,prismIndicator";
+    let header: string = "name,extensions,prismIndicator,founder,year";
     let data = [];
     if (this.dataFileContent) {
       data = this.dataFileContent.map((item) => {
+        let founders: string[] = [];
         if (item.extensions) {
+          if (item.founder) {
+            const founderString = item.founder.join(",");
+            founders = [...founderString.split(",")];
+          }
+
+          item.prismIndicator = item.prismIndicator ? item.prismIndicator : "";
+
           return (
             item.name +
             "," +
             item.extensions.join("|") +
             "," +
-            item.prismIndicator
+            item.prismIndicator +
+            "," +
+            founders.join("|") +
+            "," +
+            item.year?.join("")
           );
         }
         return undefined;
