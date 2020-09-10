@@ -54,7 +54,7 @@ console.log(language);
 
 - **Fetching language by supplying an actual file**
 
->Note: In this case, the supplied file will be validated to check its existance and confirm its type. If the validation fails, then the language will not be returned. 
+>Note: In this case, the supplied file will be validated to check its existance and confirm its type. If the validation fails, then the language will not be returned. This is supported only when referred in the backend module and it is not supported when used in the client side (E.g: React)
 
 ```
 const { LangLine } = require("@itassistors/langline");
@@ -119,8 +119,8 @@ Update the JSON file `./data/linguistDataSet.json` with the language specific en
 
 Update the CSV file `./data/langData.csv` with the following entries
 
-| name | extensions | prismIndicator |
-| :-: | :-: | :-: |
-| NAME OF THE LANGUAGE | LANGUAGE FILE EXTENSIONS. SPLIT MULTIPLE EXTENSIONS WITH PIPE | IF THE LANGUAGE IS SUPPORTED BY PRISM THEN THE PRISMJS COMPONENT NAME | 
+| name | extensions | prismIndicator | founder | year |
+| :-: | :-: | :-: | :-: | :-: |
+| NAME OF THE LANGUAGE | LANGUAGE FILE EXTENSIONS. SEPARATE MULTIPLE ENTRIES WITH PIPE | IF THE LANGUAGE IS SUPPORTED BY PRISM THEN THE PRISMJS COMPONENT NAME | FOUNDER NAME. SEPARATE MULTIPLE ENTRIES WITH PIPE | INITIAL RELEASE YEAR IN YYYY FORMAT |
 
 **Note:** Project is still under development and contributions will be accepeted once project is stable for use
