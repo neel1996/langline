@@ -5,7 +5,8 @@
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "scripts": {
-        "test": "jest"
+        "test": "jest",
+        "start": "nodemon checkPrime.js"
     },
     "keywords": [
         "linguist",
@@ -14,7 +15,7 @@
         "synatx-highlighting"
     ],
     "author": "itassistors",
-    "license": "Apache License 2.0",
+    "license": "ISC",
     "dependencies": {
         "@types/node": "^14.6.0",
         "codacy-coverage": "^3.4.0",
@@ -25,5 +26,17 @@
     "devDependencies": {
         "@types/jest": "^26.0.10",
         "jest": "^26.4.2"
-    }
+    },
+    "directories": {
+        "lib": "lib",
+        "test": "tests"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Nageswari-droid/langline.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Nageswari-droid/langline/issues"
+    },
+    "homepage": "https://github.com/Nageswari-droid/langline#readme"
 }

@@ -304,7 +304,7 @@
 }, {
     "name": "CSS",
     "extensions": [".css"],
-    "prismIndicator": "css",
+    "prismIndicator": "markup",
     "founder": ["Håkon Wium Lie"],
     "year": ["1996"]
 }, {
@@ -753,11 +753,6 @@
     "prismIndicator": "gap",
     "founder": ["Joachim Neubüser"],
     "year": ["1985"]
-}, {
-    "name": "Markdown",
-    "extensions": [".md"],
-    "founder": ["John Gruber"],
-    "year": ["2004"]
 }, {
     "name": "GCC Machine Description",
     "extensions": [".md"],
