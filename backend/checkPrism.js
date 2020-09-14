@@ -5,7 +5,9 @@ const fs = require('fs');
 let prismArr = [];
 let jsonData = [];
 let tempArr = [];
-let parseData = [];
+let parseData = [], noPrism = [], tempArrNew = [];
+
+let count = 0;
 
 prismHandler();
 
@@ -24,28 +26,53 @@ function prismHandler() {
 
             if (flag === 'true') {
                 delete langData[i].prismIndicator;
+                console.log(langData[i].name);
+                count++;
+                noPrism.push(langData[i].name);
                 prismArr.push(langData[i]);
             }
         } else {
+            console.log(langData[i].name);
+            count++;
+            noPrism.push(langData[i].name);
             prismArr.push(langData[i]);
         }
     }
+    console.log(count);
     fileSystem(prismArr);
+    noPrismFileSystem(noPrism);
 }
 
-function fileSystem(users) {
+function PrismFileSystem(arr) {
 
     jsonData = fs.readFileSync("../data_set/prismIndicator.json");
 
     if (jsonData.buffer.byteLength === 0) {
-        tempArr.push(users);
+        tempArr.push(arr);
         fs.writeFileSync("../data_set/prismIndicator.json", JSON.stringify(tempArr));
         console.log("Buffer!");
     } else {
         parseData = JSON.parse(jsonData);
         tempArr.push(parseData);
-        tempArr.push(users);
+        tempArr.push(arr);
         fs.writeFileSync("../data_set/prismIndicator.json", JSON.stringify(tempArr));
+        console.log("Completed!");
+    }
+}
+
+function noPrismFileSystem(noArr) {
+
+    jsonData = fs.readFileSync("../data_set/no_prismIndicator.txt");
+
+    if (jsonData.buffer.byteLength === 0) {
+        tempArrNew.push(noArr);
+        fs.writeFileSync("../data_set/no_prismIndicator.txt", JSON.stringify(tempArrNew));
+        console.log("Buffer!");
+    } else {
+        parseData = JSON.parse(jsonData);
+        tempArrNew.push(parseData);
+        tempArrNew.push(noArr);
+        fs.writeFileSync("../data_set/no_prismIndicator.txt", JSON.stringify(tempArrNew));
         console.log("Completed!");
     }
 }
