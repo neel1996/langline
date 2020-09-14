@@ -317,9 +317,6 @@
     "name": "Emacs Lisp",
     "founder": ["Richard Stallman"]
 }, {
-    "name": "AmberScript",
-    "founder": ["Peter-Paul de Leeuw"]
-}, {
     "name": "Erlang",
     "founder": ["Joe Armstrong"]
 }, {
@@ -595,6 +592,9 @@
 }, {
     "name": "Jsonnet",
     "founder": ["Google"]
+}, {
+    "name": "Julia",
+    "founder": [" "]
 }, {
     "name": "Jupyter Notebook",
     "founder": ["Fernando Pérez", "Brian Granger"]
@@ -944,7 +944,7 @@
     "name": "PlantUML",
     "founder": ["Arnaud Roques"]
 }, {
-    "name": "Pogo Script",
+    "name": "PogoScript",
     "founder": ["Philippe Mougin"]
 }, {
     "name": "Pony",
@@ -1274,10 +1274,10 @@
     "name": "Uno",
     "founder": ["arduino.cc"]
 }, {
-    "name": "Unreal Script",
+    "name": "UnrealScript",
     "founder": ["Tim Sweeney"]
 }, {
-    "name": "Ur Web",
+    "name": "UrWeb",
     "founder": ["Adam Chlipala"]
 }, {
     "name": "V",
@@ -1430,7 +1430,7 @@
     "name": "Q",
     "founder": ["Arthur Whitney"]
 }, {
-    "name": "Sed",
+    "name": "sed",
     "founder": [""]
 }, {
     "name": "wdl",
