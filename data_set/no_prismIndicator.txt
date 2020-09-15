@@ -1,0 +1,314 @@
+1C Enterprise
+4D
+AGS Script
+AMPL
+ANTLR
+ASL
+ASP
+ATS
+Alloy
+Alpine-Abuild
+AngelScript
+Apex
+Apollo Guidance Computer
+Arc
+AspectJ
+Assembly
+Asymptote
+Augeas
+Awk
+Ballerina
+Batchfile
+Befunge
+BitBake
+Blitz Basic
+Blitz Max
+Bluespec
+Boo
+CLIPS
+COBOL
+COLLADA
+CSON
+CSV
+CWeb
+Cap'n Proto
+CartoCSS
+Ceylon
+Chapel
+Charity
+ChucK
+Cirru
+Clarion
+Clean
+cilk
+CodeQL
+ColdFusion
+ColdFusion CFC
+Common Workflow Language
+Component Pascal
+Cool
+Coq
+Csound
+Csound Document
+Csound Score
+Cuda
+Cycript
+Cython
+DIGITAL Command Language
+DM
+DTrace
+Dafny CFC
+DataWeave
+Dockerfile
+Dogescript
+Dylan
+E
+ECL
+ECLiPSe
+EQ
+Eagle
+Easybuild
+Emacs Lisp
+F Star
+FLUX
+Fancy
+Fantom
+Faust
+Filebench WML
+Filterscript
+Formatted
+Forth
+Fortran Free Form
+FreeMarker
+Frege
+Futhark
+G-code
+GAML
+GAMS
+GAP
+GCC Machine Description
+GDB
+GN
+Game Maker Language
+Genie
+Genshi
+Gentoo Ebuild
+Gentoo Eclass
+Glyph
+Gnuplot
+Golo
+Gosu
+Grace
+Gradle
+Grammatical Framework
+Groovy Server Pages
+HAProxy
+HXML
+Hack
+Harbour
+HiveQL
+HolyC
+Hy
+HyPhy
+IDL
+IGOR Pro
+Idris
+Inform 7
+Inno Setup
+Ioke
+Isabelle
+Isabelle ROOT
+JFlex
+JSONLD
+JSONiq
+Jasmine
+Java Server Pages
+JavaScript+ERB
+Jison
+Jison-Lex
+Jsonnet
+KRL
+Kaitai Struct
+LFE
+LSL
+LabVIEW
+Lasso
+Lean
+Lex
+Limbo
+Literate Agda
+Literate CoffeeScript
+Literate Haskell
+Logos
+Logtalk
+LookML
+LoomScript
+M
+M4
+M4Sugar
+MAXScript
+MLIR
+MQL4
+MQL5
+MUF
+Macaulay2
+Mako
+Mathematica
+Max
+Mercury
+Meson
+Metal
+MiniD
+Mirah
+Modelica
+Modula-2
+Modula-3
+Module Management System
+Moocode
+Motorola 68K Assembly
+Myghty
+NASL
+NCL
+NL
+Nearley
+Nemerle
+NetLinx
+NetLinx+ERB
+NetLogo
+NewLisp
+Nextflow
+Ninja
+Nit
+Nu
+NumPy
+ObjDump
+ObjectScript
+Objective-C
+Objective-C++
+Objective-J
+Odin
+Omgrofl
+Opa
+Opal
+Open Policy Agent
+OpenEdge ABL
+OpenQASM
+OpenRC run script
+OpenSCAD
+Ox
+Oxygene
+P4
+PLpgSQL
+POV-Ray SDL
+Pan
+Papyrus
+Parrot
+Parrot Assembly
+Parrot Internal Representation
+Pawn
+Pep8
+Pickle
+PicoLisp
+PigLatin
+Pike
+PlantUML
+PogoScript
+Pony
+PowerBuilder
+Prisma
+Proguard
+Propeller Spin
+Python console
+Q Sharp
+QMake
+Qt Script
+Quake
+REALbasic
+REXX
+RPC
+Ragel
+Raku
+Rascal
+Rebol
+Red
+Redcode
+RenderScript
+Ring
+Rouge
+SMT
+SQLPL
+STON
+SVG
+SWIG
+Sage
+SaltStack
+Scilab
+Self
+ShaderLab
+Shell
+ShellSession
+Shen
+Sieve
+Slash
+Slice
+SmPL
+SourcePawn
+Squirrel
+Standard ML
+Starlark
+Stata
+SuperCollider
+SystemVerilog
+TI Program
+TLA
+TSQL
+TXL
+Tcsh
+Terra
+Thrift
+Turing
+Unified Parallel C
+Unix Assembly
+Uno
+UrWeb
+V
+VBA
+VBScript
+VCL
+Visual Basic .NET
+Volt
+WebAssembly
+WebIDL
+WebVTT
+Wollok
+X10
+XC
+XML
+XPages
+XProc
+XS
+XSLT
+Xtend
+YARA
+Yacc
+ZAP
+ZIL
+Zeek
+ZenScript
+Zephir
+Zimpl
+desktop
+dircolors
+eC
+edn
+fish
+mIRC Script
+mcfunction
+mupad
+nanorc
+nesC
+ooc
+sed
+wdl
+wisp
+xBase

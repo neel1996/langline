@@ -1,0 +1,20 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon finalDataSet.js",
+        "founder": "nodemon founder.js",
+        "year": "nodemon year.js",
+        "prism": "nodemon prismIndicator.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.4",
+        "puppeteer": "^5.3.0"
+    }
+}
