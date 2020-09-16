@@ -94,7 +94,7 @@
     "founder": ["Daniel Jackson"],
     "year": ["1997"]
 }, {
-    "name": "Alpine-Abuild",
+    "name": "Alpine Abuild",
     "prismIndicator": "abuild",
     "founder": [""],
     "year": ["2006"]
@@ -260,13 +260,13 @@
     "founder": ["Dennis Ritchie"],
     "year": ["1972 and 1973"]
 }, {
-    "name": "C sharp",
+    "name": "C#",
     "extensions": [".cs", ".cake", ".csx", ".linq"],
     "prismIndicator": "csharp",
     "founder": ["Microsoft Corporation"],
     "year": ["2000"]
 }, {
-    "name": "Cpp",
+    "name": "C++",
     "extensions": [".cpp", ".c++", ".cc", ".cp", ".cxx", ".h", ".h++", ".hh", ".hpp", ".hxx", ".inc", ".inl", ".ino", ".ipp", ".re", ".tcc", ".tpp"],
     "prismIndicator": "cpp",
     "founder": ["Bjarne Stroustrup"],
@@ -637,13 +637,13 @@
     "founder": ["Joe Armstrong"],
     "year": ["1986"]
 }, {
-    "name": "F Sharp",
+    "name": "F#",
     "extensions": [".fs", ".fsi", ".fsx"],
     "prismIndicator": "fsharp",
     "founder": ["Don Syme", "Microsoft Research"],
     "year": ["2005"]
 }, {
-    "name": "F Star",
+    "name": "F*",
     "extensions": [".fst"],
     "prismIndicator": "fstar",
     "founder": ["Microsoft Research", "French Institute for Research in Computer Science and Automation"],
@@ -1970,7 +1970,7 @@
     "founder": ["Guido van Rossum"],
     "year": ["1991"]
 }, {
-    "name": "Q Sharp",
+    "name": "Q#",
     "extensions": [".qs"],
     "prismIndicator": "qsharp",
     "founder": ["Microsoft Research"],
