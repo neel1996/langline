@@ -1,0 +1,3562 @@
+[{
+        "name": "1C Enterprise",
+        "extensions": [".bsl", ".os"],
+        "founder": ["Boris Nuraliev"],
+        "year": ["1991"]
+    },
+    {
+        "name": "4D",
+        "extensions": [".4dm"],
+        "founder": ["Guy Kawasaki"],
+        "year": ["1984"]
+    },
+    {
+        "name": "ABAP",
+        "extensions": [".abap"],
+        "prismIndicator": "abap",
+        "founder": ["SAP"],
+        "year": ["1983"]
+    },
+    {
+        "name": "ABNF",
+        "extensions": [".abnf"],
+        "prismIndicator": "abnf",
+        "founder": ["John Backus"],
+        "year": ["1959"]
+    },
+    {
+        "name": "AGS Script",
+        "extensions": [".asc", ".ash"],
+        "founder": ["Chris Jones"],
+        "year": ["1997"]
+    },
+    {
+        "name": "AMPL",
+        "extensions": [".ampl", ".mod"],
+        "founder": ["Robert Fourer", "Brian Kernighan", "Bell Labs"],
+        "year": ["1985"]
+    },
+    {
+        "name": "ANTLR",
+        "extensions": [".g4"],
+        "founder": ["Guido van Rossum"],
+        "year": ["1992"]
+    },
+    {
+        "name": "API Blueprint",
+        "extensions": [".apib"],
+        "prismIndicator": "markup",
+        "founder": [""],
+        "year": ["2013"]
+    },
+    {
+        "name": "APL",
+        "extensions": [".apl", ".dyalog"],
+        "prismIndicator": "apl",
+        "founder": ["Kenneth E. Iverson"],
+        "year": ["27, 1966"]
+    },
+    {
+        "name": "ASL",
+        "extensions": [".asl", ".dsl"],
+        "founder": ["Achim Bernhardt PublicSoft GmbH"],
+        "year": ["2014"]
+    },
+    {
+        "name": "ASP",
+        "extensions": [
+            ".asp",
+            ".asax",
+            ".ascx",
+            ".ashx",
+            ".asmx",
+            ".aspx",
+            ".axd"
+        ],
+        "founder": ["Microsoft"],
+        "year": ["2002"]
+    },
+    {
+        "name": "ATS",
+        "extensions": [".dats", ".hats", ".sats"],
+        "founder": ["Hongwei Xi"],
+        "year": ["2019"]
+    },
+    {
+        "name": "ActionScript",
+        "extensions": [".as"],
+        "prismIndicator": "actionscript",
+        "founder": ["Gary Grossman"],
+        "year": ["1998"]
+    },
+    {
+        "name": "Ada",
+        "extensions": [".adb", ".ada", ".ads"],
+        "prismIndicator": "ada",
+        "founder": ["Jean Ichbiah", "S. Tucker Taft"],
+        "year": ["1980s"]
+    },
+    {
+        "name": "Agda",
+        "extensions": [".agda"],
+        "prismIndicator": "agda",
+        "founder": ["Ulf Norell"],
+        "year": ["1999"]
+    },
+    {
+        "name": "Alloy",
+        "extensions": [".als"],
+        "founder": ["Daniel Jackson"],
+        "year": ["1997"]
+    },
+    {
+        "name": "Alpine-Abuild",
+        "founder": [""],
+        "year": ["2006"]
+    },
+    {
+        "name": "AngelScript",
+        "extensions": [".as", ".angelscript"],
+        "founder": ["Andreas Jönsson"],
+        "year": ["2003"]
+    },
+    {
+        "name": "Apache Conf",
+        "extensions": [".apacheconf", ".vhost"],
+        "prismIndicator": "apacheconf",
+        "founder": ["Robert McCool"],
+        "year": ["1995"]
+    },
+    {
+        "name": "Apex",
+        "extensions": [".cls"],
+        "founder": ["Salesforce.com"],
+        "year": ["2007"]
+    },
+    {
+        "name": "Apollo Guidance Computer",
+        "extensions": [".agc"],
+        "founder": ["Charles Stark Draper"],
+        "year": ["1966"]
+    },
+    {
+        "name": "AppleScript",
+        "extensions": [".applescript", ".scpt"],
+        "prismIndicator": "applescript",
+        "founder": ["Apple Inc"],
+        "year": ["1993"]
+    },
+    {
+        "name": "Arc",
+        "extensions": [".arc"],
+        "founder": ["Paul Graham"],
+        "year": ["2001"]
+    },
+    {
+        "name": "AspectJ",
+        "extensions": [".aj"],
+        "founder": ["Mik Kersten"],
+        "year": ["2001"]
+    },
+    {
+        "name": "Assembly",
+        "extensions": [".asm", ".a51", ".i", ".inc", ".nasm"],
+        "founder": ["David J. Wheeler"],
+        "year": ["1949"]
+    },
+    {
+        "name": "Asymptote",
+        "extensions": [".asy"],
+        "founder": ["Andy Hammerlindl", "John C. Bow"],
+        "year": ["2004"]
+    },
+    {
+        "name": "Augeas",
+        "extensions": [".aug"],
+        "founder": [""],
+        "year": ["1995"]
+    },
+    {
+        "name": "AutoHotkey",
+        "extensions": [".ahk", ".ahkl"],
+        "prismIndicator": "autohotkey",
+        "founder": ["Chris Mallett"],
+        "year": ["2003"]
+    },
+    {
+        "name": "AutoIt",
+        "extensions": [".au3"],
+        "prismIndicator": "autoit",
+        "founder": ["Jonathan Bennett"],
+        "year": ["1999"]
+    },
+    {
+        "name": "Awk",
+        "extensions": [".awk", ".auk", ".gawk", ".mawk", ".nawk"],
+        "founder": ["Alfred Aho", "Peter J. Weinberger", "Brian Kernighan"],
+        "year": ["1977"]
+    },
+    {
+        "name": "Ballerina",
+        "extensions": [".bal"],
+        "founder": [
+            "Sanjiva Weerawarana",
+            "James Clark",
+            "Sameera Jayasoma",
+            "Hasitha Aravinda",
+            "Srinath Perera",
+            "Frank Leymann",
+            "WSO2"
+        ],
+        "year": ["2015"]
+    },
+    {
+        "name": "Batchfile",
+        "extensions": [".bat", ".cmd"],
+        "founder": ["batch script"],
+        "year": ["1985"]
+    },
+    {
+        "name": "Befunge",
+        "extensions": [".befunge"],
+        "founder": ["Chris Pressey"],
+        "year": ["1993"]
+    },
+    {
+        "name": "BibTeX",
+        "extensions": [".bib", ".bibtex"],
+        "prismIndicator": "markup",
+        "founder": ["Oren Patashnik, Leslie Lamport"],
+        "year": ["1985"]
+    },
+    {
+        "name": "Bison",
+        "extensions": [".bison"],
+        "prismIndicator": "bison",
+        "founder": ["Robert Corbett"],
+        "year": ["1985"]
+    },
+    {
+        "name": "BitBake",
+        "extensions": [".bb"],
+        "founder": ["Holger Schurig"],
+        "year": ["2004"]
+    },
+    {
+        "name": "Blade",
+        "extensions": [".blade", ".blade.php"],
+        "prismIndicator": "markup",
+        "founder": ["Phillip Porras"],
+        "year": ["2011"]
+    },
+    {
+        "name": "Blitz Basic",
+        "extensions": [".bb", ".decls"],
+        "founder": ["Mark Sibly"],
+        "year": ["2004"]
+    },
+    {
+        "name": "Blitz Max",
+        "extensions": [".bmx"],
+        "founder": ["Mark Sibly"],
+        "year": ["2004"]
+    },
+    {
+        "name": "Bluespec",
+        "extensions": [".bsv"],
+        "founder": ["Professor Arvind"],
+        "year": ["2003"]
+    },
+    {
+        "name": "Boo",
+        "extensions": [".boo"],
+        "founder": ["Rodrigo B. De Oliveira"],
+        "year": ["2003"]
+    },
+    {
+        "name": "Brainfuck",
+        "extensions": [".b", ".bf"],
+        "prismIndicator": "brainfuck",
+        "founder": ["Urban Müller"],
+        "year": ["1993"]
+    },
+    {
+        "name": "Brightscript",
+        "extensions": [".brs"],
+        "prismIndicator": "brightscript",
+        "founder": ["Anthony Wood"],
+        "year": ["2008"]
+    },
+    {
+        "name": "C",
+        "extensions": [".c", ".cats", ".h", ".idc"],
+        "prismIndicator": "c",
+        "founder": ["Dennis Ritchie"],
+        "year": ["1972 and 1973"]
+    },
+    {
+        "name": "C#",
+        "extensions": [".cs", ".cake", ".csx", ".linq"],
+        "prismIndicator": "csharp",
+        "founder": ["Microsoft Corporation"],
+        "year": ["2000"]
+    },
+    {
+        "name": "C++",
+        "extensions": [
+            ".cpp",
+            ".c++",
+            ".cc",
+            ".cp",
+            ".cxx",
+            ".h",
+            ".h++",
+            ".hh",
+            ".hpp",
+            ".hxx",
+            ".inc",
+            ".inl",
+            ".ino",
+            ".ipp",
+            ".re",
+            ".tcc",
+            ".tpp"
+        ],
+        "prismIndicator": "cpp",
+        "founder": ["Bjarne Stroustrup"],
+        "year": ["1980"]
+    },
+    {
+        "name": "CLIPS",
+        "extensions": [".clp"],
+        "founder": [""],
+        "year": ["1985"]
+    },
+    {
+        "name": "CMake",
+        "extensions": [".cmake", ".cmake.in"],
+        "prismIndicator": "cmake",
+        "founder": [
+            "Andy Cedilnik, Bill Hoffman, Brad King, Ken Martin, Alexander Neundorf"
+        ],
+        "year": ["2000"]
+    },
+    {
+        "name": "COBOL",
+        "extensions": [".cob", ".cbl", ".ccp", ".cobol", ".cpy"],
+        "founder": ["Grace Murray Hopper"],
+        "year": ["1959"]
+    },
+    {
+        "name": "COLLADA",
+        "extensions": [".dae"],
+        "founder": ["Rémi Arnaud"],
+        "year": ["2004"]
+    },
+    {
+        "name": "CSON",
+        "extensions": [".cson"],
+        "founder": ["Fredrik Hübinette"],
+        "year": ["1972"]
+    },
+    {
+        "name": "CSS",
+        "extensions": [".css"],
+        "prismIndicator": "markup",
+        "founder": ["Håkon Wium Lie"],
+        "year": ["1996"]
+    },
+    {
+        "name": "CSV",
+        "extensions": [".csv"],
+        "founder": ["Adam Retter"],
+        "year": ["2005"]
+    },
+    {
+        "name": "CWeb",
+        "extensions": [".w"],
+        "founder": ["Fortran"],
+        "year": ["1987"]
+    },
+    {
+        "name": "Cap'n Proto",
+        "extensions": [".capnp"],
+        "founder": ["Wouter van Oortmerssen"],
+        "year": ["2014"]
+    },
+    {
+        "name": "CartoCSS",
+        "extensions": [".mss"],
+        "founder": [""],
+        "year": ["2011"]
+    },
+    {
+        "name": "Ceylon",
+        "extensions": [".ceylon"],
+        "founder": ["Gavin King"],
+        "year": ["2011"]
+    },
+    {
+        "name": "Chapel",
+        "extensions": [".chpl"],
+        "founder": ["David Callahan, Hans Zima, Brad Chamberlain, John Plevyak"],
+        "year": ["2009"]
+    },
+    {
+        "name": "Charity",
+        "extensions": [".ch"],
+        "founder": [
+            "Hagino Tatsuya", "Robin Cockett", "developed at the University of Calgary"
+        ],
+        "year": ["1992"]
+    },
+    {
+        "name": "ChucK",
+        "extensions": [".ck"],
+        "founder": ["Ge Wang"],
+        "year": ["2003"]
+    },
+    {
+        "name": "Cirru",
+        "extensions": [".cirru"],
+        "founder": ["Michael Hanus", "Sergio Antoy, et al."],
+        "year": ["1980s"]
+    },
+    {
+        "name": "Clarion",
+        "extensions": [".clw"],
+        "founder": ["Bruce Barrington"],
+        "year": ["1986"]
+    },
+    {
+        "name": "Clean",
+        "extensions": [".icl", ".dcl"],
+        "founder": [
+            "Software Technology Research Group of Radboud University Nijmegen"
+        ],
+        "year": ["1987"]
+    },
+    {
+        "name": "cilk",
+        "extensions": [".c", ".c++"],
+        "founder": ["Intel"],
+        "year": ["2010"]
+    },
+    {
+        "name": "Clojure",
+        "extensions": [
+            ".clj",
+            ".boot",
+            ".cl2",
+            ".cljc",
+            ".cljs",
+            ".cljs.hl",
+            ".cljscm",
+            ".cljx",
+            ".hic"
+        ],
+        "prismIndicator": "clojure",
+        "founder": ["Rich Hickey"],
+        "year": ["2007"]
+    },
+    {
+        "name": "Closure Templates",
+        "extensions": [".soy"],
+        "prismIndicator": "markup",
+        "founder": ["Google"],
+        "year": ["November 5, 2009"]
+    },
+    {
+        "name": "CodeQL",
+        "extensions": [".ql", ".qll"],
+        "founder": ["Oege de Moor"],
+        "year": [""]
+    },
+    {
+        "name": "CoffeeScript",
+        "extensions": [".coffee", "._coffee", ".cake", ".cjsx", ".iced"],
+        "prismIndicator": "coffeescript",
+        "founder": ["Jeremy Ashkenas"],
+        "year": ["2009"]
+    },
+    {
+        "name": "ColdFusion",
+        "extensions": [".cfm", ".cfml"],
+        "founder": ["Jeremy Allaire"],
+        "year": ["1995"]
+    },
+    {
+        "name": "ColdFusion CFC",
+        "extensions": [".cfc"],
+        "founder": ["Jeremy Allaire"],
+        "year": ["1995"]
+    },
+    {
+        "name": "Common Lisp",
+        "extensions": [
+            ".lisp",
+            ".asd",
+            ".cl",
+            ".l",
+            ".lsp",
+            ".ny",
+            ".podsl",
+            ".sexp"
+        ],
+        "prismIndicator": "lisp",
+        "founder": [
+            "John McCarthy",
+            "Steve Russell",
+            "Timothy P. Hart",
+            "Mike Levin"
+        ],
+        "year": ["1960"]
+    },
+    {
+        "name": "Common Workflow Language",
+        "extensions": [".cwl"],
+        "founder": [
+            "Peter Amstutz", "John Chilton", "Nebojsa Tijanic", "Michael R. Crusoe"
+        ],
+        "year": ["2014"]
+    },
+    {
+        "name": "Component Pascal",
+        "extensions": [".cp", ".cps"],
+        "founder": ["Niklaus Wirth"],
+        "year": ["1997"]
+    },
+    {
+        "name": "Cool",
+        "extensions": [".cl"],
+        "founder": ["Alexander Aiken"],
+        "year": ["1996"]
+    },
+    {
+        "name": "Coq",
+        "extensions": [".coq", ".v"],
+        "founder": ["Gérard Huet"],
+        "year": ["1989"]
+    },
+    {
+        "name": "Crystal",
+        "extensions": [".cr"],
+        "prismIndicator": "crystal",
+        "founder": ["Ary Borenszweig"],
+        "year": ["2009"]
+    },
+    {
+        "name": "Csound",
+        "extensions": [".orc", ".udo"],
+        "founder": ["Barry Vercoe"],
+        "year": ["1986"]
+    },
+    {
+        "name": "Csound Document",
+        "extensions": [".csd"],
+        "founder": ["Barry Vercoe"],
+        "year": ["1986"]
+    },
+    {
+        "name": "Csound Score",
+        "extensions": [".sco"],
+        "founder": ["Barry Vercoe"],
+        "year": ["1986"]
+    },
+    {
+        "name": "Cuda",
+        "extensions": [".cu", ".cuh"],
+        "founder": ["Nvidia"],
+        "year": ["2007"]
+    },
+    {
+        "name": "Cycript",
+        "extensions": [".cy"],
+        "founder": [""],
+        "year": ["2007"]
+    },
+    {
+        "name": "Cython",
+        "extensions": [".pyx", ".pxd", ".pxi"],
+        "founder": ["Robert Bradshaw"],
+        "year": ["1991"]
+    },
+    {
+        "name": "D",
+        "extensions": [".d", ".di"],
+        "prismIndicator": "d",
+        "founder": ["Konrad Zuse"],
+        "year": ["2001"]
+    },
+    {
+        "name": "DIGITAL Command Language",
+        "extensions": [".com"],
+        "founder": ["Digital Equipment Corporation"],
+        "year": ["1997"]
+    },
+    {
+        "name": "DM",
+        "extensions": [".dm"],
+        "founder": ["Dennis MacAlistair Ritchie"],
+        "year": ["1994"]
+    },
+    {
+        "name": "DTrace",
+        "extensions": [".d"],
+        "founder": [
+            "Bryan Cantrill", "Adam Leventhal", "Mike Shapiro (Sun Microsystems)"
+        ],
+        "year": ["2005"]
+    },
+    {
+        "name": "Dafny CFC",
+        "extensions": [".dfy"],
+        "founder": ["Rustan Leino"],
+        "year": ["2009"]
+    },
+    {
+        "name": "Dart",
+        "extensions": [".dart"],
+        "prismIndicator": "dart",
+        "founder": ["Lars Bak"],
+        "year": ["2011"]
+    },
+    {
+        "name": "DataWeave",
+        "extensions": [".dwl"],
+        "founder": ["Karthik Bettadapura"],
+        "year": ["2014"]
+    },
+    {
+        "name": "Dhall",
+        "extensions": [".dhall"],
+        "prismIndicator": "dhall",
+        "founder": ["Gabriel Gonzalez"],
+        "year": ["2017"]
+    },
+    {
+        "name": "Diff",
+        "extensions": [".diff", ".patch"],
+        "prismIndicator": "diff",
+        "founder": [""],
+        "year": ["1974"]
+    },
+    {
+        "name": "Dockerfile",
+        "extensions": [".dockerfile"],
+        "founder": ["Solomon Hykes"],
+        "year": ["2013"]
+    },
+    {
+        "name": "Dogescript",
+        "extensions": [".djs"],
+        "founder": ["Zach Bruggeman"],
+        "year": ["2013"]
+    },
+    {
+        "name": "Dylan",
+        "extensions": [".dylan", ".dyl", ".intr", ".lid"],
+        "founder": ["Walter Smith"],
+        "year": ["1992"]
+    },
+    {
+        "name": "E",
+        "extensions": [".E"],
+        "founder": ["Mark S. Miller"],
+        "year": ["1997"]
+    },
+    {
+        "name": "EBNF",
+        "extensions": [".ebnf"],
+        "prismIndicator": "ebnf",
+        "founder": ["Niklaus Wirth"],
+        "year": ["1996"]
+    },
+    {
+        "name": "ECL",
+        "extensions": [".ecl", ".eclxml"],
+        "founder": ["David Bayliss"],
+        "year": ["2000"]
+    },
+    {
+        "name": "ECLiPSe",
+        "extensions": [".ecl"],
+        "founder": ["IBM"],
+        "year": ["2001"]
+    },
+    {
+        "name": "EJS",
+        "extensions": [".ejs"],
+        "prismIndicator": "markup",
+        "founder": ["Francisco Esquembre"],
+        "year": ["2010"]
+    },
+    {
+        "name": "EQ",
+        "extensions": [".eq"],
+        "founder": ["Brad McQuaid", "Steve Clover", "Bill Trost"],
+        "year": [""]
+    },
+    {
+        "name": "Eagle",
+        "extensions": [".sch", ".brd"],
+        "founder": ["Rudolf Hofer"],
+        "year": ["1988"]
+    },
+    {
+        "name": "Easybuild",
+        "extensions": [".eb"],
+        "founder": ["Guido van Rossum"],
+        "year": ["2014"]
+    },
+    {
+        "name": "Eiffel",
+        "extensions": [".e"],
+        "prismIndicator": "eiffel",
+        "founder": ["Bertrand Meyer"],
+        "year": ["1986"]
+    },
+    {
+        "name": "Elixir",
+        "extensions": [".ex", ".exs"],
+        "prismIndicator": "elixir",
+        "founder": ["José Valim"],
+        "year": ["2011"]
+    },
+    {
+        "name": "Elm",
+        "extensions": [".elm"],
+        "prismIndicator": "elm",
+        "founder": ["Evan Czaplicki"],
+        "year": ["2012"]
+    },
+    {
+        "name": "Emacs Lisp",
+        "extensions": [".el", ".emacs", ".emacs.desktop"],
+        "founder": ["Richard Stallman"],
+        "year": ["1976"]
+    },
+    {
+        "name": "Erlang",
+        "extensions": [
+            ".erl",
+            ".app.src",
+            ".es",
+            ".escript",
+            ".hrl",
+            ".xrl",
+            ".yrl"
+        ],
+        "prismIndicator": "erlang",
+        "founder": ["Joe Armstrong"],
+        "year": ["1986"]
+    },
+    {
+        "name": "F#",
+        "extensions": [".fs", ".fsi", ".fsx"],
+        "prismIndicator": "fsharp",
+        "founder": ["Don Syme", "Microsoft Research"],
+        "year": ["2005"]
+    },
+    {
+        "name": "F*",
+        "extensions": [".fst"],
+        "founder": [
+            "Microsoft Research",
+            "French Institute for Research in Computer Science and Automation"
+        ],
+        "year": ["2016"]
+    },
+    {
+        "name": "FLUX",
+        "extensions": [".fx", ".flux"],
+        "founder": ["Paul Dix"],
+        "year": ["2014"]
+    },
+    {
+        "name": "Factor",
+        "extensions": [".factor"],
+        "prismIndicator": "factor",
+        "founder": ["Slava Pestov"],
+        "year": ["2003"]
+    },
+    {
+        "name": "Fancy",
+        "extensions": [".fy", ".fancypack"],
+        "founder": ["Rasmus Lerdorf"],
+        "year": ["2010"]
+    },
+    {
+        "name": "Fantom",
+        "extensions": [".fan"],
+        "founder": ["Andy Frank"],
+        "year": ["2005"]
+    },
+    {
+        "name": "Faust",
+        "extensions": [".dsp"],
+        "founder": ["Yann Orlarey", "Dominique Fober", "Stéphane Letz"],
+        "year": ["2002"]
+    },
+    {
+        "name": "Filebench WML",
+        "extensions": [".f"],
+        "founder": [],
+        "year": ["2002"]
+    },
+    {
+        "name": "Filterscript",
+        "extensions": [".fs"],
+        "founder": ["Jonathan Mitchell"],
+        "year": ["2009"]
+    },
+    {
+        "name": "Formatted",
+        "extensions": [".for", ".eam.fs"],
+        "founder": [""],
+        "year": ["1972"]
+    },
+    {
+        "name": "Forth",
+        "extensions": [
+            ".fth",
+            ".4th",
+            ".f",
+            ".for",
+            ".forth",
+            ".fr",
+            ".frt",
+            ".fs"
+        ],
+        "founder": ["Charles H. Moore"],
+        "year": ["1970"]
+    },
+    {
+        "name": "Fortran",
+        "extensions": [".f", ".f77", ".for", ".fpp"],
+        "prismIndicator": "fortran",
+        "founder": ["John Backus"],
+        "year": ["1957"]
+    },
+    {
+        "name": "Fortran Free Form",
+        "extensions": [".f90", ".f03", ".f08", ".f95"],
+        "founder": ["John Backus Developer"],
+        "year": ["1957"]
+    },
+    {
+        "name": "FreeMarker",
+        "extensions": [".ftl"],
+        "founder": [
+            "Jonathan Revusky", "Attila Szegedi", "Dániel Dékány"
+        ],
+        "year": ["2000"]
+    },
+    {
+        "name": "Frege",
+        "extensions": [".fr"],
+        "founder": ["Ingo Wechsung"],
+        "year": ["2011"]
+    },
+    {
+        "name": "Futhark",
+        "extensions": [".fut"],
+        "founder": ["Troels Henriksen", "Cosmin Oancea", "Martin Elsman"],
+        "year": ["2014"]
+    },
+    {
+        "name": "G-code",
+        "extensions": [".g", ".cnc", ".gco", ".gcode"],
+        "founder": ["Massachusetts Institute of Technology"],
+        "year": ["1950s"]
+    },
+    {
+        "name": "GAML",
+        "extensions": [".gaml"],
+        "founder": ["Robert Griesemer Rob Pike Ken Thompson"],
+        "year": ["1991"]
+    },
+    {
+        "name": "GAMS",
+        "extensions": [".gms"],
+        "founder": ["George Dantzig"],
+        "year": ["1988"]
+    },
+    {
+        "name": "GAP",
+        "extensions": [".g", ".gap", ".gd", ".gi", ".tst"],
+        "founder": ["Joachim Neubüser"],
+        "year": ["1985"]
+    },
+    {
+        "name": "GCC Machine Description",
+        "extensions": [".md"],
+        "founder": ["GNU Project"],
+        "year": ["2001"]
+    },
+    {
+        "name": "GDB",
+        "extensions": [".gdb", ".gdbinit"],
+        "founder": ["Richard Stallman"],
+        "year": ["1986"]
+    },
+    {
+        "name": "GDScript",
+        "extensions": [".gd"],
+        "prismIndicator": "gdscript",
+        "founder": ["Juan Linietsky"],
+        "year": ["2008"]
+    },
+    {
+        "name": "GEDCOM",
+        "extensions": [".ged"],
+        "prismIndicator": "gedcom",
+        "founder": ["LDS FHD"],
+        "year": ["1984"]
+    },
+    {
+        "name": "GLSL",
+        "extensions": [
+            ".glsl",
+            ".fp",
+            ".frag",
+            ".frg",
+            ".fs",
+            ".fsh",
+            ".fshader",
+            ".geo",
+            ".geom",
+            ".glslf",
+            ".glslv",
+            ".gs",
+            ".gshader",
+            ".shader",
+            ".tesc",
+            ".tese",
+            ".vert",
+            ".vrx",
+            ".vsh",
+            ".vshader"
+        ],
+        "prismIndicator": "glsl",
+        "founder": ["Mark Segal"],
+        "year": ["2004"]
+    },
+    {
+        "name": "GN",
+        "extensions": [".gn", ".gni"],
+        "founder": ["Mahesh Kulkarni"],
+        "year": ["1976"]
+    },
+    {
+        "name": "Game Maker Language",
+        "extensions": [".gml"],
+        "founder": ["Mark Overmars"],
+        "year": ["1999"]
+    },
+    {
+        "name": "Genie",
+        "extensions": [".gs"],
+        "founder": ["Jamie McCracken"],
+        "year": ["2008"]
+    },
+    {
+        "name": "Genshi",
+        "extensions": [".kid"],
+        "founder": ["Edgewall Software"],
+        "year": ["1950s"]
+    },
+    {
+        "name": "Gentoo Ebuild",
+        "extensions": [".ebuild"],
+        "founder": ["Portage"],
+        "year": ["1999"]
+    },
+    {
+        "name": "Gentoo Eclass",
+        "extensions": [".eclass"],
+        "founder": [""],
+        "year": ["2000"]
+    },
+    {
+        "name": "Gherkin",
+        "extensions": [".feature"],
+        "prismIndicator": "gherkin",
+        "founder": [
+            "Aslak Hellesøy", "Joseph Wilk", "Matt Wynne", "Gregory Hnatiuk", "Mike Sassak"
+        ],
+        "year": ["2008"]
+    },
+    {
+        "name": "Glyph",
+        "extensions": [".glf"],
+        "founder": ["Glyph Lefkowitz"],
+        "year": ["2007"]
+    },
+    {
+        "name": "Gnuplot",
+        "extensions": [".gp", ".gnu", ".gnuplot", ".p", ".plot", ".plt"],
+        "founder": ["Thomas Williams", "Colin Kelley"],
+        "year": ["1986"]
+    },
+    {
+        "name": "Go",
+        "extensions": [".go"],
+        "prismIndicator": "go",
+        "founder": ["Robert Griesemer", "Rob Pike", "Ken Thompson"],
+        "year": ["2009"]
+    },
+    {
+        "name": "Golo",
+        "extensions": [".golo"],
+        "founder": ["INSA Lyon"],
+        "year": ["2012"]
+    },
+    {
+        "name": "Gosu",
+        "extensions": [".gs", ".gst", ".gsx", ".vark"],
+        "founder": ["Guidewire and open source contributors"],
+        "year": ["2002"]
+    },
+    {
+        "name": "Grace",
+        "extensions": [".grace"],
+        "founder": ["Andrew Black"],
+        "year": ["1953"]
+    },
+    {
+        "name": "Gradle",
+        "extensions": [".gradle"],
+        "founder": ["Groovy language"],
+        "year": ["2007"]
+    },
+    {
+        "name": "Grammatical Framework",
+        "extensions": [".gf"],
+        "founder": ["Martin Löf's"],
+        "year": ["1994"]
+    },
+    {
+        "name": "GraphQL",
+        "extensions": [".graphql", ".gql", ".graphqls"],
+        "prismIndicator": "graphql",
+        "founder": ["Lee Byron"],
+        "year": ["2015"]
+    },
+    {
+        "name": "Groovy",
+        "extensions": [".groovy", ".grt", ".gtpl", ".gvy"],
+        "prismIndicator": "groovy",
+        "founder": ["James Strachan"],
+        "year": ["2003"]
+    },
+    {
+        "name": "Groovy Server Pages",
+        "extensions": [".gsp"],
+        "founder": ["Graeme Rocher"],
+        "year": ["2005"]
+    },
+    {
+        "name": "HAProxy",
+        "extensions": [".cfg"],
+        "founder": ["Willy Tarreau"],
+        "year": ["2000"]
+    },
+    {
+        "name": "HCL",
+        "extensions": [".hcl", ".tf", ".tfvars", ".workflow"],
+        "prismIndicator": "hcl",
+        "founder": ["Shiv Nadar"],
+        "year": ["1976"]
+    },
+    {
+        "name": "HLSL",
+        "extensions": [".hlsl", ".cginc", ".fx", ".fxh", ".hlsli"],
+        "prismIndicator": "hlsl",
+        "founder": ["GLSL"],
+        "year": ["2002"]
+    },
+    {
+        "name": "HTML",
+        "extensions": [
+            ".html",
+            ".htm",
+            ".html.hl",
+            ".inc",
+            ".st",
+            ".xht",
+            ".xhtml"
+        ],
+        "prismIndicator": "markup",
+        "founder": ["Tim Berners-Lee"],
+        "year": ["1990"]
+    },
+    {
+        "name": "HTML+Django",
+        "extensions": [".jinja", ".jinja2", ".mustache", ".njk"],
+        "prismIndicator": "markup",
+        "founder": ["Adrian Holovaty", "Simon Willison"],
+        "year": ["2003"]
+    },
+    {
+        "name": "HTML+ECR",
+        "extensions": [".ecr"],
+        "prismIndicator": "markup",
+        "founder": ["Konrad Zuse"],
+        "year": ["1990"]
+    },
+    {
+        "name": "HTML+EEX",
+        "extensions": [".eex"],
+        "prismIndicator": "markup",
+        "founder": [""],
+        "year": ["1993"]
+    },
+    {
+        "name": "HTML+ERB",
+        "extensions": [".erb", ".erb.deface", ".rhtml"],
+        "prismIndicator": "markup",
+        "founder": ["David Heinemeier Hansson"],
+        "year": ["1996"]
+    },
+    {
+        "name": "HTML+PHP",
+        "extensions": [".phtml"],
+        "prismIndicator": "markup",
+        "founder": ["Rasmus Lerdorf"],
+        "year": ["1995"]
+    },
+    {
+        "name": "HTML+Razor",
+        "extensions": [".cshtml", ".razor"],
+        "prismIndicator": "markup",
+        "founder": ["Microsoft"],
+        "year": ["2010"]
+    },
+    {
+        "name": "HTTP",
+        "extensions": [".http"],
+        "prismIndicator": "http",
+        "founder": ["Sir Timothy John Berners-Lee"],
+        "year": ["1991"]
+    },
+    {
+        "name": "HXML",
+        "extensions": [".hxml"],
+        "founder": ["Konrad Zuse"],
+        "year": ["2005"]
+    },
+    {
+        "name": "Hack",
+        "extensions": [".hack", ".hh", ".hhi", ".php"],
+        "founder": ["Facebook"],
+        "year": ["‎2014"]
+    },
+    {
+        "name": "Haml",
+        "extensions": [".haml", ".haml.deface"],
+        "prismIndicator": "markup",
+        "founder": ["Hampton Catlin"],
+        "year": ["1990s"]
+    },
+    {
+        "name": "Handlebars",
+        "extensions": [".handlebars", ".hbs"],
+        "prismIndicator": "markup",
+        "founder": ["Chris Wanstrath"],
+        "year": ["1920"]
+    },
+    {
+        "name": "Harbour",
+        "extensions": [".hb"],
+        "founder": ["Antonio Linares"],
+        "year": ["1999"]
+    },
+    {
+        "name": "Haskell",
+        "extensions": [".hs", ".hs-boot", ".hsc"],
+        "prismIndicator": "haskell",
+        "founder": [
+            "Lennart Augustsson",
+            "Dave Barton",
+            "Brian Boutel",
+            "Warren Burton",
+            "Joseph Fasel",
+            "Kevin Hammond",
+            "Ralf Hinze",
+            "Paul Hudak",
+            "John Hughes",
+            "Thomas Johnsson",
+            "Mark Jones",
+            "Simon Peyton Jones",
+            "John Launchbury",
+            "Erik Meijer",
+            "John Peterson",
+            "Alastair Reid",
+            "Colin Runciman",
+            "Philip Wadler"
+        ],
+        "year": ["1990"]
+    },
+    {
+        "name": "Haxe",
+        "extensions": [".hx", ".hxsl"],
+        "prismIndicator": "haxe",
+        "founder": ["Haxe Foundation"],
+        "year": ["2005"]
+    },
+    {
+        "name": "HiveQL",
+        "extensions": [".q", ".hql"],
+        "founder": ["Facebook"],
+        "year": ["2010"]
+    },
+    {
+        "name": "HolyC",
+        "extensions": [".hc"],
+        "founder": ["Terry A. Davis"],
+        "year": ["2005"]
+    },
+    {
+        "name": "Hy",
+        "extensions": [".hy"],
+        "founder": ["Paul Tagliamonte"],
+        "year": ["2013"]
+    },
+    {
+        "name": "HyPhy",
+        "extensions": [".bf"],
+        "founder": ["producer J Maine"],
+        "year": ["1997"]
+    },
+    {
+        "name": "IDL",
+        "extensions": [".pro", ".dlm"],
+        "founder": ["David Stern"],
+        "year": ["1977"]
+    },
+    {
+        "name": "IGOR Pro",
+        "extensions": [".ipf"],
+        "founder": ["WaveMetrics Inc."],
+        "year": ["1993"]
+    },
+    {
+        "name": "INI",
+        "extensions": [
+            ".ini",
+            ".cfg",
+            ".dof",
+            ".lektorproject",
+            ".prefs",
+            ".pro",
+            ".properties"
+        ],
+        "prismIndicator": "ini",
+        "founder": [""],
+        "year": ["1987"]
+    },
+    {
+        "name": "Idris",
+        "extensions": [".idr", ".lidr"],
+        "founder": ["Edwin Brady"],
+        "year": ["2007"]
+    },
+    {
+        "name": "Inform 7",
+        "extensions": [".ni", ".i7x"],
+        "founder": ["Graham Nelson"],
+        "year": ["1993"]
+    },
+    {
+        "name": "Inno Setup",
+        "extensions": [".iss", ".isl"],
+        "founder": ["Jordan Russell’s Software"],
+        "year": ["1997"]
+    },
+    {
+        "name": "Io",
+        "extensions": [".io"],
+        "prismIndicator": "io",
+        "founder": ["Steve Dekorte"],
+        "year": ["2002"]
+    },
+    {
+        "name": "Ioke",
+        "extensions": [".ik"],
+        "founder": ["Ola Bini"],
+        "year": ["2008"]
+    },
+    {
+        "name": "Isabelle",
+        "extensions": [".thy"],
+        "founder": ["Lawrence Paulson"],
+        "year": ["1986"]
+    },
+    { "name": "Isabelle ROOT", "founder": [""], "year": ["1986"] },
+    {
+        "name": "J",
+        "extensions": [".ijs"],
+        "prismIndicator": "j",
+        "founder": ["Kenneth E. Iverson", "Roger Hui"],
+        "year": ["1990"]
+    },
+    {
+        "name": "JFlex",
+        "extensions": [".flex", ".jflex"],
+        "founder": ["Alan Kay"],
+        "year": ["1960s"]
+    },
+    {
+        "name": "JSON",
+        "extensions": [
+            ".json",
+            ".avsc",
+            ".geojson",
+            ".gltf",
+            ".har",
+            ".ice",
+            ".JSON-tmLanguage",
+            ".jsonl",
+            ".mcmeta",
+            ".tfstate",
+            ".tfstate.backup",
+            ".topojson",
+            ".webapp",
+            ".webmanifest",
+            ".yy",
+            ".yyp"
+        ],
+        "prismIndicator": "json",
+        "founder": ["Douglas Crockford"],
+        "year": ["2013"]
+    },
+    {
+        "name": "JSON5",
+        "extensions": [".json5"],
+        "prismIndicator": "json5",
+        "founder": ["Douglas Crockford"],
+        "year": ["1997"]
+    },
+    {
+        "name": "JSONLD",
+        "extensions": [".jsonld"],
+        "founder": ["JSON for Linking Data Community Group"],
+        "year": ["2010"]
+    },
+    {
+        "name": "JSONiq",
+        "extensions": [".jq"],
+        "founder": [""],
+        "year": ["2011"]
+    },
+    {
+        "name": "JSX",
+        "extensions": [".jsx"],
+        "prismIndicator": "jsx",
+        "founder": ["Jordan Walke"],
+        "year": ["2013"]
+    },
+    {
+        "name": "Jasmine",
+        "extensions": [".j"],
+        "founder": ["Pivotal Labs"],
+        "year": ["2010"]
+    },
+    {
+        "name": "Java",
+        "extensions": [".java"],
+        "prismIndicator": "java",
+        "founder": ["James Gosling"],
+        "year": ["1995"]
+    },
+    {
+        "name": "Java Server Pages",
+        "extensions": [".jsp"],
+        "founder": ["James Gosling"],
+        "year": ["1995"]
+    },
+    {
+        "name": "JavaScript",
+        "extensions": [
+            ".js",
+            "._js",
+            ".bones",
+            ".cjs",
+            ".es",
+            ".es6",
+            ".frag",
+            ".gs",
+            ".jake",
+            ".jsb",
+            ".jscad",
+            ".jsfl",
+            ".jsm",
+            ".jss",
+            ".mjs",
+            ".njs",
+            ".pac",
+            ".sjs",
+            ".ssjs",
+            ".xsjs",
+            ".xsjslib"
+        ],
+        "prismIndicator": "javascript",
+        "founder": ["Brendan Eich"],
+        "year": ["1995"]
+    },
+    {
+        "name": "JavaScript+ERB",
+        "extensions": [".js.erb"],
+        "founder": ["Brendan Eich"],
+        "year": ["1995"]
+    },
+    {
+        "name": "Jison",
+        "extensions": [".jison"],
+        "founder": ["Robert Corbett"],
+        "year": ["1990s"]
+    },
+    {
+        "name": "Jison-Lex",
+        "extensions": [".jisonlex"],
+        "founder": ["Zach Carter"],
+        "year": ["1985"]
+    },
+    {
+        "name": "Jolie",
+        "extensions": [".ol", ".iol"],
+        "prismIndicator": "jolie",
+        "founder": ["Fabrizio Montesi"],
+        "year": ["2006"]
+    },
+    {
+        "name": "Jsonnet",
+        "extensions": [".jsonnet", ".libsonnet"],
+        "founder": ["Google"],
+        "year": ["2014"]
+    },
+    {
+        "name": "Julia",
+        "extensions": [".jl"],
+        "prismIndicator": "julia",
+        "founder": [" "],
+        "year": ["2009"]
+    },
+    {
+        "name": "Jupyter Notebook",
+        "extensions": [".ipynb"],
+        "prismIndicator": "markup",
+        "founder": ["Fernando Pérez", "Brian Granger"],
+        "year": ["2015"]
+    },
+    {
+        "name": "KRL",
+        "extensions": [".krl"],
+        "founder": ["KUKA"],
+        "year": ["1976"]
+    },
+    {
+        "name": "Kaitai Struct",
+        "extensions": [".ksy"],
+        "founder": [""],
+        "year": [""]
+    },
+    {
+        "name": "Kit",
+        "extensions": [".kit"],
+        "prismIndicator": "markup",
+        "founder": ["Konrad Zuse"],
+        "year": ["1972"]
+    },
+    {
+        "name": "Kotlin",
+        "extensions": [".kt", ".ktm", ".kts"],
+        "prismIndicator": "kotlin",
+        "founder": ["JetBrains"],
+        "year": ["2010"]
+    },
+    {
+        "name": "LFE",
+        "extensions": [".lfe"],
+        "founder": ["Robert Virding"],
+        "year": ["2008"]
+    },
+    {
+        "name": "LLVM",
+        "extensions": [".ll"],
+        "prismIndicator": "llvm",
+        "founder": ["Vikram Adve", "Chris Lattner"],
+        "year": ["2003"]
+    },
+    {
+        "name": "LOLCODE",
+        "extensions": [".lol"],
+        "prismIndicator": "lolcode",
+        "founder": ["Adam Lindsay"],
+        "year": ["2007"]
+    },
+    {
+        "name": "LSL",
+        "extensions": [".lsl", ".lslp"],
+        "founder": ["Linden Lab"],
+        "year": ["2003"]
+    },
+    {
+        "name": "LabVIEW",
+        "extensions": [".lvproj"],
+        "founder": ["National Instruments"],
+        "year": ["1986"]
+    },
+    {
+        "name": "Lasso",
+        "extensions": [".lasso", ".las", ".lasso8", ".lasso9"],
+        "founder": ["Kyle Jessup"],
+        "year": ["1995"]
+    },
+    {
+        "name": "Latte",
+        "extensions": [".latte"],
+        "prismIndicator": "markup",
+        "founder": ["Jeremy Ashkenas"],
+        "year": ["2008"]
+    },
+    {
+        "name": "Lean",
+        "extensions": [".lean", ".hlean"],
+        "founder": ["Microsoft Research"],
+        "year": ["2013"]
+    },
+    {
+        "name": "Less",
+        "extensions": [".less"],
+        "prismIndicator": "markup",
+        "founder": ["Alexis Sellier"],
+        "year": ["2009"]
+    },
+    {
+        "name": "Lex",
+        "extensions": [".l", ".lex"],
+        "founder": ["Mike Lesk", "Eric Schmidt"],
+        "year": ["1975"]
+    },
+    {
+        "name": "LilyPond",
+        "extensions": [".ly", ".ily"],
+        "prismIndicator": "lilypond",
+        "founder": [
+            "David Kastrup", "Werner Lemberg", "Han-Wen Nienhuys", "Jan Nieuwenhuizen", "Carl Sorensen", "Janek Warchoł"
+        ],
+        "year": ["1996"]
+    },
+    {
+        "name": "Limbo",
+        "extensions": [".b", ".m"],
+        "founder": [" Phil Winterbottom", "Rob Pike"],
+        "year": ["1995"]
+    },
+    {
+        "name": "Liquid",
+        "extensions": [".liquid"],
+        "prismIndicator": "markup",
+        "founder": ["Tobias Lütke"],
+        "year": ["2006"]
+    },
+    {
+        "name": "Literate Agda",
+        "extensions": [".lagda"],
+        "founder": ["Ulf Norell"],
+        "year": ["1999"]
+    },
+    {
+        "name": "Literate CoffeeScript",
+        "extensions": [".litcoffee"],
+        "founder": ["Jeremy Ashkenas"],
+        "year": ["2009"]
+    },
+    {
+        "name": "Literate Haskell",
+        "extensions": [".lhs"],
+        "founder": ["Richard Bird", "Philip Wadler for Orwell", "Donald Knuth"],
+        "year": ["1990"]
+    },
+    {
+        "name": "Live Script",
+        "extensions": [".ls", "._ls"],
+        "prismIndicator": "livescript",
+        "founder": ["Brandan Eich"],
+        "year": ["1995"]
+    },
+    {
+        "name": "Logos",
+        "extensions": [".xm", ".x", ".xi"],
+        "founder": ["George Mills"],
+        "year": ["1967"]
+    },
+    {
+        "name": "Logtalk",
+        "extensions": [".lgt", ".logtalk"],
+        "founder": ["Paulo Moura"],
+        "year": ["1998"]
+    },
+    {
+        "name": "LookML",
+        "extensions": [".lookml", ".model.lkml", ".view.lkml"],
+        "founder": ["Lloyd Tabb"],
+        "year": ["2012"]
+    },
+    {
+        "name": "LoomScript",
+        "extensions": [".ls"],
+        "founder": [""],
+        "year": ["2013"]
+    },
+    {
+        "name": "Lua",
+        "extensions": [
+            ".lua",
+            ".fcgi",
+            ".nse",
+            ".p8",
+            ".pd_lua",
+            ".rbxs",
+            ".rockspec",
+            ".wlua"
+        ],
+        "prismIndicator": "lua",
+        "founder": ["Roberto Ierusalimschy", "Luiz Henrique de Figueiredo"],
+        "year": ["1993"]
+    },
+    {
+        "name": "M",
+        "extensions": [".mumps", ".m"],
+        "founder": ["Neil Pappalardo"],
+        "year": ["1966"]
+    },
+    {
+        "name": "M4",
+        "extensions": [".m4"],
+        "founder": ["Brian Kernighan", "Dennis Ritchie"],
+        "year": ["1977"]
+    },
+    {
+        "name": "M4Sugar",
+        "extensions": [".m4"],
+        "founder": [""],
+        "year": ["2003"]
+    },
+    {
+        "name": "MATLAB",
+        "extensions": [".matlab", ".m"],
+        "prismIndicator": "matlab",
+        "founder": ["Cleve Moler"],
+        "year": ["1970s"]
+    },
+    {
+        "name": "MAXScript",
+        "extensions": [".ms", ".mcr"],
+        "founder": ["John Wainwright"],
+        "year": ["1996"]
+    },
+    {
+        "name": "MLIR",
+        "extensions": [".mlir"],
+        "founder": ["Chris Lattner"],
+        "year": ["2019"]
+    },
+    {
+        "name": "MQL4",
+        "extensions": [".mq4", ".mqh"],
+        "founder": ["MetaQuotes"],
+        "year": ["2005"]
+    },
+    {
+        "name": "MQL5",
+        "extensions": [".mq5", ".mqh"],
+        "founder": ["MetaQuotes Software Corp."],
+        "year": ["2010"]
+    },
+    {
+        "name": "MTML",
+        "extensions": [".mtml"],
+        "prismIndicator": "markup",
+        "founder": ["Tim Berners-Lee"],
+        "year": ["1990"]
+    },
+    {
+        "name": "MUF",
+        "extensions": [".muf", ".m"],
+        "founder": ["Piaw Na"],
+        "year": ["1995"]
+    },
+    {
+        "name": "Macaulay2",
+        "extensions": [".m2"],
+        "founder": ["Daniel Grayson"],
+        "year": ["1993"]
+    },
+    {
+        "name": "Makefile",
+        "extensions": [".mak", ".d", ".make", ".mk", ".mkfile"],
+        "prismIndicator": "makefile",
+        "founder": ["Stuart Feldman"],
+        "year": ["1977"]
+    },
+    {
+        "name": "Mako",
+        "extensions": [".mako", ".mao"],
+        "founder": ["Benjamin Mako Hill"],
+        "year": ["2006"]
+    },
+    {
+        "name": "Marko",
+        "extensions": [".marko"],
+        "prismIndicator": "markup",
+        "founder": ["Patrick Steele-Idem"],
+        "year": ["2012"]
+    },
+    {
+        "name": "Mask",
+        "extensions": [".mask"],
+        "prismIndicator": "markup",
+        "founder": ["Madame Rowley"],
+        "year": ["2012"]
+    },
+    {
+        "name": "Mathematica",
+        "extensions": [
+            ".mathematica",
+            ".cdf",
+            ".m",
+            ".ma",
+            ".mt",
+            ".nb",
+            ".nbp",
+            ".wl",
+            ".wlt"
+        ],
+        "founder": ["Stephen Wolfram"],
+        "year": ["1988"]
+    },
+    {
+        "name": "Max",
+        "extensions": [".maxpat", ".maxhelp", ".maxproj", ".mxt", ".pat"],
+        "founder": ["Miller Puckette"],
+        "year": ["1985"]
+    },
+    {
+        "name": "Mercury",
+        "extensions": [".m", ".moo"],
+        "founder": ["Fergus Henderson", "Thomas Conway", "Zoltan Somogyi"],
+        "year": ["1995"]
+    },
+    { "name": "Meson", "founder": ["Jussi Pakkanen"], "year": ["2013"] },
+    {
+        "name": "Metal",
+        "extensions": [".metal"],
+        "founder": ["Mozilla"],
+        "year": [""]
+    },
+    {
+        "name": "MiniD",
+        "extensions": [".minid"],
+        "founder": ["Jarrett Billingsley"],
+        "year": ["1993"]
+    },
+    {
+        "name": "Mirah",
+        "extensions": [".druby", ".duby", ".mirah"],
+        "founder": ["Charles Oliver Nutter"],
+        "year": ["2016"]
+    },
+    {
+        "name": "Modelica",
+        "extensions": [".mo"],
+        "founder": ["Hilding Elmqvist"],
+        "year": ["1997"]
+    },
+    {
+        "name": "Modula-2",
+        "extensions": [".mod"],
+        "founder": ["Niklaus Wirth"],
+        "year": ["1977 and 1985"]
+    },
+    {
+        "name": "Modula-3",
+        "extensions": [".i3", ".ig", ".m3", ".mg"],
+        "founder": ["Luca Cardelli", "Greg Nelson"],
+        "year": ["1988"]
+    },
+    {
+        "name": "Module Management System",
+        "extensions": [".mms", ".mmk"],
+        "founder": ["Siddhartha Errabolu"],
+        "year": ["2005"]
+    },
+    {
+        "name": "Monkey",
+        "extensions": [".monkey", ".monkey2"],
+        "prismIndicator": "monkey",
+        "founder": ["CoffeeScript"],
+        "year": ["2011"]
+    },
+    {
+        "name": "Moocode",
+        "extensions": [".moo"],
+        "founder": ["Konrad Zuse"],
+        "year": ["1990"]
+    },
+    {
+        "name": "MoonScript",
+        "extensions": [".moon"],
+        "prismIndicator": "moonscript",
+        "founder": ["Jeremy Ashkenas"],
+        "year": ["2011"]
+    },
+    {
+        "name": "Motorola 68K Assembly",
+        "extensions": [".asm", ".i", ".inc", ".s", ".x68"],
+        "founder": ["eight address registers"],
+        "year": ["1979"]
+    },
+    {
+        "name": "Myghty",
+        "extensions": [".myt"],
+        "founder": [""],
+        "year": ["2006"]
+    },
+    {
+        "name": "NASL",
+        "extensions": [".nasl", ".inc"],
+        "founder": ["NASL"],
+        "year": ["1998"]
+    },
+    {
+        "name": "NCL",
+        "extensions": [".ncl"],
+        "founder": ["National Center for Atmospheric Research"],
+        "year": ["1994"]
+    },
+    {
+        "name": "NEON",
+        "extensions": [".neon"],
+        "prismIndicator": "neon",
+        "founder": ["Pranav Mistry"],
+        "year": [""]
+    },
+    {
+        "name": "NL",
+        "extensions": [".nl"],
+        "founder": ["James Flynn"],
+        "year": ["2002"]
+    },
+    {
+        "name": "NSIS",
+        "extensions": [".nsi", ".nsh"],
+        "prismIndicator": "nsis",
+        "founder": ["Nullsoft"],
+        "year": ["2000"]
+    },
+    {
+        "name": "Nearley",
+        "extensions": [".ne", ".nearley"],
+        "founder": [""],
+        "year": ["2014"]
+    },
+    {
+        "name": "Nemerle",
+        "extensions": [".n"],
+        "founder": ["JetBrains"],
+        "year": ["2003"]
+    },
+    {
+        "name": "NetLinx",
+        "extensions": [".axs", ".axi"],
+        "founder": [""],
+        "year": ["2007"]
+    },
+    {
+        "name": "NetLinx+ERB",
+        "extensions": [".axs.erb", ".axi.erb"],
+        "founder": [""],
+        "year": [""]
+    },
+    {
+        "name": "NetLogo",
+        "extensions": [".nlogo"],
+        "founder": ["Uri Wilensky"],
+        "year": ["1999"]
+    },
+    {
+        "name": "NewLisp",
+        "extensions": [".nl", ".lisp", ".lsp"],
+        "founder": ["Lutz Mueller"],
+        "year": ["1991"]
+    },
+    {
+        "name": "Nextflow",
+        "extensions": [".nf"],
+        "founder": ["James Strachan"],
+        "year": ["2013"]
+    },
+    {
+        "name": "Nginx",
+        "extensions": [".nginxconf", ".vhost"],
+        "prismIndicator": "nginx",
+        "founder": ["Igor Sysoev"],
+        "year": ["2004"]
+    },
+    {
+        "name": "Nim",
+        "extensions": [".nim", ".nim.cfg", ".nimble", ".nimrod", ".nims"],
+        "prismIndicator": "nim",
+        "founder": ["Andreas Rumpf"],
+        "year": ["2005"]
+    },
+    {
+        "name": "Ninja",
+        "extensions": [".ninja"],
+        "founder": ["Ankush Singla"],
+        "year": ["2016"]
+    },
+    {
+        "name": "Nit",
+        "extensions": [".nit"],
+        "founder": [""],
+        "year": ["2007"]
+    },
+    {
+        "name": "Nix",
+        "extensions": [".nix"],
+        "prismIndicator": "nix",
+        "founder": [""],
+        "year": ["2003"]
+    },
+    {
+        "name": "Nu",
+        "extensions": [".nu"],
+        "founder": ["Tim Burks"],
+        "year": ["2007"]
+    },
+    {
+        "name": "NumPy",
+        "extensions": [".numpy", ".numpyw", ".numsc"],
+        "founder": ["Travis Oliphant"],
+        "year": ["2006"]
+    },
+    {
+        "name": "OCaml",
+        "extensions": [
+            ".ml",
+            ".eliom",
+            ".eliomi",
+            ".ml4",
+            ".mli",
+            ".mll",
+            ".mly"
+        ],
+        "prismIndicator": "ocaml",
+        "founder": ["Gérard Huet", "Guy Cousineau", "Xavier Leroy"],
+        "year": ["1996"]
+    },
+    {
+        "name": "ObjDump",
+        "extensions": [".objdump"],
+        "founder": [""],
+        "year": ["1991"]
+    },
+    {
+        "name": "ObjectScript",
+        "extensions": [".cls"],
+        "founder": [""],
+        "year": ["1997"]
+    },
+    {
+        "name": "Objective-C",
+        "extensions": [".m", ".h"],
+        "founder": ["Brad Cox"],
+        "year": ["1972"]
+    },
+    {
+        "name": "Objective-C++",
+        "extensions": [".mm"],
+        "founder": ["Brad Cox"],
+        "year": ["1972"]
+    },
+    {
+        "name": "Objective-J",
+        "extensions": [".j", ".sj"],
+        "founder": ["Cappuccino Core Developers and community."],
+        "year": ["2008"]
+    },
+    {
+        "name": "Odin",
+        "extensions": [".odin"],
+        "founder": ["Erik Trautman"],
+        "year": ["2016"]
+    },
+    {
+        "name": "Omgrofl",
+        "extensions": [".omgrofl"],
+        "founder": ["Juraj Borza"],
+        "year": ["2006"]
+    },
+    {
+        "name": "Opa",
+        "extensions": [".opa"],
+        "founder": ["MLstate"],
+        "year": ["2013"]
+    },
+    {
+        "name": "Opal",
+        "extensions": [".opal"],
+        "founder": [" Technical University of Berlin"],
+        "year": ["1994"]
+    },
+    {
+        "name": "Open Policy Agent",
+        "extensions": [".rego"],
+        "founder": ["Tim Hinrichs"],
+        "year": [""]
+    },
+    {
+        "name": "OpenCL",
+        "extensions": [".cl", ".opencl"],
+        "prismIndicator": "opencl",
+        "founder": ["Khronos Group"],
+        "year": ["2009"]
+    },
+    {
+        "name": "OpenEdge ABL",
+        "extensions": [".p", ".cls", ".w"],
+        "founder": ["Progress Software Corporation (PSC)"],
+        "year": ["1981"]
+    },
+    {
+        "name": "OpenQASM",
+        "extensions": [".qasm"],
+        "founder": [" IBM's Quantum Information Software Kit "],
+        "year": ["March 7, 2017."]
+    },
+    {
+        "name": "OpenRC run script",
+        "founder": ["OpenRC Developers"],
+        "year": ["2007"]
+    },
+    {
+        "name": "OpenSCAD",
+        "extensions": [".scad"],
+        "founder": ["Marius Kintel"],
+        "year": ["Marius Kintel, Clifford Wolf"]
+    },
+    {
+        "name": "Ox",
+        "extensions": [".ox", ".oxh", ".oxo"],
+        "founder": ["Jurgen Doornik"],
+        "year": ["2011"]
+    },
+    {
+        "name": "Oxygene",
+        "extensions": [".oxygene"],
+        "founder": ["RemObjects Software"],
+        "year": ["2005"]
+    },
+    {
+        "name": "Oz",
+        "extensions": [".oz"],
+        "prismIndicator": "oz",
+        "founder": ["Gert Smolka"],
+        "year": ["1991"]
+    },
+    {
+        "name": "P4",
+        "extensions": [".p4"],
+        "founder": ["Nick McKeown"],
+        "year": ["2013"]
+    },
+    {
+        "name": "PHP",
+        "extensions": [
+            ".php",
+            ".aw",
+            ".ctp",
+            ".fcgi",
+            ".inc",
+            ".php3",
+            ".php4",
+            ".php5",
+            ".phps",
+            ".phpt"
+        ],
+        "prismIndicator": "php",
+        "founder": ["Rasmus Lerdorf"],
+        "year": ["1994"]
+    },
+    {
+        "name": "PL/SQL",
+        "extensions": [
+            ".pls",
+            ".bdy",
+            ".ddl",
+            ".fnc",
+            ".pck",
+            ".pkb",
+            ".pks",
+            ".plb",
+            ".plsql",
+            ".prc",
+            ".spc",
+            ".sql",
+            ".tpb",
+            ".tps",
+            ".trg",
+            ".vw"
+        ],
+        "prismIndicator": "plsql",
+        "founder": ["Oracle Corporation"],
+        "year": ["1986"]
+    },
+    {
+        "name": "PLpgSQL",
+        "extensions": [".pgsql", ".sql"],
+        "founder": ["Jan Wieck"],
+        "year": ["1998"]
+    },
+    {
+        "name": "POV-Ray SDL",
+        "extensions": [".pov", ".inc"],
+        "founder": ["David Kirk Buck", "Aaron A. Collins", "Alexander Enzmann"],
+        "year": ["1991"]
+    },
+    {
+        "name": "Pan",
+        "extensions": [".pan"],
+        "founder": [""],
+        "year": ["2011"]
+    },
+    {
+        "name": "Papyrus",
+        "extensions": [".psc"],
+        "founder": [
+            "Commissariat à l'Énergie Atomique (CEA-List)", "Atos", "Cedric Dumoulin (LIFL)"
+        ],
+        "year": ["1973"]
+    },
+    {
+        "name": "Parrot",
+        "extensions": [".parrot"],
+        "founder": ["Perl community"],
+        "year": ["2016"]
+    },
+    {
+        "name": "Parrot Assembly",
+        "extensions": [".pasm"],
+        "founder": ["David J. Wheeler"],
+        "year": ["2003"]
+    },
+    {
+        "name": "Parrot Internal Representation",
+        "extensions": [".pir"],
+        "founder": [""],
+        "year": ["2003"]
+    },
+    {
+        "name": "Pascal",
+        "extensions": [".pas", ".dfm", ".dpr", ".inc", ".lpr", ".pascal", ".pp"],
+        "prismIndicator": "pascal",
+        "founder": ["Niklaus Wirth"],
+        "year": ["1970"]
+    },
+    {
+        "name": "Pawn",
+        "extensions": [".pwn", ".inc", ".sma"],
+        "founder": [""],
+        "year": ["1999"]
+    },
+    {
+        "name": "Pep8",
+        "extensions": [".pep"],
+        "founder": ["Guido van Rossum"],
+        "year": ["2009"]
+    },
+    {
+        "name": "Perl",
+        "extensions": [
+            ".pl",
+            ".al",
+            ".cgi",
+            ".fcgi",
+            ".perl",
+            ".ph",
+            ".plx",
+            ".pm",
+            ".psgi",
+            ".t"
+        ],
+        "prismIndicator": "perl",
+        "founder": ["Larry Wall"],
+        "year": ["1987"]
+    },
+    {
+        "name": "Pic",
+        "extensions": [".pic", ".chem"],
+        "prismIndicator": "markup",
+        "founder": ["General Instrument'"],
+        "year": ["1988"]
+    },
+    {
+        "name": "Pickle",
+        "extensions": [".pkl"],
+        "founder": [""],
+        "year": ["1995"]
+    },
+    {
+        "name": "PicoLisp",
+        "extensions": [".l"],
+        "founder": ["Alexander Burger"],
+        "year": ["1988"]
+    },
+    {
+        "name": "PigLatin",
+        "extensions": [".pig"],
+        "founder": ["Yahoo Research", "Apache Software Foundation"],
+        "year": ["2006"]
+    },
+    {
+        "name": "Pike",
+        "extensions": [".pike", ".pmod"],
+        "founder": ["Fredrik Hübinette"],
+        "year": ["1994"]
+    },
+    {
+        "name": "PlantUML",
+        "extensions": [".puml", ".iuml", ".plantuml"],
+        "founder": ["Arnaud Roques"],
+        "year": ["2009"]
+    },
+    {
+        "name": "PogoScript",
+        "extensions": [".pogo"],
+        "founder": ["Philippe Mougin"],
+        "year": ["2011"]
+    },
+    {
+        "name": "Pony",
+        "extensions": [".pony"],
+        "founder": ["Sylvan Clebsch"],
+        "year": ["1973"]
+    },
+    {
+        "name": "PostCSS",
+        "extensions": [".pcss", ".postcss"],
+        "prismIndicator": "markup",
+        "founder": ["Andrey Sitnik", "Ben Briggs", "Bogdan Chadkin"],
+        "year": ["2013"]
+    },
+    {
+        "name": "PostScript",
+        "extensions": [".ps", ".eps", ".epsi", ".pfa"],
+        "prismIndicator": "markup",
+        "founder": ["Adobe Systems"],
+        "year": ["1982"]
+    },
+    {
+        "name": "PowerBuilder",
+        "extensions": [".pbt", ".sra", ".sru", ".srw"],
+        "founder": ["Powerscript"],
+        "year": ["1992"]
+    },
+    {
+        "name": "PowerShell",
+        "extensions": [".ps1", ".psd1", ".psm1"],
+        "prismIndicator": "powershell",
+        "founder": ["Microsoft"],
+        "year": ["2006"]
+    },
+    {
+        "name": "Prisma",
+        "extensions": [".prisma"],
+        "founder": ["Alexey Moiseenkov"],
+        "year": ["2016"]
+    },
+    {
+        "name": "Processing",
+        "extensions": [".pde"],
+        "prismIndicator": "processing",
+        "founder": ["Casey Reas", "Ben Fry"],
+        "year": ["2001"]
+    },
+    {
+        "name": "Proguard",
+        "extensions": [".pro"],
+        "founder": ["Eric P.F. Lafortune"],
+        "year": ["2019"]
+    },
+    {
+        "name": "Prolog",
+        "extensions": [".pl", ".pro", ".prolog", ".yap"],
+        "prismIndicator": "prolog",
+        "founder": ["Alain Colmerauer", "Robert Kowalski"],
+        "year": ["1973"]
+    },
+    {
+        "name": "Propeller Spin",
+        "extensions": [".spin"],
+        "founder": ["Abhishek Desai"],
+        "year": ["2006"]
+    },
+    {
+        "name": "Pug",
+        "extensions": [".jade", ".pug"],
+        "prismIndicator": "markup",
+        "founder": [""],
+        "year": ["2005"]
+    },
+    {
+        "name": "Puppet",
+        "extensions": [".pp"],
+        "prismIndicator": "puppet",
+        "founder": ["Luke Kanies"],
+        "year": ["2005"]
+    },
+    {
+        "name": "PureBasic",
+        "extensions": [".pb", ".pbi"],
+        "prismIndicator": "purebasic",
+        "founder": ["Fantaisie Software"],
+        "year": ["1998"]
+    },
+    {
+        "name": "PureScript",
+        "extensions": [".purs"],
+        "prismIndicator": "purescript",
+        "founder": ["Evan Czaplicki"],
+        "year": ["2013"]
+    },
+    {
+        "name": "Python",
+        "extensions": [
+            ".py",
+            ".cgi",
+            ".fcgi",
+            ".gyp",
+            ".gypi",
+            ".lmi",
+            ".py3",
+            ".pyde",
+            ".pyi",
+            ".pyp",
+            ".pyt",
+            ".pyw",
+            ".rpy",
+            ".smk",
+            ".spec",
+            ".tac",
+            ".wsgi",
+            ".xpy"
+        ],
+        "prismIndicator": "python",
+        "founder": ["Guido van Rossum"],
+        "year": ["1991"]
+    },
+    {
+        "name": "Python console",
+        "founder": ["Guido van Rossum"],
+        "year": ["1991"]
+    },
+    {
+        "name": "Q#",
+        "extensions": [".qs"],
+        "founder": ["Microsoft Research"],
+        "year": ["2000"]
+    },
+    {
+        "name": "QML",
+        "extensions": [".qml", ".qbs"],
+        "prismIndicator": "qml",
+        "founder": ["Qt Project"],
+        "year": ["2009"]
+    },
+    {
+        "name": "QMake",
+        "extensions": [".pro", ".pri"],
+        "founder": ["Trolltech", "Nokia", "Qt Project", "Digia", "The Qt Company"],
+        "year": ["2010"]
+    },
+    {
+        "name": "Qt Script",
+        "extensions": [".qs"],
+        "founder": ["C++"],
+        "year": ["2008"]
+    },
+    { "name": "Quake", "founder": ["John Carmack"], "year": ["1996"] },
+    {
+        "name": "R",
+        "extensions": [".r", ".rd", ".rsx"],
+        "prismIndicator": "r",
+        "founder": ["Ross Ihaka", "Robert Gentleman"],
+        "year": ["1993"]
+    },
+    {
+        "name": "RAML",
+        "extensions": [".raml"],
+        "prismIndicator": "markup",
+        "founder": ["Uri Sarid"],
+        "year": ["2013"]
+    },
+    {
+        "name": "REALbasic",
+        "extensions": [
+            ".rbbas",
+            ".rbfrm",
+            ".rbmnu",
+            ".rbres",
+            ".rbtbar",
+            ".rbuistate"
+        ],
+        "founder": ["Geoff Perlman"],
+        "year": ["1996"]
+    },
+    {
+        "name": "REXX",
+        "extensions": [".rexx", ".pprx", ".rex"],
+        "founder": ["Mike Cowlishaw"],
+        "year": ["1979"]
+    },
+    {
+        "name": "RPC",
+        "extensions": [".x"],
+        "founder": ["Bruce Jay Nelson"],
+        "year": ["1970"]
+    },
+    {
+        "name": "RUNOFF",
+        "extensions": [".rnh", ".rno"],
+        "prismIndicator": "markup",
+        "founder": ["Joe Ossanna"],
+        "year": ["1959"]
+    },
+    {
+        "name": "Racket",
+        "extensions": [".rkt", ".rktd", ".rktl", ".scrbl"],
+        "prismIndicator": "racket",
+        "founder": ["Matthias Felleisen"],
+        "year": ["1995"]
+    },
+    {
+        "name": "Ragel",
+        "extensions": [".rl"],
+        "founder": ["Adrian Thurston"],
+        "year": ["2017"]
+    },
+    {
+        "name": "Raku",
+        "extensions": [
+            ".6pl",
+            ".6pm",
+            ".nqp",
+            ".p6",
+            ".p6l",
+            ".p6m",
+            ".pl",
+            ".pl6",
+            ".pm",
+            ".pm6",
+            ".t"
+        ],
+        "founder": ["Larry Wall"],
+        "year": ["2015"]
+    },
+    {
+        "name": "Rascal",
+        "extensions": [".rsc"],
+        "founder": ["Konrad Zuse"],
+        "year": ["2013"]
+    },
+    {
+        "name": "Reason",
+        "extensions": [".re", ".rei"],
+        "prismIndicator": "reason",
+        "founder": ["Jordan Walke"],
+        "year": ["2016"]
+    },
+    {
+        "name": "Rebol",
+        "extensions": [".reb", ".r", ".r2", ".r3", ".rebol"],
+        "founder": ["Carl Sassenrath"],
+        "year": ["1997"]
+    },
+    {
+        "name": "Red",
+        "extensions": [".red", ".reds"],
+        "founder": ["Konrad Zuse"],
+        "year": ["1950s"]
+    },
+    {
+        "name": "Redcode",
+        "extensions": [".cw"],
+        "founder": ["D. G. Jones", "A. K. Dewdney"],
+        "year": ["1984"]
+    },
+    {
+        "name": "Ren'Py",
+        "extensions": [".rpy"],
+        "prismIndicator": "renpy",
+        "founder": ["Tom 'PyTom' Rothamel"],
+        "year": ["2004"]
+    },
+    {
+        "name": "RenderScript",
+        "extensions": [".rs", ".rsh"],
+        "founder": ["Google"],
+        "year": ["2011"]
+    },
+    {
+        "name": "Rich Text Format",
+        "extensions": [".rtf"],
+        "prismIndicator": "markup",
+        "founder": ["Microsoft"],
+        "year": ["1987"]
+    },
+    {
+        "name": "Ring",
+        "extensions": [".ring"],
+        "founder": ["Mahmoud Fayed"],
+        "year": ["2009"]
+    },
+    {
+        "name": "Riot",
+        "extensions": [".riot"],
+        "prismIndicator": "markup",
+        "founder": ["Riot Games"],
+        "year": ["2006"]
+    },
+    {
+        "name": "RobotFramework",
+        "extensions": [".robot"],
+        "prismIndicator": "robotframework",
+        "founder": ["PyCharm"],
+        "year": ["2008"]
+    },
+    {
+        "name": "Roff",
+        "extensions": [
+            ".roff",
+            ".1",
+            ".1in",
+            ".1m",
+            ".1x",
+            ".2",
+            ".3",
+            ".3in",
+            ".3m",
+            ".3p",
+            ".3pm",
+            ".3qt",
+            ".3x",
+            ".4",
+            ".5",
+            ".6",
+            ".7",
+            ".8",
+            ".9",
+            ".l",
+            ".man",
+            ".mdoc",
+            ".me",
+            ".ms",
+            ".n",
+            ".nr",
+            ".rno",
+            ".tmac"
+        ],
+        "prismIndicator": "markup",
+        "founder": ["Joe Ossanna"],
+        "year": ["1973"]
+    },
+    {
+        "name": "Roff Manpage",
+        "extensions": [
+            ".1",
+            ".1in",
+            ".1m",
+            ".1x",
+            ".2",
+            ".3",
+            ".3in",
+            ".3m",
+            ".3p",
+            ".3pm",
+            ".3qt",
+            ".3x",
+            ".4",
+            ".5",
+            ".6",
+            ".7",
+            ".8",
+            ".9",
+            ".man",
+            ".mdoc"
+        ],
+        "prismIndicator": "markup",
+        "founder": ["Joe Ossanna"],
+        "year": ["1971"]
+    },
+    {
+        "name": "Rouge",
+        "extensions": [".rg"],
+        "founder": ["Dennis Ritchie"],
+        "year": ["2012"]
+    },
+    {
+        "name": "Ruby",
+        "extensions": [
+            ".rb",
+            ".builder",
+            ".eye",
+            ".fcgi",
+            ".gemspec",
+            ".god",
+            ".jbuilder",
+            ".mspec",
+            ".pluginspec",
+            ".podspec",
+            ".rabl",
+            ".rake",
+            ".rbi",
+            ".rbuild",
+            ".rbw",
+            ".rbx",
+            ".ru",
+            ".ruby",
+            ".spec",
+            ".thor",
+            ".watchr"
+        ],
+        "prismIndicator": "ruby",
+        "founder": ["Yukihiro Matsumoto"],
+        "year": ["1995"]
+    },
+    {
+        "name": "Rust",
+        "extensions": [".rs", ".rs.in"],
+        "prismIndicator": "rust",
+        "founder": ["Graydon Hoare"],
+        "year": ["2010"]
+    },
+    {
+        "name": "SAS",
+        "extensions": [".sas"],
+        "prismIndicator": "sas",
+        "founder": ["Anthony James Barr"],
+        "year": ["1976"]
+    },
+    {
+        "name": "SCSS",
+        "extensions": [".scss"],
+        "prismIndicator": "markup",
+        "founder": ["Hampton Catlin"],
+        "year": ["2006"]
+    },
+    {
+        "name": "SMT",
+        "extensions": [".smt2", ".smt"],
+        "founder": [""],
+        "year": ["2003"]
+    },
+    {
+        "name": "SPARQL",
+        "extensions": [".sparql", ".rq"],
+        "prismIndicator": "sparql",
+        "founder": ["W3C"],
+        "year": ["2008"]
+    },
+    {
+        "name": "SQF",
+        "extensions": [".sqf", ".hqf"],
+        "prismIndicator": "sqf",
+        "founder": [""],
+        "year": ["1991"]
+    },
+    {
+        "name": "SQL",
+        "extensions": [
+            ".sql",
+            ".cql",
+            ".ddl",
+            ".inc",
+            ".mysql",
+            ".prc",
+            ".tab",
+            ".udf",
+            ".viw"
+        ],
+        "prismIndicator": "sql",
+        "founder": [" Donald D. Chamberlin", "Raymond F. Boyce"],
+        "year": ["1974"]
+    },
+    {
+        "name": "SQLPL",
+        "extensions": [".sql", ".db2"],
+        "founder": ["PostgreSQL Global Development Group"],
+        "year": ["1974"]
+    },
+    {
+        "name": "SRecode Template",
+        "extensions": [".srt"],
+        "prismIndicator": "markup",
+        "founder": [""],
+        "year": ["2000"]
+    },
+    {
+        "name": "STON",
+        "extensions": [".ston"],
+        "founder": [""],
+        "year": ["1970"]
+    },
+    {
+        "name": "SVG",
+        "extensions": [".svg"],
+        "founder": ["W3C SVG Working Group"],
+        "year": ["1999"]
+    },
+    {
+        "name": "SWIG",
+        "extensions": [".i"],
+        "founder": ["David M. Beazley"],
+        "year": ["1996"]
+    },
+    {
+        "name": "Sage",
+        "extensions": [".sage", ".sagews"],
+        "founder": ["William Stein"],
+        "year": ["2005"]
+    },
+    {
+        "name": "SaltStack",
+        "extensions": [".sls"],
+        "founder": ["founder Thomas S. Hatch"],
+        "year": ["2011"]
+    },
+    {
+        "name": "Sass",
+        "extensions": [".sass"],
+        "prismIndicator": "markup",
+        "founder": ["Hampton Catlin"],
+        "year": ["2006"]
+    },
+    {
+        "name": "Scala",
+        "extensions": [".scala", ".kojo", ".sbt", ".sc"],
+        "prismIndicator": "scala",
+        "founder": ["Martin Odersky"],
+        "year": ["2004"]
+    },
+    {
+        "name": "Scaml",
+        "extensions": [".scaml"],
+        "prismIndicator": "markup",
+        "founder": ["Gérard Huet", "Guy Cousineau", "Xavier Leroy"],
+        "year": ["1996"]
+    },
+    {
+        "name": "Scheme",
+        "extensions": [".scm", ".sch", ".sld", ".sls", ".sps", ".ss"],
+        "prismIndicator": "scheme",
+        "founder": ["Guy L. Steele Jr.", "Gerald Jay Sussman"],
+        "year": ["1975"]
+    },
+    {
+        "name": "Scilab",
+        "extensions": [".sci", ".sce", ".tst"],
+        "founder": ["François Delebecque"],
+        "year": ["1990"]
+    },
+    {
+        "name": "Self",
+        "extensions": [".self"],
+        "founder": ["David Ungar"],
+        "year": ["1987"]
+    },
+    {
+        "name": "ShaderLab",
+        "extensions": [".shader"],
+        "founder": ["GLSL"],
+        "year": ["2000"]
+    },
+    {
+        "name": "Shell",
+        "extensions": [
+            ".sh",
+            ".bash",
+            ".bats",
+            ".cgi",
+            ".command",
+            ".env",
+            ".fcgi",
+            ".ksh",
+            ".sh.in",
+            ".tmux",
+            ".tool",
+            ".zsh"
+        ],
+        "founder": ["Stephen Bourne"],
+        "year": ["1989"]
+    },
+    {
+        "name": "ShellSession",
+        "extensions": [".sh-session"],
+        "founder": ["Richard C. Haight"],
+        "year": ["1980s"]
+    },
+    {
+        "name": "Shen",
+        "extensions": [".shen"],
+        "founder": ["Mark Tarver"],
+        "year": ["2011"]
+    },
+    {
+        "name": "Sieve",
+        "extensions": [".sieve"],
+        "founder": ["Tim Showalter"],
+        "year": ["1999"]
+    },
+    {
+        "name": "Slash",
+        "extensions": [".sl"],
+        "founder": ["Tanner Swett"],
+        "year": ["2006"]
+    },
+    {
+        "name": "Slice",
+        "extensions": [".ice"],
+        "founder": [""],
+        "year": ["2011"]
+    },
+    {
+        "name": "Slim",
+        "extensions": [".slim"],
+        "prismIndicator": "markup",
+        "founder": [""],
+        "year": ["2010"]
+    },
+    {
+        "name": "SmPL",
+        "extensions": [".cocci"],
+        "founder": ["Dennis Ritchie"],
+        "year": ["1980s"]
+    },
+    {
+        "name": "Smali",
+        "extensions": [".smali"],
+        "prismIndicator": "smali",
+        "founder": [""],
+        "year": ["2010"]
+    },
+    {
+        "name": "Smalltalk",
+        "extensions": [".st", ".cs"],
+        "prismIndicator": "smalltalk",
+        "founder": ["Alan Kay", "Dan Ingalls", "Adele Goldberg"],
+        "year": ["1972"]
+    },
+    {
+        "name": "Smarty",
+        "extensions": [".tpl"],
+        "prismIndicator": "smarty",
+        "founder": ["Monte Ohrt", "Messju Mohr", "Uwe Tews"],
+        "year": ["2006"]
+    },
+    {
+        "name": "Solidity",
+        "prismIndicator": "solidity",
+        "founder": ["Gavin Wood"],
+        "year": ["2014"]
+    },
+    {
+        "name": "SourcePawn",
+        "extensions": [".sp", ".inc"],
+        "founder": [""],
+        "year": ["2004"]
+    },
+    {
+        "name": "Squirrel",
+        "extensions": [".nut"],
+        "founder": ["Alberto Demichelis"],
+        "year": ["2003"]
+    },
+    {
+        "name": "Stan",
+        "extensions": [".stan"],
+        "prismIndicator": "stan",
+        "founder": ["Stan Development Team"],
+        "year": ["2012"]
+    },
+    {
+        "name": "Standard ML",
+        "extensions": [".ML", ".fun", ".sig", ".sml"],
+        "founder": ["Robin Milner"],
+        "year": ["1983"]
+    },
+    {
+        "name": "Starlark",
+        "extensions": [".bzl"],
+        "founder": ["Andreas Rumpf"],
+        "year": ["2018"]
+    },
+    {
+        "name": "Stata",
+        "extensions": [
+            ".do",
+            ".ado",
+            ".doh",
+            ".ihlp",
+            ".mata",
+            ".matah",
+            ".sthlp"
+        ],
+        "founder": ["William Gould"],
+        "year": ["1985"]
+    },
+    {
+        "name": "Stylus",
+        "extensions": [".styl"],
+        "prismIndicator": "markup",
+        "founder": ["TJ Holowaychuk"],
+        "year": ["2010"]
+    },
+    {
+        "name": "SugarSS",
+        "extensions": [".sss"],
+        "prismIndicator": "markup",
+        "founder": ["Andreas Rumpf"],
+        "year": ["1964"]
+    },
+    {
+        "name": "SuperCollider",
+        "extensions": [".sc", ".scd"],
+        "founder": ["James McCartney"],
+        "year": ["1996"]
+    },
+    {
+        "name": "Svelte",
+        "extensions": [".svelte"],
+        "prismIndicator": "markup",
+        "founder": ["Rich Harris"],
+        "year": ["2016"]
+    },
+    {
+        "name": "Swift",
+        "extensions": [".swift"],
+        "prismIndicator": "swift",
+        "founder": ["Chris Lattner", "Apple"],
+        "year": ["2010"]
+    },
+    {
+        "name": "SystemVerilog",
+        "extensions": [".sv", ".svh", ".vh"],
+        "founder": ["Synopsys"],
+        "year": ["2002"]
+    },
+    {
+        "name": "TI Program",
+        "extensions": [".8xp", ".8xk", ".8xk.txt", ".8xp.txt"],
+        "founder": [""],
+        "year": ["1964"]
+    },
+    {
+        "name": "TLA",
+        "extensions": [".tla"],
+        "founder": ["Leslie Lamport"],
+        "year": ["1999"]
+    },
+    {
+        "name": "TOML",
+        "extensions": [".toml"],
+        "prismIndicator": "toml",
+        "founder": ["Preston-Werner"],
+        "year": ["2013"]
+    },
+    {
+        "name": "TSQL",
+        "extensions": [".sql"],
+        "founder": ["Donald D. Chamberlin Raymond F. Boyce"],
+        "year": ["1974"]
+    },
+    {
+        "name": "TSX",
+        "extensions": [".tsx"],
+        "prismIndicator": "tsx",
+        "founder": ["Microsoft Corporation"],
+        "year": ["2012"]
+    },
+    {
+        "name": "TXL",
+        "extensions": [".txl"],
+        "founder": ["James Cordy"],
+        "year": ["1985"]
+    },
+    {
+        "name": "Tcl",
+        "extensions": [".tcl", ".adp", ".tm"],
+        "prismIndicator": "tcl",
+        "founder": ["John Ousterhout"],
+        "year": ["1988"]
+    },
+    {
+        "name": "Tcsh",
+        "extensions": [".tcsh", ".csh"],
+        "founder": ["Ken Greer"],
+        "year": ["1978"]
+    },
+    {
+        "name": "TeX",
+        "extensions": [
+            ".tex",
+            ".aux",
+            ".bbx",
+            ".cbx",
+            ".cls",
+            ".dtx",
+            ".ins",
+            ".lbx",
+            ".ltx",
+            ".mkii",
+            ".mkiv",
+            ".mkvi",
+            ".sty",
+            ".toc"
+        ],
+        "prismIndicator": "markup",
+        "founder": ["Donald Knuth"],
+        "year": ["1977"]
+    },
+    {
+        "name": "Tea",
+        "extensions": [".tea"],
+        "prismIndicator": "markup",
+        "founder": ["Jorge Nunes"],
+        "year": ["1997"]
+    },
+    { "name": "Terra", "extensions": [".t"], "founder": [], "year": ["2012"] },
+    {
+        "name": "Thrift",
+        "extensions": [".thrift"],
+        "founder": ["Facebook"],
+        "year": ["2007"]
+    },
+    {
+        "name": "Turing",
+        "extensions": [".t", ".tu"],
+        "founder": [" Ric Holt", "James Cordy"],
+        "year": ["1982"]
+    },
+    {
+        "name": "Turtle",
+        "extensions": [".ttl"],
+        "prismIndicator": "turtle",
+        "founder": ["Wally Feurzeig", "Seymour Papert", "Cynthia Solomon"],
+        "year": ["1967"]
+    },
+    {
+        "name": "Twig",
+        "extensions": [".twig"],
+        "prismIndicator": "markup",
+        "founder": ["Fabien Potencier"],
+        "year": ["2009"]
+    },
+    {
+        "name": "TypeScript",
+        "extensions": [".ts"],
+        "prismIndicator": "typescript",
+        "founder": ["Microsoft Corporation"],
+        "year": ["2012"]
+    },
+    {
+        "name": "Unified Parallel C",
+        "extensions": [".upc"],
+        "founder": ["UPC Consortium"],
+        "year": ["1972"]
+    },
+    {
+        "name": "Unix Assembly",
+        "extensions": [".s", ".ms"],
+        "founder": ["Dennis Ritchie"],
+        "year": ["1969"]
+    },
+    {
+        "name": "Uno",
+        "extensions": [".uno"],
+        "founder": ["arduino.cc"],
+        "year": ["2005"]
+    },
+    {
+        "name": "UnrealScript",
+        "extensions": [".uc"],
+        "prismIndicator": "unrealscript",
+        "founder": ["Tim Sweeney"],
+        "year": ["1998"]
+    },
+    {
+        "name": "UrWeb",
+        "extensions": [".ur", ".urs"],
+        "founder": ["Adam Chlipala"],
+        "year": ["2014"]
+    },
+    {
+        "name": "V",
+        "extensions": [".v"],
+        "founder": ["Alex Medvednikov"],
+        "year": ["2009"]
+    },
+    {
+        "name": "VBA",
+        "extensions": [".bas", ".cls", ".frm", ".frx", ".vba"],
+        "founder": ["Microsoft"],
+        "year": ["1993"]
+    },
+    {
+        "name": "VBScript",
+        "extensions": [".vbs"],
+        "founder": ["Microsoft"],
+        "year": ["1996"]
+    },
+    {
+        "name": "VCL",
+        "extensions": [".vcl"],
+        "founder": ["Borland"],
+        "year": ["2001"]
+    },
+    {
+        "name": "VHDL",
+        "extensions": [
+            ".vhdl",
+            ".vhd",
+            ".vhf",
+            ".vhi",
+            ".vho",
+            ".vhs",
+            ".vht",
+            ".vhw"
+        ],
+        "prismIndicator": "vhdl",
+        "founder": ["U.S. Department of Defense "],
+        "year": ["1980s"]
+    },
+    {
+        "name": "Vala",
+        "extensions": [".vala", ".vapi"],
+        "prismIndicator": "vala",
+        "founder": ["Jürg Billeter"],
+        "year": ["2006"]
+    },
+    {
+        "name": "Verilog",
+        "extensions": [".v", ".veo"],
+        "prismIndicator": "verilog",
+        "founder": ["Candence"],
+        "year": ["1984"]
+    },
+    {
+        "name": "Vim Snippet",
+        "extensions": [".snip", ".snippet", ".snippets"],
+        "prismIndicator": "markup",
+        "founder": ["Bram Moolenaar"],
+        "year": ["1991"]
+    },
+    {
+        "name": "Vim script",
+        "extensions": [".vim", ".vba", ".vmb"],
+        "prismIndicator": "vim",
+        "founder": ["Bram Moolenaar"],
+        "year": ["1991"]
+    },
+    {
+        "name": "Visual Basic .NET",
+        "extensions": [".vb", ".vbhtml"],
+        "founder": ["Microsoft Corporation"],
+        "year": ["2001"]
+    },
+    {
+        "name": "Volt",
+        "extensions": [".volt"],
+        "founder": ["Alex Medvednikov"],
+        "year": ["2009"]
+    },
+    {
+        "name": "Vue",
+        "extensions": [".vue"],
+        "prismIndicator": "markup",
+        "founder": ["Evan You"],
+        "year": ["2014"]
+    },
+    {
+        "name": "WebAssembly",
+        "extensions": [".wast", ".wat"],
+        "founder": ["World Wide Web Consortium"],
+        "year": ["2017"]
+    },
+    {
+        "name": "WebIDL",
+        "extensions": [".webidl"],
+        "founder": ["David Stern"],
+        "year": ["2012"]
+    },
+    {
+        "name": "WebVTT",
+        "extensions": [".vtt"],
+        "founder": [""],
+        "year": ["2010"]
+    },
+    { "name": "Wollok", "extensions": [".wlk"], "founder": [], "year": [""] },
+    {
+        "name": "X10",
+        "extensions": [".x10"],
+        "founder": [""],
+        "year": ["2004"]
+    },
+    {
+        "name": "XC",
+        "extensions": [".xc"],
+        "founder": ["Dennis Ritchie"],
+        "year": ["1972"]
+    },
+    {
+        "name": "XML",
+        "extensions": [
+            ".xml",
+            ".adml",
+            ".admx",
+            ".ant",
+            ".axml",
+            ".builds",
+            ".ccproj",
+            ".ccxml",
+            ".clixml",
+            ".cproject",
+            ".cscfg",
+            ".csdef",
+            ".csl",
+            ".csproj",
+            ".ct",
+            ".depproj",
+            ".dita",
+            ".ditamap",
+            ".ditaval",
+            ".dll.config",
+            ".dotsettings",
+            ".filters",
+            ".fsproj",
+            ".fxml",
+            ".glade",
+            ".gml",
+            ".gmx",
+            ".grxml",
+            ".iml",
+            ".ivy",
+            ".jelly",
+            ".jsproj",
+            ".kml",
+            ".launch",
+            ".mdpolicy",
+            ".mjml",
+            ".mm",
+            ".mod",
+            ".mxml",
+            ".natvis",
+            ".ncl",
+            ".ndproj",
+            ".nproj",
+            ".nuspec",
+            ".odd",
+            ".osm",
+            ".pkgproj",
+            ".pluginspec",
+            ".proj",
+            ".props",
+            ".ps1xml",
+            ".psc1",
+            ".pt",
+            ".rdf",
+            ".resx",
+            ".rss",
+            ".sch",
+            ".scxml",
+            ".sfproj",
+            ".shproj",
+            ".srdf",
+            ".storyboard",
+            ".sublime-snippet",
+            ".targets",
+            ".tml",
+            ".ts",
+            ".tsx",
+            ".ui",
+            ".urdf",
+            ".ux",
+            ".vbproj",
+            ".vcxproj",
+            ".vsixmanifest",
+            ".vssettings",
+            ".vstemplate",
+            ".vxml",
+            ".wixproj",
+            ".workflow",
+            ".wsdl",
+            ".wsf",
+            ".wxi",
+            ".wxl",
+            ".wxs",
+            ".x3d",
+            ".xacro",
+            ".xaml",
+            ".xib",
+            ".xlf",
+            ".xliff",
+            ".xmi",
+            ".xml.dist",
+            ".xproj",
+            ".xsd",
+            ".xspec",
+            ".xul",
+            ".zcml"
+        ],
+        "founder": ["IBM"],
+        "year": ["1996"]
+    },
+    {
+        "name": "XPages",
+        "extensions": [".xsp-config", ".xsp.metadata"],
+        "founder": ["Trilog Group"],
+        "year": ["2008"]
+    },
+    {
+        "name": "XProc",
+        "extensions": [".xpl", ".xproc"],
+        "founder": ["Erik Siegel"],
+        "year": ["2010"]
+    },
+    {
+        "name": "XQuery",
+        "extensions": [".xquery", ".xq", ".xql", ".xqm", ".xqy"],
+        "prismIndicator": "xquery",
+        "founder": ["World Wide Web Consortium"],
+        "year": ["2007"]
+    },
+    {
+        "name": "XS",
+        "extensions": [".xs"],
+        "founder": ["Larry Wall"],
+        "year": ["1950s"]
+    },
+    {
+        "name": "XSLT",
+        "extensions": [".xslt", ".xsl"],
+        "founder": ["W3C"],
+        "year": ["1998"]
+    },
+    {
+        "name": "Xojo",
+        "extensions": [
+            ".xojo_code",
+            ".xojo_menu",
+            ".xojo_report",
+            ".xojo_script",
+            ".xojo_toolbar",
+            ".xojo_window"
+        ],
+        "prismIndicator": "xojo",
+        "founder": ["Xojo, Inc"],
+        "year": ["1998"]
+    },
+    {
+        "name": "Xtend",
+        "extensions": [".xtend"],
+        "founder": ["typefox"],
+        "year": ["2011"]
+    },
+    {
+        "name": "YAML",
+        "extensions": [
+            ".yml",
+            ".mir",
+            ".reek",
+            ".rviz",
+            ".sublime-syntax",
+            ".syntax",
+            ".yaml",
+            ".yaml-tmlanguage",
+            ".yaml.sed",
+            ".yml.mysql"
+        ],
+        "prismIndicator": "yaml",
+        "founder": ["Clark Evans"],
+        "year": ["2001"]
+    },
+    {
+        "name": "YANG",
+        "extensions": [".yang"],
+        "prismIndicator": "yang",
+        "founder": ["IETF NETCONF Data Modeling Language Working Group"],
+        "year": ["2008"]
+    },
+    {
+        "name": "YARA",
+        "extensions": [".yar", ".yara"],
+        "founder": ["Victor Alvarez"],
+        "year": ["2008"]
+    },
+    {
+        "name": "YASnippet",
+        "extensions": [".yasnippet"],
+        "prismIndicator": "markup",
+        "founder": [""],
+        "year": ["2008"]
+    },
+    {
+        "name": "Yacc",
+        "extensions": [".y", ".yacc", ".yy"],
+        "founder": ["Stephen C. Johnson"],
+        "year": ["1975"]
+    },
+    {
+        "name": "ZAP",
+        "extensions": [".zap", ".xzap"],
+        "founder": ["Simon Bennetts"],
+        "year": ["2020"]
+    },
+    {
+        "name": "ZIL",
+        "extensions": [".zil", ".mud"],
+        "founder": ["Infocom"],
+        "year": ["1980"]
+    },
+    {
+        "name": "Zeek",
+        "extensions": [".zeek", ".bro"],
+        "founder": ["Vern Paxson"],
+        "year": ["2020"]
+    },
+    {
+        "name": "ZenScript",
+        "extensions": [".zs"],
+        "founder": [" Andi Gutmans", "Zeev Suraski "],
+        "year": ["1980s"]
+    },
+    {
+        "name": "Zephir",
+        "extensions": [".zep"],
+        "founder": [],
+        "year": ["2013"]
+    },
+    {
+        "name": "Zig",
+        "extensions": [".zig"],
+        "prismIndicator": "zig",
+        "founder": ["Andrew Kelley."],
+        "year": ["2015"]
+    },
+    {
+        "name": "Zimpl",
+        "extensions": [".zimpl", ".zmpl", ".zpl"],
+        "founder": [],
+        "year": ["2004"]
+    },
+    {
+        "name": "desktop",
+        "extensions": [".desktop", ".desktop.in"],
+        "founder": [""],
+        "year": ["1956"]
+    },
+    {
+        "name": "dircolors",
+        "extensions": [".dircolors"],
+        "founder": [""],
+        "year": ["1972"]
+    },
+    {
+        "name": "eC",
+        "extensions": [".ec", ".eh"],
+        "founder": ["Jérôme Jacovella"],
+        "year": ["2004"]
+    },
+    {
+        "name": "edn",
+        "extensions": [".edn"],
+        "founder": [""],
+        "year": ["2012"]
+    },
+    {
+        "name": "fish",
+        "extensions": [".fish"],
+        "founder": ["Harpyon"],
+        "year": ["2009"]
+    },
+    {
+        "name": "mIRC Script",
+        "extensions": [".mrc"],
+        "founder": ["Khaled Mardam-Bey"],
+        "year": ["1995"]
+    },
+    {
+        "name": "mcfunction",
+        "extensions": [".mcfunction"],
+        "founder": [""],
+        "year": ["1950s"]
+    },
+    {
+        "name": "mupad",
+        "extensions": [".mu"],
+        "founder": ["The Mathworks Inc."],
+        "year": ["1997"]
+    },
+    {
+        "name": "nanorc",
+        "extensions": [".nanorc"],
+        "founder": ["Chris Allegretta"],
+        "year": ["1999"]
+    },
+    {
+        "name": "nesC",
+        "extensions": [".nc"],
+        "founder": [""],
+        "year": ["2000"]
+    },
+    {
+        "name": "ooc",
+        "extensions": [".ooc"],
+        "founder": [""],
+        "year": ["2009"]
+    },
+    {
+        "name": "Q",
+        "extensions": [".q"],
+        "prismIndicator": "q",
+        "founder": ["Arthur Whitney"],
+        "year": ["2003"]
+    },
+    {
+        "name": "sed",
+        "extensions": [".sed"],
+        "founder": [""],
+        "year": ["1974"]
+    },
+    {
+        "name": "wdl",
+        "extensions": [".wdl"],
+        "founder": ["the Broad Institute"],
+        "year": ["2012"]
+    },
+    {
+        "name": "wisp",
+        "extensions": [".wisp"],
+        "founder": [""],
+        "year": ["2012"]
+    },
+    {
+        "name": "xBase",
+        "extensions": [".prg", ".ch", ".prw"],
+        "founder": ["Antonio Linares"],
+        "year": ["1989"]
+    }
+]

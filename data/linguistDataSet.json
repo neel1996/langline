@@ -323,7 +323,7 @@
     "name": "Cap'n Proto",
     "extensions": [".capnp"],
     "founder": ["Wouter van Oortmerssen"],
-    "year": ["June 17, 2014"]
+    "year": ["2014"]
 }, {
     "name": "CartoCSS",
     "extensions": [".mss"],
@@ -389,7 +389,7 @@
     "extensions": [".soy"],
     "prismIndicator": "markup",
     "founder": ["Google"],
-    "year": ["November 5, 2009"]
+    "year": ["2009"]
 }, {
     "name": "CodeQL",
     "extensions": [".ql", ".qll"],
@@ -449,7 +449,7 @@
     "extensions": [".cr"],
     "prismIndicator": "crystal",
     "founder": ["Ary Borenszweig"],
-    "year": ["November 10, 2009"]
+    "year": ["2009"]
 }, {
     "name": "Csound",
     "extensions": [".orc", ".udo"],
@@ -688,7 +688,7 @@
     "extensions": [".fs"],
     "prismIndicator": "filterscript",
     "founder": ["Jonathan Mitchell"],
-    "year": ["November 10, 2009"]
+    "year": ["2009"]
 }, {
     "name": "Formatted",
     "extensions": [".for", ".eam.fs"],
@@ -903,7 +903,7 @@
     "extensions": [".hcl", ".tf", ".tfvars", ".workflow"],
     "prismIndicator": "hcl",
     "founder": ["Shiv Nadar"],
-    "year": ["11 August 1976"]
+    "year": ["1976"]
 }, {
     "name": "HLSL",
     "extensions": [".hlsl", ".cginc", ".fx", ".fxh", ".hlsli"],
@@ -1180,13 +1180,13 @@
     "extensions": [".jl"],
     "prismIndicator": "julia",
     "founder": [" "],
-    "year": ["November 10, 2009"]
+    "year": ["2009"]
 }, {
     "name": "Jupyter Notebook",
     "extensions": [".ipynb"],
     "prismIndicator": "markup",
     "founder": ["Fernando Pérez", "Brian Granger"],
-    "year": ["February 2015"]
+    "year": ["2015"]
 }, {
     "name": "KRL",
     "extensions": [".krl"],
@@ -1460,7 +1460,7 @@
     "extensions": [".metal"],
     "prismIndicator": "metal",
     "founder": ["Mozilla"],
-    "year": ["Apple Inc."]
+    "year": [""]
 }, {
     "name": "MiniD",
     "extensions": [".minid"],
@@ -1618,7 +1618,7 @@
     "extensions": [".nit"],
     "prismIndicator": "nit",
     "founder": [""],
-    "year": ["15 August 2007"]
+    "year": ["2007"]
 }, {
     "name": "Nix",
     "extensions": [".nix"],
@@ -1636,7 +1636,7 @@
     "extensions": [".numpy", ".numpyw", ".numsc"],
     "prismIndicator": "numpy",
     "founder": ["Travis Oliphant"],
-    "year": ["As Numeric, 1995; as NumPy, 2006"]
+    "year": ["2006"]
 }, {
     "name": "OCaml",
     "extensions": [".ml", ".eliom", ".eliomi", ".ml4", ".mli", ".mll", ".mly"],
@@ -1690,7 +1690,7 @@
     "extensions": [".opa"],
     "prismIndicator": "opa",
     "founder": ["MLstate"],
-    "year": ["1.1.0 (stable) / February 13, 2013"]
+    "year": ["2013"]
 }, {
     "name": "Opal",
     "extensions": [".opal"],
@@ -1719,7 +1719,7 @@
     "extensions": [".qasm"],
     "prismIndicator": "openqasm",
     "founder": [" IBM's Quantum Information Software Kit "],
-    "year": ["March 7, 2017."]
+    "year": ["2017"]
 }, {
     "name": "OpenRC run script",
     "prismIndicator": "openrc",
@@ -1730,7 +1730,7 @@
     "extensions": [".scad"],
     "prismIndicator": "openscad",
     "founder": ["Marius Kintel"],
-    "year": ["Marius Kintel, Clifford Wolf"]
+    "year": [""]
 }, {
     "name": "Ox",
     "extensions": [".ox", ".oxh", ".oxo"],
@@ -1986,7 +1986,7 @@
     "extensions": [".pro", ".pri"],
     "prismIndicator": "qmake",
     "founder": ["Trolltech, Nokia, Qt Project, Digia,The Qt Company "],
-    "year": ["July 7, 2010"]
+    "year": ["2010"]
 }, {
     "name": "Qt Script",
     "extensions": [".qs"],
@@ -2062,7 +2062,7 @@
     "extensions": [".re", ".rei"],
     "prismIndicator": "reason",
     "founder": ["Jordan Walke"],
-    "year": ["May 16, 2016"]
+    "year": ["2016"]
 }, {
     "name": "Rebol",
     "extensions": [".reb", ".r", ".r2", ".r3", ".rebol"],
@@ -2104,7 +2104,7 @@
     "extensions": [".ring"],
     "prismIndicator": "ring",
     "founder": ["Mahmoud Fayed"],
-    "year": ["November 10, 2009"]
+    "year": ["2009"]
 }, {
     "name": "Riot",
     "extensions": [".riot"],
@@ -2146,7 +2146,7 @@
     "extensions": [".rs", ".rs.in"],
     "prismIndicator": "rust",
     "founder": ["Graydon Hoare"],
-    "year": ["July 7, 2010"]
+    "year": ["2010"]
 }, {
     "name": "SAS",
     "extensions": [".sas"],
@@ -2218,7 +2218,7 @@
     "extensions": [".sage", ".sagews"],
     "prismIndicator": "sage",
     "founder": ["William Stein"],
-    "year": ["24 February 2005"]
+    "year": ["2005"]
 }, {
     "name": "SaltStack",
     "extensions": [".sls"],
@@ -2230,7 +2230,7 @@
     "extensions": [".sass"],
     "prismIndicator": "markup",
     "founder": ["Hampton Catlin"],
-    "year": ["28, 2006"]
+    "year": ["2006"]
 }, {
     "name": "Scala",
     "extensions": [".scala", ".kojo", ".sbt", ".sc"],
@@ -2397,7 +2397,7 @@
     "extensions": [".svelte"],
     "prismIndicator": "markup",
     "founder": ["Rich Harris"],
-    "year": ["November 26, 2016"]
+    "year": ["2016"]
 }, {
     "name": "Swift",
     "extensions": [".swift"],
@@ -2538,7 +2538,7 @@
     "extensions": [".v"],
     "prismIndicator": "v",
     "founder": ["Alex Medvednikov"],
-    "year": ["November 10, 2009"]
+    "year": ["2009"]
 }, {
     "name": "VBA",
     "extensions": [".bas", ".cls", ".frm", ".frx", ".vba"],
@@ -2598,7 +2598,7 @@
     "extensions": [".volt"],
     "prismIndicator": "volt",
     "founder": ["Alex Medvednikov"],
-    "year": ["November 10, 2009"]
+    "year": ["2009"]
 }, {
     "name": "Vue",
     "extensions": [".vue"],
