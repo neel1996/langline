@@ -113,7 +113,7 @@ const languageDataSet: LangData[] = [
     year: ["1997"],
   },
   {
-    name: "Alpine-Abuild",
+    name: "Alpine Abuild",
     prismIndicator: "abuild",
     founder: [""],
     year: ["2006"],
@@ -315,14 +315,14 @@ const languageDataSet: LangData[] = [
     year: ["1972 and 1973"],
   },
   {
-    name: "C sharp",
+    name: "C#",
     extensions: [".cs", ".cake", ".csx", ".linq"],
     prismIndicator: "csharp",
     founder: ["Microsoft Corporation"],
     year: ["2000"],
   },
   {
-    name: "Cpp",
+    name: "C++",
     extensions: [
       ".cpp",
       ".c++",
@@ -807,14 +807,14 @@ const languageDataSet: LangData[] = [
     year: ["1986"],
   },
   {
-    name: "F Sharp",
+    name: "F#",
     extensions: [".fs", ".fsi", ".fsx"],
     prismIndicator: "fsharp",
     founder: ["Don Syme", "Microsoft Research"],
     year: ["2005"],
   },
   {
-    name: "F Star",
+    name: "F*",
     extensions: [".fst"],
     prismIndicator: "fstar",
     founder: [
@@ -1044,7 +1044,7 @@ const languageDataSet: LangData[] = [
     name: "Gentoo Eclass",
     extensions: [".eclass"],
     founder: [""],
-    year: ["July 2000"],
+    year: ["2000"],
   },
   {
     name: "Gherkin",
@@ -1144,7 +1144,7 @@ const languageDataSet: LangData[] = [
     extensions: [".hcl", ".tf", ".tfvars", ".workflow"],
     prismIndicator: "hcl",
     founder: ["Shiv Nadar"],
-    year: ["11 August 1976"],
+    year: ["1976"],
   },
   {
     name: "HLSL",
@@ -1541,7 +1541,7 @@ const languageDataSet: LangData[] = [
     extensions: [".ipynb"],
     prismIndicator: "markup",
     founder: ["Fernando Pérez", "Brian Granger"],
-    year: ["February 2015"],
+    year: ["2015"],
   },
   {
     name: "KRL",
@@ -1882,7 +1882,7 @@ const languageDataSet: LangData[] = [
     extensions: [".metal"],
     prismIndicator: "metal",
     founder: ["Mozilla"],
-    year: ["Apple Inc."],
+    year: [""],
   },
   {
     name: "MiniD",
@@ -2067,7 +2067,7 @@ const languageDataSet: LangData[] = [
     extensions: [".nit"],
     prismIndicator: "nit",
     founder: [""],
-    year: ["15 August 2007"],
+    year: ["2007"],
   },
   {
     name: "Nix",
@@ -2539,7 +2539,7 @@ const languageDataSet: LangData[] = [
     year: ["1991"],
   },
   {
-    name: "Q Sharp",
+    name: "Q#",
     extensions: [".qs"],
     prismIndicator: "qsharp",
     founder: ["Microsoft Research"],
@@ -2929,7 +2929,7 @@ const languageDataSet: LangData[] = [
     extensions: [".sage", ".sagews"],
     prismIndicator: "sage",
     founder: ["William Stein"],
-    year: ["24 February 2005"],
+    year: ["2005"],
   },
   {
     name: "SaltStack",
@@ -3401,7 +3401,7 @@ const languageDataSet: LangData[] = [
   {
     name: "Visual Basic .NET",
     extensions: [".vb", ".vbhtml"],
-    prismIndicator: "vb",
+    prismIndicator: "visual basic",
     founder: ["Microsoft Corporation"],
     year: ["2001"],
   },
