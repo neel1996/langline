@@ -8,7 +8,7 @@
         <img src="https://github.com/neel1996/langline/workflows/langline%20primray%20pipeline/badge.svg" />
         <img src="https://api.codacy.com/project/badge/Grade/851b4c5df5ac4ca89564dd773e57f589" />
         <a href="https://www.npmjs.com/package/@itassistors/langline" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=langline&message=v1.0.0&color=brightgreen&logo=npm" />
+          <img src="https://img.shields.io/static/v1?label=langline&message=v1.0.1&color=brightgreen&logo=npm" />
         </a>
     </p>
 </p>
@@ -98,6 +98,10 @@ langline();
 ```
 
 The programming language dataset is adapted from github linguist language list. The founder and year data were collected using a google search web scrapping module which is available in the [addons](addons) directory
+
+## Prism Indicator Field
+
+This field is for `prismjs` users who relies on the framework for syntax highlighting. This field will come in handy for dynamic syntax highlighting when using prism with react or other frontend development frameworks
 
 ## Add a new Language
 
