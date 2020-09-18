@@ -1,476 +1,475 @@
 name,extensions,prismIndicator,founder,year
 1C Enterprise,.bsl|.os,,Boris Nuraliev,1991
-4D,.4dm,4d,Guy Kawasaki,1984
+4D,.4dm,,Guy Kawasaki,1984
 ABAP,.abap,abap,SAP,1983
 ABNF,.abnf,abnf,John Backus,1959
-AGS Script,.asc|.ash,ags,Chris Jones,1997
-AMPL,.ampl|.mod,ampl,Robert Fourer|Brian Kernighan|Bell Labs,1985
-ANTLR,.g4,antlr,Guido van Rossum,1992
+AGS Script,.asc|.ash,,Chris Jones,1997
+AMPL,.ampl|.mod,,Robert Fourer|Brian Kernighan|Bell Labs,1985
+ANTLR,.g4,,Guido van Rossum,1992
 API Blueprint,.apib,markup,,2013
 APL,.apl|.dyalog,apl,Kenneth E. Iverson,1966
-ASL,.asl|.dsl,asl,Achim Bernhardt PublicSoft GmbH,2014
-ASP,.asp|.asax|.ascx|.ashx|.asmx|.aspx|.axd,asp,Microsoft,2002
-ATS,.dats|.hats|.sats,ats,Hongwei Xi,2019
+ASL,.asl|.dsl,,Achim Bernhardt PublicSoft GmbH,2014
+ASP,.asp|.asax|.ascx|.ashx|.asmx|.aspx|.axd,aspnet,Microsoft,2002
+ATS,.dats|.hats|.sats,,Hongwei Xi,2019
 ActionScript,.as,actionscript,Gary Grossman,1998
 Ada,.adb|.ada|.ads,ada,Jean Ichbiah|S. Tucker Taft,1980s
 Agda,.agda,agda,Ulf Norell,1999
-Alloy,.als,alloy,Daniel Jackson,1997
-AngelScript,.as|.angelscript,angelscript,Andreas Jönsson,2003
+Alloy,.als,,Daniel Jackson,1997
+AngelScript,.as|.angelscript,,Andreas Jönsson,2003
 Apache Conf,.apacheconf|.vhost,apacheconf,Robert McCool,1995
-Apex,.cls,apex,Salesforce.com,2007
+Apex,.cls,,Salesforce.com,2007
 Apollo Guidance Computer,.agc,,Charles Stark Draper,1966
 AppleScript,.applescript|.scpt,applescript,Apple Inc,1993
-Arc,.arc,arc,Paul Graham,2001
-AspectJ,.aj,aspectj,Mik Kersten,2001
-Assembly,.asm|.a51|.i|.inc|.nasm,assembly,David J. Wheeler,1949
-Asymptote,.asy,asymptote,Andy Hammerlindl|John C. Bow,2004
-Augeas,.aug,augeas,,1995
+Arc,.arc,,Paul Graham,2001
+AspectJ,.aj,,Mik Kersten,2001
+Assembly,.asm|.a51|.i|.inc|.nasm,,David J. Wheeler,1949
+Asymptote,.asy,,Andy Hammerlindl|John C. Bow,2004
+Augeas,.aug,,,1995
 AutoHotkey,.ahk|.ahkl,autohotkey,Chris Mallett,2003
 AutoIt,.au3,autoit,Jonathan Bennett,1999
-Awk,.awk|.auk|.gawk|.mawk|.nawk,awk,Alfred Aho|Peter J. Weinberger|Brian Kernighan,1977
-Ballerina,.bal,ballerina,Sanjiva Weerawarana|James Clark|Sameera Jayasoma|Hasitha Aravinda|Srinath Perera|Frank Leymann|WSO2,2015
-Batchfile,.bat|.cmd,batchfile,batch script,1985
-Befunge,.befunge,befunge,Chris Pressey,1993
+Awk,.awk|.auk|.gawk|.mawk|.nawk,,Alfred Aho|Peter J. Weinberger|Brian Kernighan,1977
+Ballerina,.bal,,Sanjiva Weerawarana|James Clark|Sameera Jayasoma|Hasitha Aravinda|Srinath Perera|Frank Leymann|WSO2,2015
+Batchfile,.bat|.cmd,,batch script,1985
+Befunge,.befunge,,Chris Pressey,1993
 BibTeX,.bib|.bibtex,markup,Oren Patashnik| Leslie Lamport,1985
 Bison,.bison,bison,Robert Corbett,1985
-BitBake,.bb,bitbake,Holger Schurig,2004
+BitBake,.bb,,Holger Schurig,2004
 Blade,.blade|.blade.php,markup,Phillip Porras,2011
-Blitz Basic,.bb|.decls,blitzbasic,Mark Sibly,2004
-Blitz Max,.bmx,blitzmax,Mark Sibly,2004
-Bluespec,.bsv,bluespec,Professor Arvind,2003
-Boo,.boo,boo,Rodrigo B. De Oliveira,2003
+Blitz Basic,.bb|.decls,,Mark Sibly,2004
+Blitz Max,.bmx,,Mark Sibly,2004
+Bluespec,.bsv,,Professor Arvind,2003
+Boo,.boo,,Rodrigo B. De Oliveira,2003
 Brainfuck,.b|.bf,brainfuck,Urban Müller,1993
 Brightscript,.brs,brightscript,Anthony Wood,2008
 C,.c|.cats|.h|.idc,c,Dennis Ritchie,1972 and 1973
-C sharp,.cs|.cake|.csx|.linq,csharp,Microsoft Corporation,2000
-Cpp,.cpp|.c++|.cc|.cp|.cxx|.h|.h++|.hh|.hpp|.hxx|.inc|.inl|.ino|.ipp|.re|.tcc|.tpp,cpp,Bjarne Stroustrup,1980
-CLIPS,.clp,clips,,1985
+C#,.cs|.cake|.csx|.linq,csharp,Microsoft Corporation,2000
+C++,.cpp|.c++|.cc|.cp|.cxx|.h|.h++|.hh|.hpp|.hxx|.inc|.inl|.ino|.ipp|.re|.tcc|.tpp,cpp,Bjarne Stroustrup,1980
+CLIPS,.clp,,,1985
 CMake,.cmake|.cmake.in,cmake,Andy Cedilnik| Bill Hoffman| Brad King| Ken Martin| Alexander Neundorf,2000
-COBOL,.cob|.cbl|.ccp|.cobol|.cpy,cobol,Grace Murray Hopper,1959
-COLLADA,.dae,collada,Rémi Arnaud,2004
-CSON,.cson,cson,Fredrik Hübinette,1972
-CSS,.css,css,Håkon Wium Lie,1996
-CSV,.csv,csv,Adam Retter,2005
-CWeb,.w,cweb,Fortran,1987
+COBOL,.cob|.cbl|.ccp|.cobol|.cpy,,Grace Murray Hopper,1959
+COLLADA,.dae,,Rémi Arnaud,2004
+CSON,.cson,,Fredrik Hübinette,1972
+CSS,.css,markup,Håkon Wium Lie,1996
+CSV,.csv,,Adam Retter,2005
+CWeb,.w,,Fortran,1987
 Cap'n Proto,.capnp,,Wouter van Oortmerssen,2014
-CartoCSS,.mss,cartocss,,2011
-Ceylon,.ceylon,ceylon,Gavin King,2011
-Chapel,.chpl,chapel,David Callahan| Hans Zima| Brad Chamberlain| John Plevyak,2009
-Charity,.ch,charity,Hagino Tatsuya|Robin Cockett|developed at the University of Calgary,1992
-ChucK,.ck,chuck,Ge Wang,2003
-Cirru,.cirru,cirru,Michael Hanus| Sergio Antoy| et al.,1980s
-Clarion,.clw,clarion,Bruce Barrington,1986
-Clean,.icl|.dcl,clean,Software Technology Research Group of Radboud University Nijmegen,1987
-cilk,.c|.c++,cilk,Intel,2010
+CartoCSS,.mss,,,2011
+Ceylon,.ceylon,,Gavin King,2011
+Chapel,.chpl,,David Callahan| Hans Zima| Brad Chamberlain| John Plevyak,2009
+Charity,.ch,,Hagino Tatsuya|Robin Cockett|developed at the University of Calgary,1992
+ChucK,.ck,,Ge Wang,2003
+Cirru,.cirru,,Michael Hanus|Sergio Antoy| et al.,1980s
+Clarion,.clw,,Bruce Barrington,1986
+Clean,.icl|.dcl,,Software Technology Research Group of Radboud University Nijmegen,1987
+cilk,.c|.c++,,Intel,2010
 Clojure,.clj|.boot|.cl2|.cljc|.cljs|.cljs.hl|.cljscm|.cljx|.hic,clojure,Rich Hickey,2007
 Closure Templates,.soy,markup,Google,2009
-CodeQL,.ql|.qll,codeql,Oege de Moor,
+CodeQL,.ql|.qll,,Oege de Moor,
 CoffeeScript,.coffee|._coffee|.cake|.cjsx|.iced,coffeescript,Jeremy Ashkenas,2009
-ColdFusion,.cfm|.cfml,coldfusion,Jeremy Allaire,1995
-ColdFusion CFC,.cfc,cfc,Jeremy Allaire,1995
+ColdFusion,.cfm|.cfml,,Jeremy Allaire,1995
+ColdFusion CFC,.cfc,,Jeremy Allaire,1995
 Common Lisp,.lisp|.asd|.cl|.l|.lsp|.ny|.podsl|.sexp,lisp,John McCarthy|Steve Russell|Timothy P. Hart|Mike Levin,1960
-Common Workflow Language,.cwl,cwl,Peter Amstutz| John Chilton| Nebojsa Tijanic| and Michael R. Crusoe,2014
-Component Pascal,.cp|.cps,delphi,Niklaus Wirth,1997
-Cool,.cl,cool,Alexander Aiken,1996
-Coq,.coq|.v,coq,Gérard Huet,1989
+Common Workflow Language,.cwl,,Peter Amstutz|John Chilton|Nebojsa Tijanic|Michael R. Crusoe,2014
+Component Pascal,.cp|.cps,,Niklaus Wirth,1997
+Cool,.cl,,Alexander Aiken,1996
+Coq,.coq|.v,,Gérard Huet,1989
 Crystal,.cr,crystal,Ary Borenszweig,2009
-Csound,.orc|.udo,csound,Barry Vercoe,1986
-Csound Document,.csd,csound-csd,Barry Vercoe,1986
-Csound Score,.sco,csound-sco,Barry Vercoe,1986
-Cuda,.cu|.cuh,cuda,Nvidia,2007
-Cycript,.cy,cycript,,2007
-Cython,.pyx|.pxd|.pxi,cython,Robert Bradshaw,1991
+Csound,.orc|.udo,,Barry Vercoe,1986
+Csound Document,.csd,,Barry Vercoe,1986
+Csound Score,.sco,,Barry Vercoe,1986
+Cuda,.cu|.cuh,,Nvidia,2007
+Cycript,.cy,,,2007
+Cython,.pyx|.pxd|.pxi,,Robert Bradshaw,1991
 D,.d|.di,d,Konrad Zuse,2001
-DIGITAL Command Language,.com,dcl,Digital Equipment Corporation,1997
-DM,.dm,dm,Dennis MacAlistair Ritchie,1994
-DTrace,.d,dtrace,Bryan Cantrill| Adam Leventhal| Mike Shapiro (Sun Microsystems),2005
-Dafny CFC,.dfy,dafny,Rustan Leino,2009
+DIGITAL Command Language,.com,,Digital Equipment Corporation,1997
+DM,.dm,,Dennis MacAlistair Ritchie,1994
+DTrace,.d,,Bryan Cantrill|Adam Leventhal|Mike Shapiro (Sun Microsystems),2005
+Dafny CFC,.dfy,,Rustan Leino,2009
 Dart,.dart,dart,Lars Bak,2011
-DataWeave,.dwl,dataweave,Karthik Bettadapura,2014
+DataWeave,.dwl,,Karthik Bettadapura,2014
 Dhall,.dhall,dhall,Gabriel Gonzalez,2017
 Diff,.diff|.patch,diff,,1974
-Dockerfile,.dockerfile,dockerfile,Solomon Hykes,2013
-Dogescript,.djs,dogescript,Zach Bruggeman,2013
-Dylan,.dylan|.dyl|.intr|.lid,dylan,Walter Smith,1992
-E,.E,e,Mark S. Miller,1997
+Dockerfile,.dockerfile,,Solomon Hykes,2013
+Dogescript,.djs,,Zach Bruggeman,2013
+Dylan,.dylan|.dyl|.intr|.lid,,Walter Smith,1992
+E,.E,,Mark S. Miller,1997
 EBNF,.ebnf,ebnf,Niklaus Wirth,1996
-ECL,.ecl|.eclxml,ecl,David Bayliss,2000
-ECLiPSe,.ecl,eclipse,IBM,2001
+ECL,.ecl|.eclxml,,David Bayliss,2000
+ECLiPSe,.ecl,,IBM,2001
 EJS,.ejs,markup,Francisco Esquembre,2010
-EQ,.eq,eq,Brad McQuaid| Steve Clover| and Bill Trost,
-Eagle,.sch|.brd,eagle,Rudolf Hofer,1988
-Easybuild,.eb,easybuild,Guido van Rossum,2014
+EQ,.eq,,Brad McQuaid|Steve Clover|Bill Trost,
+Eagle,.sch|.brd,,Rudolf Hofer,1988
+Easybuild,.eb,,Guido van Rossum,2014
 Eiffel,.e,eiffel,Bertrand Meyer,1986
 Elixir,.ex|.exs,elixir,José Valim,2011
 Elm,.elm,elm,Evan Czaplicki,2012
-Emacs Lisp,.el|.emacs|.emacs.desktop,elisp,Richard Stallman,1976
+Emacs Lisp,.el|.emacs|.emacs.desktop,,Richard Stallman,1976
 Erlang,.erl|.app.src|.es|.escript|.hrl|.xrl|.yrl,erlang,Joe Armstrong,1986
-F Sharp,.fs|.fsi|.fsx,fsharp,Don Syme|Microsoft Research,2005
-F Star,.fst,fstar,Microsoft Research|French Institute for Research in Computer Science and Automation,2016
-FLUX,.fx|.flux,flux,Paul Dix,2014
+F#,.fs|.fsi|.fsx,fsharp,Don Syme|Microsoft Research,2005
+F*,.fst,,Microsoft Research|French Institute for Research in Computer Science and Automation,2016
+FLUX,.fx|.flux,,Paul Dix,2014
 Factor,.factor,factor,Slava Pestov,2003
-Fancy,.fy|.fancypack,fancy,Rasmus Lerdorf,2010
-Fantom,.fan,fantom,Andy Frank,2005
-Faust,.dsp,faust,Yann Orlarey| Dominique Fober| Stéphane Letz,2002
+Fancy,.fy|.fancypack,,Rasmus Lerdorf,2010
+Fantom,.fan,,Andy Frank,2005
+Faust,.dsp,,Yann Orlarey|Dominique Fober|Stéphane Letz,2002
 Filebench WML,.f,,,2002
-Filterscript,.fs,filterscript,Jonathan Mitchell,2009
-Formatted,.for|.eam.fs,formatted,,1972
-Forth,.fth|.4th|.f|.for|.forth|.fr|.frt|.fs,forth,Charles H. Moore,1970
+Filterscript,.fs,,Jonathan Mitchell,2009
+Formatted,.for|.eam.fs,,,1972
+Forth,.fth|.4th|.f|.for|.forth|.fr|.frt|.fs,,Charles H. Moore,1970
 Fortran,.f|.f77|.for|.fpp,fortran,John Backus,1957
 Fortran Free Form,.f90|.f03|.f08|.f95,,John Backus Developer,1957
-FreeMarker,.ftl,freemarker,Jonathan Revusky| Attila Szegedi| Dániel Dékány| and others,2000
-Frege,.fr,frege,Ingo Wechsung,2011
-Futhark,.fut,futhark,Troels Henriksen| Cosmin Oancea| Martin Elsman,2014
+FreeMarker,.ftl,,Jonathan Revusky|Attila Szegedi|Dániel Dékány,2000
+Frege,.fr,,Ingo Wechsung,2011
+Futhark,.fut,,Troels Henriksen|Cosmin Oancea|Martin Elsman,2014
 G-code,.g|.cnc|.gco|.gcode,,Massachusetts Institute of Technology,1950s
-GAML,.gaml,gaml,Robert Griesemer Rob Pike Ken Thompson,1991
-GAMS,.gms,gams,George Dantzig,1988
-GAP,.g|.gap|.gd|.gi|.tst,gap,Joachim Neubüser,1985
-Markdown,.md,,John Gruber,2004
+GAML,.gaml,,Robert Griesemer Rob Pike Ken Thompson,1991
+GAMS,.gms,,George Dantzig,1988
+GAP,.g|.gap|.gd|.gi|.tst,,Joachim Neubüser,1985
 GCC Machine Description,.md,,GNU Project,2001
-GDB,.gdb|.gdbinit,gdb,Richard Stallman,1986
+GDB,.gdb|.gdbinit,,Richard Stallman,1986
 GDScript,.gd,gdscript,Juan Linietsky,2008
 GEDCOM,.ged,gedcom,LDS FHD,1984
 GLSL,.glsl|.fp|.frag|.frg|.fs|.fsh|.fshader|.geo|.geom|.glslf|.glslv|.gs|.gshader|.shader|.tesc|.tese|.vert|.vrx|.vsh|.vshader,glsl,Mark Segal,2004
-GN,.gn|.gni,gn,Mahesh Kulkarni,1976
+GN,.gn|.gni,,Mahesh Kulkarni,1976
 Game Maker Language,.gml,,Mark Overmars,1999
-Genie,.gs,genie,Jamie McCracken,2008
-Genshi,.kid,genshi,Edgewall Software,1950s
+Genie,.gs,,Jamie McCracken,2008
+Genshi,.kid,,Edgewall Software,1950s
 Gentoo Ebuild,.ebuild,,Portage,1999
-Gentoo Eclass,.eclass,,,July 2000
-Gherkin,.feature,gherkin,Aslak Hellesøy| Joseph Wilk| Matt Wynne| Gregory Hnatiuk| Mike Sassak,2008
-Glyph,.glf,glyph,Glyph Lefkowitz,2007
-Gnuplot,.gp|.gnu|.gnuplot|.p|.plot|.plt,gnuplot,Thomas Williams| Colin Kelley,1986
-Go,.go,go,Robert Griesemer| Rob Pike|Ken Thompson,2009
-Golo,.golo,golo,INSA Lyon,2012
-Gosu,.gs|.gst|.gsx|.vark,gosu,Guidewire and open source contributors,2002
-Grace,.grace,grace,Andrew Black,1953
-Gradle,.gradle,gradle,Groovy language,2007
-Grammatical Framework,.gf,gf,Martin Löf's,1994
+Gentoo Eclass,.eclass,,,2000
+Gherkin,.feature,gherkin,Aslak Hellesøy|Joseph Wilk|Matt Wynne|Gregory Hnatiuk|Mike Sassak,2008
+Glyph,.glf,,Glyph Lefkowitz,2007
+Gnuplot,.gp|.gnu|.gnuplot|.p|.plot|.plt,,Thomas Williams|Colin Kelley,1986
+Go,.go,go,Robert Griesemer|Rob Pike|Ken Thompson,2009
+Golo,.golo,,INSA Lyon,2012
+Gosu,.gs|.gst|.gsx|.vark,,Guidewire and open source contributors,2002
+Grace,.grace,,Andrew Black,1953
+Gradle,.gradle,,Groovy language,2007
+Grammatical Framework,.gf,,Martin Löf's,1994
 GraphQL,.graphql|.gql|.graphqls,graphql,Lee Byron,2015
 Groovy,.groovy|.grt|.gtpl|.gvy,groovy,James Strachan,2003
-Groovy Server Pages,.gsp,gsp,Graeme Rocher,2005
-HAProxy,.cfg,haproxy,Willy Tarreau,2000
-HCL,.hcl|.tf|.tfvars|.workflow,hcl,Shiv Nadar,11 August 1976
+Groovy Server Pages,.gsp,,Graeme Rocher,2005
+HAProxy,.cfg,,Willy Tarreau,2000
+HCL,.hcl|.tf|.tfvars|.workflow,hcl,Shiv Nadar,1976
 HLSL,.hlsl|.cginc|.fx|.fxh|.hlsli,hlsl,GLSL,2002
 HTML,.html|.htm|.html.hl|.inc|.st|.xht|.xhtml,markup,Tim Berners-Lee,1990
-HTML+Django,.jinja|.jinja2|.mustache|.njk,markup,Adrian Holovaty| Simon Willison,2003
+HTML+Django,.jinja|.jinja2|.mustache|.njk,markup,Adrian Holovaty|Simon Willison,2003
 HTML+ECR,.ecr,markup,Konrad Zuse,1990
 HTML+EEX,.eex,markup,,1993
 HTML+ERB,.erb|.erb.deface|.rhtml,markup,David Heinemeier Hansson,1996
 HTML+PHP,.phtml,markup,Rasmus Lerdorf,1995
 HTML+Razor,.cshtml|.razor,markup,Microsoft,2010
 HTTP,.http,http,Sir Timothy John Berners-Lee,1991
-HXML,.hxml,hxml,Konrad Zuse,2005
-Hack,.hack|.hh|.hhi|.php,hack,Facebook,‎2014
+HXML,.hxml,,Konrad Zuse,2005
+Hack,.hack|.hh|.hhi|.php,,Facebook,‎2014
 Haml,.haml|.haml.deface,markup,Hampton Catlin,1990s
 Handlebars,.handlebars|.hbs,markup,Chris Wanstrath,1920
-Harbour,.hb,harbour,Antonio Linares,1999
+Harbour,.hb,,Antonio Linares,1999
 Haskell,.hs|.hs-boot|.hsc,haskell,Lennart Augustsson|Dave Barton|Brian Boutel|Warren Burton|Joseph Fasel|Kevin Hammond|Ralf Hinze|Paul Hudak|John Hughes|Thomas Johnsson|Mark Jones|Simon Peyton Jones|John Launchbury|Erik Meijer|John Peterson|Alastair Reid|Colin Runciman|Philip Wadler,1990
 Haxe,.hx|.hxsl,haxe,Haxe Foundation,2005
-HiveQL,.q|.hql,hiveql,Facebook,2010
-HolyC,.hc,holyc,Terry A. Davis,2005
-Hy,.hy,hy,Paul Tagliamonte,2013
-HyPhy,.bf,hyphy,producer J Maine,1997
-IDL,.pro|.dlm,idl,David Stern,1977
-IGOR Pro,.ipf,igor,WaveMetrics Inc.,1993
+HiveQL,.q|.hql,,Facebook,2010
+HolyC,.hc,,Terry A. Davis,2005
+Hy,.hy,,Paul Tagliamonte,2013
+HyPhy,.bf,,producer J Maine,1997
+IDL,.pro|.dlm,,David Stern,1977
+IGOR Pro,.ipf,,WaveMetrics Inc.,1993
 INI,.ini|.cfg|.dof|.lektorproject|.prefs|.pro|.properties,ini,,1987
-Idris,.idr|.lidr,idris,Edwin Brady,2007
-Inform 7,.ni|.i7x,i7,Graham Nelson,1993
+Idris,.idr|.lidr,,Edwin Brady,2007
+Inform 7,.ni|.i7x,,Graham Nelson,1993
 Inno Setup,.iss|.isl,,Jordan Russell’s Software,1997
 Io,.io,io,Steve Dekorte,2002
-Ioke,.ik,ioke,Ola Bini,2008
-Isabelle,.thy,isabelle,Lawrence Paulson,1986
+Ioke,.ik,,Ola Bini,2008
+Isabelle,.thy,,Lawrence Paulson,1986
 J,.ijs,j,Kenneth E. Iverson|Roger Hui,1990
-JFlex,.flex|.jflex,jflex,Alan Kay,1960s
+JFlex,.flex|.jflex,,Alan Kay,1960s
 JSON,.json|.avsc|.geojson|.gltf|.har|.ice|.JSON-tmLanguage|.jsonl|.mcmeta|.tfstate|.tfstate.backup|.topojson|.webapp|.webmanifest|.yy|.yyp,json,Douglas Crockford,2013
 JSON5,.json5,json5,Douglas Crockford,1997
-JSONLD,.jsonld,jsonld,JSON for Linking Data Community Group,2010
-JSONiq,.jq,jsoniq,,2011
+JSONLD,.jsonld,,JSON for Linking Data Community Group,2010
+JSONiq,.jq,,,2011
 JSX,.jsx,jsx,Jordan Walke,2013
-Jasmine,.j,jasmine,Pivotal Labs,2010
+Jasmine,.j,,Pivotal Labs,2010
 Java,.java,java,James Gosling,1995
-Java Server Pages,.jsp,jsp,James Gosling,1995
+Java Server Pages,.jsp,,James Gosling,1995
 JavaScript,.js|._js|.bones|.cjs|.es|.es6|.frag|.gs|.jake|.jsb|.jscad|.jsfl|.jsm|.jss|.mjs|.njs|.pac|.sjs|.ssjs|.xsjs|.xsjslib,javascript,Brendan Eich,1995
 JavaScript+ERB,.js.erb,,Brendan Eich,1995
-Jison,.jison,jison,Robert Corbett,1990s
+Jison,.jison,,Robert Corbett,1990s
 Jison-Lex,.jisonlex,,Zach Carter,1985
 Jolie,.ol|.iol,jolie,Fabrizio Montesi,2006
-Jsonnet,.jsonnet|.libsonnet,jsonnet,Google,2014
+Jsonnet,.jsonnet|.libsonnet,,Google,2014
 Julia,.jl,julia, ,2009
-Jupyter Notebook,.ipynb,markup,Fernando Pérez|Brian Granger,February 2015
-KRL,.krl,krl,KUKA,1976
-Kaitai Struct,.ksy,ksy,,
+Jupyter Notebook,.ipynb,markup,Fernando Pérez|Brian Granger,2015
+KRL,.krl,,KUKA,1976
+Kaitai Struct,.ksy,,,
 Kit,.kit,markup,Konrad Zuse,1972
 Kotlin,.kt|.ktm|.kts,kotlin,JetBrains,2010
-LFE,.lfe,lfe,Robert Virding,2008
-LLVM,.ll,llvm,Vikram Adve| Chris Lattner,2003
+LFE,.lfe,,Robert Virding,2008
+LLVM,.ll,llvm,Vikram Adve|Chris Lattner,2003
 LOLCODE,.lol,lolcode,Adam Lindsay,2007
-LSL,.lsl|.lslp,lsl,Linden Lab,2003
-LabVIEW,.lvproj,labview,National Instruments,1986
-Lasso,.lasso|.las|.lasso8|.lasso9,lasso,Kyle Jessup,1995
+LSL,.lsl|.lslp,,Linden Lab,2003
+LabVIEW,.lvproj,,National Instruments,1986
+Lasso,.lasso|.las|.lasso8|.lasso9,,Kyle Jessup,1995
 Latte,.latte,markup,Jeremy Ashkenas,2008
-Lean,.lean|.hlean,lean,Microsoft Research,2013
+Lean,.lean|.hlean,,Microsoft Research,2013
 Less,.less,markup,Alexis Sellier,2009
-Lex,.l|.lex,lex,Mike Lesk| Eric Schmidt,1975
-LilyPond,.ly|.ily,lilypond,David Kastrup| Werner Lemberg| Han-Wen Nienhuys| Jan Nieuwenhuizen| Carl Sorensen| Janek Warchoł| et al.,1996
-Limbo,.b|.m,limbo, Phil Winterbottom|Rob Pike,1995
+Lex,.l|.lex,,Mike Lesk|Eric Schmidt,1975
+LilyPond,.ly|.ily,lilypond,David Kastrup|Werner Lemberg|Han-Wen Nienhuys|Jan Nieuwenhuizen|Carl Sorensen|Janek Warchoł,1996
+Limbo,.b|.m,, Phil Winterbottom|Rob Pike,1995
 Liquid,.liquid,markup,Tobias Lütke,2006
 Literate Agda,.lagda,,Ulf Norell,1999
-Literate CoffeeScript,.litcoffee,litcoffee,Jeremy Ashkenas,2009
-Literate Haskell,.lhs,lhaskell,Richard Bird| Philip Wadler for Orwell| Donald Knuth,1990
+Literate CoffeeScript,.litcoffee,,Jeremy Ashkenas,2009
+Literate Haskell,.lhs,,Richard Bird|Philip Wadler for Orwell|Donald Knuth,1990
 Live Script,.ls|._ls,livescript,Brandan Eich,1995
-Logos,.xm|.x|.xi,logos,George Mills,1967
-Logtalk,.lgt|.logtalk,logtalk,Paulo Moura,1998
-LookML,.lookml|.model.lkml|.view.lkml,lookml,Lloyd Tabb,2012
-LoomScript,.ls,loomscript,,2013
+Logos,.xm|.x|.xi,,George Mills,1967
+Logtalk,.lgt|.logtalk,,Paulo Moura,1998
+LookML,.lookml|.model.lkml|.view.lkml,,Lloyd Tabb,2012
+LoomScript,.ls,,,2013
 Lua,.lua|.fcgi|.nse|.p8|.pd_lua|.rbxs|.rockspec|.wlua,lua,Roberto Ierusalimschy|Luiz Henrique de Figueiredo,1993
-M,.mumps|.m,m,Neil Pappalardo,1966
-M4,.m4,m4,Brian Kernighan|Dennis Ritchie,1977
-M4Sugar,.m4,m4sugar,,2003
+M,.mumps|.m,,Neil Pappalardo,1966
+M4,.m4,,Brian Kernighan|Dennis Ritchie,1977
+M4Sugar,.m4,,,2003
 MATLAB,.matlab|.m,matlab,Cleve Moler,1970s
-MAXScript,.ms|.mcr,maxscript,John Wainwright,1996
-MLIR,.mlir,mlir,Chris Lattner,2019
-MQL4,.mq4|.mqh,mql4,MetaQuotes,2005
-MQL5,.mq5|.mqh,mql5,MetaQuotes Software Corp.,2010
+MAXScript,.ms|.mcr,,John Wainwright,1996
+MLIR,.mlir,,Chris Lattner,2019
+MQL4,.mq4|.mqh,,MetaQuotes,2005
+MQL5,.mq5|.mqh,,MetaQuotes Software Corp.,2010
 MTML,.mtml,markup,Tim Berners-Lee,1990
-MUF,.muf|.m,muf,Piaw Na,1995
-Macaulay2,.m2,macaulay2,Daniel Grayson,1993
+MUF,.muf|.m,,Piaw Na,1995
+Macaulay2,.m2,,Daniel Grayson,1993
 Makefile,.mak|.d|.make|.mk|.mkfile,makefile,Stuart Feldman,1977
-Mako,.mako|.mao,mako,Benjamin Mako Hill,2006
+Mako,.mako|.mao,,Benjamin Mako Hill,2006
 Marko,.marko,markup,Patrick Steele-Idem,2012
 Mask,.mask,markup,Madame Rowley,2012
-Mathematica,.mathematica|.cdf|.m|.ma|.mt|.nb|.nbp|.wl|.wlt,mathematica,Stephen Wolfram,1988
-Max,.maxpat|.maxhelp|.maxproj|.mxt|.pat,max,Miller Puckette,1985
-Mercury,.m|.moo,mercury,Fergus Henderson| Thomas Conway| and Zoltan Somogyi,1995
-Metal,.metal,metal,Mozilla,Apple Inc.
-MiniD,.minid,minid,Jarrett Billingsley,1993
-Mirah,.druby|.duby|.mirah,mirah,Charles Oliver Nutter,2016
-Modelica,.mo,modelica,Hilding Elmqvist,1997
+Mathematica,.mathematica|.cdf|.m|.ma|.mt|.nb|.nbp|.wl|.wlt,,Stephen Wolfram,1988
+Max,.maxpat|.maxhelp|.maxproj|.mxt|.pat,,Miller Puckette,1985
+Mercury,.m|.moo,,Fergus Henderson|Thomas Conway|Zoltan Somogyi,1995
+Metal,.metal,,Mozilla,
+MiniD,.minid,,Jarrett Billingsley,1993
+Mirah,.druby|.duby|.mirah,,Charles Oliver Nutter,2016
+Modelica,.mo,,Hilding Elmqvist,1997
 Modula-2,.mod,,Niklaus Wirth,1977 and 1985
 Modula-3,.i3|.ig|.m3|.mg,,Luca Cardelli|Greg Nelson,1988
 Module Management System,.mms|.mmk,,Siddhartha Errabolu,2005
 Monkey,.monkey|.monkey2,monkey,CoffeeScript,2011
-Moocode,.moo,moocode,Konrad Zuse,1990
+Moocode,.moo,,Konrad Zuse,1990
 MoonScript,.moon,moonscript,Jeremy Ashkenas,2011
-Motorola 68K Assembly,.asm|.i|.inc|.s|.x68,m68k,eight address registers,1979
-Myghty,.myt,myghty,,2006
-NASL,.nasl|.inc,nasl,NASL,1998
-NCL,.ncl,ncl,National Center for Atmospheric Research,1994
+Motorola 68K Assembly,.asm|.i|.inc|.s|.x68,,eight address registers,1979
+Myghty,.myt,,,2006
+NASL,.nasl|.inc,,NASL,1998
+NCL,.ncl,,National Center for Atmospheric Research,1994
 NEON,.neon,neon,Pranav Mistry,
-NL,.nl,nl,James Flynn,2002
+NL,.nl,,James Flynn,2002
 NSIS,.nsi|.nsh,nsis,Nullsoft,2000
-Nearley,.ne|.nearley,nearley,,2014
-Nemerle,.n,nemerle,JetBrains,2003
-NetLinx,.axs|.axi,netlinx,,2007
+Nearley,.ne|.nearley,,,2014
+Nemerle,.n,,JetBrains,2003
+NetLinx,.axs|.axi,,,2007
 NetLinx+ERB,.axs.erb|.axi.erb,,,
-NetLogo,.nlogo,netlogo,Uri Wilensky,1999
-NewLisp,.nl|.lisp|.lsp,newlisp,Lutz Mueller,1991
-Nextflow,.nf,nextflow,James Strachan,2013
+NetLogo,.nlogo,,Uri Wilensky,1999
+NewLisp,.nl|.lisp|.lsp,,Lutz Mueller,1991
+Nextflow,.nf,,James Strachan,2013
 Nginx,.nginxconf|.vhost,nginx,Igor Sysoev,2004
 Nim,.nim|.nim.cfg|.nimble|.nimrod|.nims,nim,Andreas Rumpf,2005
-Ninja,.ninja,ninja,Ankush Singla,2016
-Nit,.nit,nit,,15 August 2007
+Ninja,.ninja,,Ankush Singla,2016
+Nit,.nit,,,2007
 Nix,.nix,nix,,2003
-Nu,.nu,nu,Tim Burks,2007
-NumPy,.numpy|.numpyw|.numsc,numpy,Travis Oliphant,2006
+Nu,.nu,,Tim Burks,2007
+NumPy,.numpy|.numpyw|.numsc,,Travis Oliphant,2006
 OCaml,.ml|.eliom|.eliomi|.ml4|.mli|.mll|.mly,ocaml,Gérard Huet|Guy Cousineau|Xavier Leroy,1996
-ObjDump,.objdump,objdump,,1991
-ObjectScript,.cls,objectscript,,1997
-Objective-C,.m|.h,obj-c,Brad Cox,1972
-Objective-C++,.mm,obj-c++,Brad Cox,1972
-Objective-J,.j|.sj,obj-j,Cappuccino Core Developers and community.,2008
-Odin,.odin,odin,Erik Trautman,2016
-Omgrofl,.omgrofl,omgrofl,Juraj Borza,2006
-Opa,.opa,opa,MLstate,2013
-Opal,.opal,opal, Technical University of Berlin,1994
+ObjDump,.objdump,,,1991
+ObjectScript,.cls,,,1997
+Objective-C,.m|.h,,Brad Cox,1972
+Objective-C++,.mm,,Brad Cox,1972
+Objective-J,.j|.sj,,Cappuccino Core Developers and community.,2008
+Odin,.odin,,Erik Trautman,2016
+Omgrofl,.omgrofl,,Juraj Borza,2006
+Opa,.opa,,MLstate,2013
+Opal,.opal,, Technical University of Berlin,1994
 Open Policy Agent,.rego,,Tim Hinrichs,
 OpenCL,.cl|.opencl,opencl,Khronos Group,2009
-OpenEdge ABL,.p|.cls|.w,progress,Progress Software Corporation (PSC),1981
-OpenQASM,.qasm,openqasm, IBM's Quantum Information Software Kit ,2017
-OpenSCAD,.scad,openscad,Marius Kintel,
-Ox,.ox|.oxh|.oxo,ox,Jurgen Doornik,2011
-Oxygene,.oxygene,oxygene,RemObjects Software,2005
+OpenEdge ABL,.p|.cls|.w,,Progress Software Corporation (PSC),1981
+OpenQASM,.qasm,, IBM's Quantum Information Software Kit ,2017
+OpenSCAD,.scad,,Marius Kintel,
+Ox,.ox|.oxh|.oxo,,Jurgen Doornik,2011
+Oxygene,.oxygene,,RemObjects Software,2005
 Oz,.oz,oz,Gert Smolka,1991
-P4,.p4,p4,Nick McKeown,2013
+P4,.p4,,Nick McKeown,2013
 PHP,.php|.aw|.ctp|.fcgi|.inc|.php3|.php4|.php5|.phps|.phpt,php,Rasmus Lerdorf,1994
 PL/SQL,.pls|.bdy|.ddl|.fnc|.pck|.pkb|.pks|.plb|.plsql|.prc|.spc|.sql|.tpb|.tps|.trg|.vw,plsql,Oracle Corporation,1986
-PLpgSQL,.pgsql|.sql,plpgsql,Jan Wieck,1998
-POV-Ray SDL,.pov|.inc,pov-ray,David Kirk Buck| Aaron A. Collins| Alexander Enzmann,1991
-Pan,.pan,pan,,2011
-Papyrus,.psc,papyrus,Commissariat à l'Énergie Atomique (CEA-List)| Atos| Cedric Dumoulin (LIFL),1973
-Parrot,.parrot,parrot,Perl community,2016
-Parrot Assembly,.pasm,pasm,David J. Wheeler,2003
-Parrot Internal Representation,.pir,pir,,2003
+PLpgSQL,.pgsql|.sql,,Jan Wieck,1998
+POV-Ray SDL,.pov|.inc,,David Kirk Buck|Aaron A. Collins|Alexander Enzmann,1991
+Pan,.pan,,,2011
+Papyrus,.psc,,Commissariat à l'Énergie Atomique (CEA-List)|Atos|Cedric Dumoulin (LIFL),1973
+Parrot,.parrot,,Perl community,2016
+Parrot Assembly,.pasm,,David J. Wheeler,2003
+Parrot Internal Representation,.pir,,,2003
 Pascal,.pas|.dfm|.dpr|.inc|.lpr|.pascal|.pp,pascal,Niklaus Wirth,1970
-Pawn,.pwn|.inc|.sma,pawn,,1999
-Pep8,.pep,pep8,Guido van Rossum,2009
+Pawn,.pwn|.inc|.sma,,,1999
+Pep8,.pep,,Guido van Rossum,2009
 Perl,.pl|.al|.cgi|.fcgi|.perl|.ph|.plx|.pm|.psgi|.t,perl,Larry Wall,1987
 Pic,.pic|.chem,markup,General Instrument',1988
-Pickle,.pkl,pickle,,1995
-PicoLisp,.l,picolisp,Alexander Burger,1988
-PigLatin,.pig,piglatin,Yahoo Research|Apache Software Foundation,2006
-Pike,.pike|.pmod,pike,Fredrik Hübinette,1994
-PlantUML,.puml|.iuml|.plantuml,plantuml,Arnaud Roques,2009
-PogoScript,.pogo,pogoscript,Philippe Mougin,2011
-Pony,.pony,pony,Sylvan Clebsch,1973
-PostCSS,.pcss|.postcss,markup,Andrey Sitnik| Ben Briggs| Bogdan Chadkin,2013
+Pickle,.pkl,,,1995
+PicoLisp,.l,,Alexander Burger,1988
+PigLatin,.pig,,Yahoo Research|Apache Software Foundation,2006
+Pike,.pike|.pmod,,Fredrik Hübinette,1994
+PlantUML,.puml|.iuml|.plantuml,,Arnaud Roques,2009
+PogoScript,.pogo,,Philippe Mougin,2011
+Pony,.pony,,Sylvan Clebsch,1973
+PostCSS,.pcss|.postcss,markup,Andrey Sitnik|Ben Briggs|Bogdan Chadkin,2013
 PostScript,.ps|.eps|.epsi|.pfa,markup,Adobe Systems,1982
-PowerBuilder,.pbt|.sra|.sru|.srw,powerbuilder,Powerscript,1992
+PowerBuilder,.pbt|.sra|.sru|.srw,,Powerscript,1992
 PowerShell,.ps1|.psd1|.psm1,powershell,Microsoft,2006
-Prisma,.prisma,prisma,Alexey Moiseenkov,2016
-Processing,.pde,processing,Casey Reas| Ben Fry,2001
-Proguard,.pro,proguard,Eric P.F. Lafortune,2019
-Prolog,.pl|.pro|.prolog|.yap,prolog,Alain Colmerauer| Robert Kowalski,1973
+Prisma,.prisma,,Alexey Moiseenkov,2016
+Processing,.pde,processing,Casey Reas|Ben Fry,2001
+Proguard,.pro,,Eric P.F. Lafortune,2019
+Prolog,.pl|.pro|.prolog|.yap,prolog,Alain Colmerauer|Robert Kowalski,1973
 Propeller Spin,.spin,,Abhishek Desai,2006
 Pug,.jade|.pug,markup,,2005
 Puppet,.pp,puppet,Luke Kanies,2005
 PureBasic,.pb|.pbi,purebasic,Fantaisie Software,1998
 PureScript,.purs,purescript,Evan Czaplicki,2013
 Python,.py|.cgi|.fcgi|.gyp|.gypi|.lmi|.py3|.pyde|.pyi|.pyp|.pyt|.pyw|.rpy|.smk|.spec|.tac|.wsgi|.xpy,python,Guido van Rossum,1991
-Q Sharp,.qs,qsharp,Microsoft Research,2000
+Q#,.qs,,Microsoft Research,2000
 QML,.qml|.qbs,qml,Qt Project,2009
-QMake,.pro|.pri,qmake,Trolltech| Nokia| Qt Project| Digia|The Qt Company ,2010
+QMake,.pro|.pri,,Trolltech|Nokia|Qt Project|Digia|The Qt Company,2010
 Qt Script,.qs,,C++,2008
 R,.r|.rd|.rsx,r,Ross Ihaka|Robert Gentleman,1993
 RAML,.raml,markup,Uri Sarid,2013
-REALbasic,.rbbas|.rbfrm|.rbmnu|.rbres|.rbtbar|.rbuistate,realbasic,Geoff Perlman,1996
-REXX,.rexx|.pprx|.rex,rexx,Mike Cowlishaw,1979
-RPC,.x,rpc,Bruce Jay Nelson,1970
+REALbasic,.rbbas|.rbfrm|.rbmnu|.rbres|.rbtbar|.rbuistate,,Geoff Perlman,1996
+REXX,.rexx|.pprx|.rex,,Mike Cowlishaw,1979
+RPC,.x,,Bruce Jay Nelson,1970
 RUNOFF,.rnh|.rno,markup,Joe Ossanna,1959
 Racket,.rkt|.rktd|.rktl|.scrbl,racket,Matthias Felleisen,1995
-Ragel,.rl,ragel,Adrian Thurston,2017
-Raku,.6pl|.6pm|.nqp|.p6|.p6l|.p6m|.pl|.pl6|.pm|.pm6|.t,raku,Larry Wall,2015
-Rascal,.rsc,rascal,Konrad Zuse,2013
+Ragel,.rl,,Adrian Thurston,2017
+Raku,.6pl|.6pm|.nqp|.p6|.p6l|.p6m|.pl|.pl6|.pm|.pm6|.t,,Larry Wall,2015
+Rascal,.rsc,,Konrad Zuse,2013
 Reason,.re|.rei,reason,Jordan Walke,2016
-Rebol,.reb|.r|.r2|.r3|.rebol,rebol,Carl Sassenrath,1997
-Red,.red|.reds,red,Konrad Zuse,1950s
-Redcode,.cw,redcode,D. G. Jones & A. K. Dewdney,1984
+Rebol,.reb|.r|.r2|.r3|.rebol,,Carl Sassenrath,1997
+Red,.red|.reds,,Konrad Zuse,1950s
+Redcode,.cw,,D. G. Jones|A. K. Dewdney,1984
 Ren'Py,.rpy,renpy,Tom 'PyTom' Rothamel,2004
-RenderScript,.rs|.rsh,renderscript,Google,2011
+RenderScript,.rs|.rsh,,Google,2011
 Rich Text Format,.rtf,markup,Microsoft,1987
-Ring,.ring,ring,Mahmoud Fayed,2009
+Ring,.ring,,Mahmoud Fayed,2009
 Riot,.riot,markup,Riot Games,2006
 RobotFramework,.robot,robotframework,PyCharm,2008
 Roff,.roff|.1|.1in|.1m|.1x|.2|.3|.3in|.3m|.3p|.3pm|.3qt|.3x|.4|.5|.6|.7|.8|.9|.l|.man|.mdoc|.me|.ms|.n|.nr|.rno|.tmac,markup,Joe Ossanna,1973
 Roff Manpage,.1|.1in|.1m|.1x|.2|.3|.3in|.3m|.3p|.3pm|.3qt|.3x|.4|.5|.6|.7|.8|.9|.man|.mdoc,markup,Joe Ossanna,1971
-Rouge,.rg,rouge,Dennis Ritchie,2012
+Rouge,.rg,,Dennis Ritchie,2012
 Ruby,.rb|.builder|.eye|.fcgi|.gemspec|.god|.jbuilder|.mspec|.pluginspec|.podspec|.rabl|.rake|.rbi|.rbuild|.rbw|.rbx|.ru|.ruby|.spec|.thor|.watchr,ruby,Yukihiro Matsumoto,1995
 Rust,.rs|.rs.in,rust,Graydon Hoare,2010
 SAS,.sas,sas,Anthony James Barr,1976
 SCSS,.scss,markup,Hampton Catlin,2006
-SMT,.smt2|.smt,smt,,2003
+SMT,.smt2|.smt,,,2003
 SPARQL,.sparql|.rq,sparql,W3C,2008
 SQF,.sqf|.hqf,sqf,,1991
 SQL,.sql|.cql|.ddl|.inc|.mysql|.prc|.tab|.udf|.viw,sql, Donald D. Chamberlin|Raymond F. Boyce,1974
-SQLPL,.sql|.db2,sqlpl,PostgreSQL Global Development Group,1974
+SQLPL,.sql|.db2,,PostgreSQL Global Development Group,1974
 SRecode Template,.srt,markup,,2000
-STON,.ston,ston,,1970
-SVG,.svg,svg,W3C SVG Working Group,1999
-SWIG,.i,swig,David M. Beazley,1996
-Sage,.sage|.sagews,sage,William Stein,24 February 2005
-SaltStack,.sls,saltstack,founder Thomas S. Hatch,2011
+STON,.ston,,,1970
+SVG,.svg,,W3C SVG Working Group,1999
+SWIG,.i,,David M. Beazley,1996
+Sage,.sage|.sagews,,William Stein,2005
+SaltStack,.sls,,founder Thomas S. Hatch,2011
 Sass,.sass,markup,Hampton Catlin,2006
 Scala,.scala|.kojo|.sbt|.sc,scala,Martin Odersky,2004
 Scaml,.scaml,markup,Gérard Huet|Guy Cousineau|Xavier Leroy,1996
 Scheme,.scm|.sch|.sld|.sls|.sps|.ss,scheme,Guy L. Steele Jr.|Gerald Jay Sussman,1975
-Scilab,.sci|.sce|.tst,scilab,François Delebecque,1990
-Self,.self,self,David Ungar,1987
-ShaderLab,.shader,shaderlab,GLSL,2000
-Shell,.sh|.bash|.bats|.cgi|.command|.env|.fcgi|.ksh|.sh.in|.tmux|.tool|.zsh,shell,Stephen Bourne,1989
-ShellSession,.sh-session,shellsession,Richard C. Haight,1980s
-Shen,.shen,shen,Mark Tarver,2011
-Sieve,.sieve,sieve,Tim Showalter,1999
-Slash,.sl,slash,Tanner Swett,2006
-Slice,.ice,slice,,2011
+Scilab,.sci|.sce|.tst,,François Delebecque,1990
+Self,.self,,David Ungar,1987
+ShaderLab,.shader,,GLSL,2000
+Shell,.sh|.bash|.bats|.cgi|.command|.env|.fcgi|.ksh|.sh.in|.tmux|.tool|.zsh,,Stephen Bourne,1989
+ShellSession,.sh-session,,Richard C. Haight,1980s
+Shen,.shen,,Mark Tarver,2011
+Sieve,.sieve,,Tim Showalter,1999
+Slash,.sl,,Tanner Swett,2006
+Slice,.ice,,,2011
 Slim,.slim,markup,,2010
-SmPL,.cocci,smpl,Dennis Ritchie,1980s
+SmPL,.cocci,,Dennis Ritchie,1980s
 Smali,.smali,smali,,2010
 Smalltalk,.st|.cs,smalltalk,Alan Kay|Dan Ingalls|Adele Goldberg,1972
-Smarty,.tpl,smarty,Monte Ohrt| Messju Mohr| Uwe Tews,2006
-SourcePawn,.sp|.inc,sourcepawn,,2004
-Squirrel,.nut,squirrel,Alberto Demichelis,2003
+Smarty,.tpl,smarty,Monte Ohrt|Messju Mohr|Uwe Tews,2006
+SourcePawn,.sp|.inc,,,2004
+Squirrel,.nut,,Alberto Demichelis,2003
 Stan,.stan,stan,Stan Development Team,2012
-Standard ML,.ML|.fun|.sig|.sml,sml,Robin Milner,1983
-Starlark,.bzl,starlark,Andreas Rumpf,2018
-Stata,.do|.ado|.doh|.ihlp|.mata|.matah|.sthlp,stata,William Gould,1985
+Standard ML,.ML|.fun|.sig|.sml,,Robin Milner,1983
+Starlark,.bzl,,Andreas Rumpf,2018
+Stata,.do|.ado|.doh|.ihlp|.mata|.matah|.sthlp,,William Gould,1985
 Stylus,.styl,markup,TJ Holowaychuk,2010
 SugarSS,.sss,markup,Andreas Rumpf,1964
-SuperCollider,.sc|.scd,supercollider,James McCartney,1996
+SuperCollider,.sc|.scd,,James McCartney,1996
 Svelte,.svelte,markup,Rich Harris,2016
 Swift,.swift,swift,Chris Lattner|Apple,2010
-SystemVerilog,.sv|.svh|.vh,systemverilog,Synopsys,2002
+SystemVerilog,.sv|.svh|.vh,,Synopsys,2002
 TI Program,.8xp|.8xk|.8xk.txt|.8xp.txt,,,1964
-TLA,.tla,tla,Leslie Lamport,1999
+TLA,.tla,,Leslie Lamport,1999
 TOML,.toml,toml,Preston-Werner,2013
-TSQL,.sql,tsql,Donald D. Chamberlin Raymond F. Boyce,1974
+TSQL,.sql,,Donald D. Chamberlin Raymond F. Boyce,1974
 TSX,.tsx,tsx,Microsoft Corporation,2012
-TXL,.txl,txl,James Cordy,1985
+TXL,.txl,,James Cordy,1985
 Tcl,.tcl|.adp|.tm,tcl,John Ousterhout,1988
-Tcsh,.tcsh|.csh,tcsh,Ken Greer,1978
+Tcsh,.tcsh|.csh,,Ken Greer,1978
 TeX,.tex|.aux|.bbx|.cbx|.cls|.dtx|.ins|.lbx|.ltx|.mkii|.mkiv|.mkvi|.sty|.toc,markup,Donald Knuth,1977
 Tea,.tea,markup,Jorge Nunes,1997
-Terra,.t,terra,,2012
-Thrift,.thrift,thrift,Facebook,2007
-Turing,.t|.tu,turing, Ric Holt|James Cordy,1982
+Terra,.t,,,2012
+Thrift,.thrift,,Facebook,2007
+Turing,.t|.tu,, Ric Holt|James Cordy,1982
 Turtle,.ttl,turtle,Wally Feurzeig|Seymour Papert|Cynthia Solomon,1967
 Twig,.twig,markup,Fabien Potencier,2009
 TypeScript,.ts,typescript,Microsoft Corporation,2012
 Unified Parallel C,.upc,,UPC Consortium,1972
 Unix Assembly,.s|.ms,,Dennis Ritchie,1969
-Uno,.uno,uno,arduino.cc,2005
+Uno,.uno,,arduino.cc,2005
 UnrealScript,.uc,unrealscript,Tim Sweeney,1998
-UrWeb,.ur|.urs,urweb,Adam Chlipala,2014
-V,.v,v,Alex Medvednikov,2009
-VBA,.bas|.cls|.frm|.frx|.vba,vba,Microsoft,1993
-VBScript,.vbs,vbscript,Microsoft,1996
-VCL,.vcl,vcl,Borland,2001
+UrWeb,.ur|.urs,,Adam Chlipala,2014
+V,.v,,Alex Medvednikov,2009
+VBA,.bas|.cls|.frm|.frx|.vba,,Microsoft,1993
+VBScript,.vbs,,Microsoft,1996
+VCL,.vcl,,Borland,2001
 VHDL,.vhdl|.vhd|.vhf|.vhi|.vho|.vhs|.vht|.vhw,vhdl,U.S. Department of Defense ,1980s
 Vala,.vala|.vapi,vala,Jürg Billeter,2006
 Verilog,.v|.veo,verilog,Candence,1984
 Vim Snippet,.snip|.snippet|.snippets,markup,Bram Moolenaar,1991
 Vim script,.vim|.vba|.vmb,vim,Bram Moolenaar,1991
-Visual Basic .NET,.vb|.vbhtml,vb,Microsoft Corporation,2001
-Volt,.volt,volt,Alex Medvednikov,2009
+Visual Basic .NET,.vb|.vbhtml,,Microsoft Corporation,2001
+Volt,.volt,,Alex Medvednikov,2009
 Vue,.vue,markup,Evan You,2014
-WebAssembly,.wast|.wat,webassembly,World Wide Web Consortium,2017
-WebIDL,.webidl,webidl,David Stern,2012
-WebVTT,.vtt,webvtt,,2010
-Wollok,.wlk,wollok,,
-X10,.x10,x10,,2004
-XC,.xc,xc,Dennis Ritchie,1972
-XML,.xml|.adml|.admx|.ant|.axml|.builds|.ccproj|.ccxml|.clixml|.cproject|.cscfg|.csdef|.csl|.csproj|.ct|.depproj|.dita|.ditamap|.ditaval|.dll.config|.dotsettings|.filters|.fsproj|.fxml|.glade|.gml|.gmx|.grxml|.iml|.ivy|.jelly|.jsproj|.kml|.launch|.mdpolicy|.mjml|.mm|.mod|.mxml|.natvis|.ncl|.ndproj|.nproj|.nuspec|.odd|.osm|.pkgproj|.pluginspec|.proj|.props|.ps1xml|.psc1|.pt|.rdf|.resx|.rss|.sch|.scxml|.sfproj|.shproj|.srdf|.storyboard|.sublime-snippet|.targets|.tml|.ts|.tsx|.ui|.urdf|.ux|.vbproj|.vcxproj|.vsixmanifest|.vssettings|.vstemplate|.vxml|.wixproj|.workflow|.wsdl|.wsf|.wxi|.wxl|.wxs|.x3d|.xacro|.xaml|.xib|.xlf|.xliff|.xmi|.xml.dist|.xproj|.xsd|.xspec|.xul|.zcml,xml,IBM,1996
-XPages,.xsp-config|.xsp.metadata,xpages,Trilog Group,2008
-XProc,.xpl|.xproc,xproc,Erik Siegel,2010
+WebAssembly,.wast|.wat,,World Wide Web Consortium,2017
+WebIDL,.webidl,,David Stern,2012
+WebVTT,.vtt,,,2010
+Wollok,.wlk,,,
+X10,.x10,,,2004
+XC,.xc,,Dennis Ritchie,1972
+XML,.xml|.adml|.admx|.ant|.axml|.builds|.ccproj|.ccxml|.clixml|.cproject|.cscfg|.csdef|.csl|.csproj|.ct|.depproj|.dita|.ditamap|.ditaval|.dll.config|.dotsettings|.filters|.fsproj|.fxml|.glade|.gml|.gmx|.grxml|.iml|.ivy|.jelly|.jsproj|.kml|.launch|.mdpolicy|.mjml|.mm|.mod|.mxml|.natvis|.ncl|.ndproj|.nproj|.nuspec|.odd|.osm|.pkgproj|.pluginspec|.proj|.props|.ps1xml|.psc1|.pt|.rdf|.resx|.rss|.sch|.scxml|.sfproj|.shproj|.srdf|.storyboard|.sublime-snippet|.targets|.tml|.ts|.tsx|.ui|.urdf|.ux|.vbproj|.vcxproj|.vsixmanifest|.vssettings|.vstemplate|.vxml|.wixproj|.workflow|.wsdl|.wsf|.wxi|.wxl|.wxs|.x3d|.xacro|.xaml|.xib|.xlf|.xliff|.xmi|.xml.dist|.xproj|.xsd|.xspec|.xul|.zcml,,IBM,1996
+XPages,.xsp-config|.xsp.metadata,,Trilog Group,2008
+XProc,.xpl|.xproc,,Erik Siegel,2010
 XQuery,.xquery|.xq|.xql|.xqm|.xqy,xquery,World Wide Web Consortium,2007
-XS,.xs,xs,Larry Wall,1950s
-XSLT,.xslt|.xsl,xslt,W3C,1998
+XS,.xs,,Larry Wall,1950s
+XSLT,.xslt|.xsl,,W3C,1998
 Xojo,.xojo_code|.xojo_menu|.xojo_report|.xojo_script|.xojo_toolbar|.xojo_window,xojo,Xojo| Inc,1998
-Xtend,.xtend,xtend,typefox,2011
+Xtend,.xtend,,typefox,2011
 YAML,.yml|.mir|.reek|.rviz|.sublime-syntax|.syntax|.yaml|.yaml-tmlanguage|.yaml.sed|.yml.mysql,yaml,Clark Evans,2001
 YANG,.yang,yang,IETF NETCONF Data Modeling Language Working Group,2008
-YARA,.yar|.yara,yara,Victor Alvarez,2008
+YARA,.yar|.yara,,Victor Alvarez,2008
 YASnippet,.yasnippet,markup,,2008
-Yacc,.y|.yacc|.yy,yacc,Stephen C. Johnson,1975
-ZAP,.zap|.xzap,zap,Simon Bennetts,2020
-ZIL,.zil|.mud,zil,Infocom,1980
-Zeek,.zeek|.bro,zeek,Vern Paxson,2020
-ZenScript,.zs,zenscript, Andi Gutmans|Zeev Suraski ,1980s
-Zephir,.zep,zephir,,2013
+Yacc,.y|.yacc|.yy,,Stephen C. Johnson,1975
+ZAP,.zap|.xzap,,Simon Bennetts,2020
+ZIL,.zil|.mud,,Infocom,1980
+Zeek,.zeek|.bro,,Vern Paxson,2020
+ZenScript,.zs,, Andi Gutmans|Zeev Suraski ,1980s
+Zephir,.zep,,,2013
 Zig,.zig,zig,Andrew Kelley.,2015
-Zimpl,.zimpl|.zmpl|.zpl,zimpl,,2004
-desktop,.desktop|.desktop.in,desktop,,1956
-dircolors,.dircolors,dircolors,,1972
-eC,.ec|.eh,ec,Jérôme Jacovella,2004
-edn,.edn,edn,,2012
-fish,.fish,fish,Harpyon,2009
+Zimpl,.zimpl|.zmpl|.zpl,,,2004
+desktop,.desktop|.desktop.in,,,1956
+dircolors,.dircolors,,,1972
+eC,.ec|.eh,,Jérôme Jacovella,2004
+edn,.edn,,,2012
+fish,.fish,,Harpyon,2009
 mIRC Script,.mrc,,Khaled Mardam-Bey,1995
-mcfunction,.mcfunction,mcfunction,,1950s
-mupad,.mu,mupad,The Mathworks Inc.,1997
-nanorc,.nanorc,nanorc,Chris Allegretta,1999
-nesC,.nc,nesc,,2000
-ooc,.ooc,ooc,,2009
+mcfunction,.mcfunction,,,1950s
+mupad,.mu,,The Mathworks Inc.,1997
+nanorc,.nanorc,,Chris Allegretta,1999
+nesC,.nc,,,2000
+ooc,.ooc,,,2009
 Q,.q,q,Arthur Whitney,2003
-sed,.sed,sed,,1974
-wdl,.wdl,wdl,the Broad Institute,2012
-wisp,.wisp,wisp,,2012
-xBase,.prg|.ch|.prw,xbase,Antonio Linares,1989
+sed,.sed,,,1974
+wdl,.wdl,,the Broad Institute,2012
+wisp,.wisp,,,2012
+xBase,.prg|.ch|.prw,,Antonio Linares,1989
