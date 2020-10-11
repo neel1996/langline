@@ -94,13 +94,20 @@ function fileSystem(users) {
     jsonData = fs.readFileSync("../data_set/year.json");
 
     if (jsonData.buffer.byteLength === 0) {
-        yearArr.push(tempYearArr);
+        users.forEach(element => {
+            yearArr.push(element);
+        });
+        // yearArr.push(users);
         fs.writeFileSync("../data_set/year.json", JSON.stringify(yearArr));
         console.log("Buffer!");
     } else {
         parseData = JSON.parse(jsonData);
-        yearArr.push(parseData);
-        yearArr.push(users);
+        parseData.forEach(element => {
+            yearArr.push(element);
+        });
+        users.forEach(element => {
+            yearArr.push(element);
+        });
         fs.writeFileSync("../data_set/year.json", JSON.stringify(yearArr));
         console.log("Completed!");
     }

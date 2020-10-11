@@ -113,19 +113,28 @@ function printOutput(value, data) {
     k++;
 }
 
-var parseData;
+var parseDataArr;
 
 function fileSystem(users) {
     jsonData = fs.readFileSync("../data_set/founder.json");
 
     if (jsonData.buffer.byteLength === 0) {
-        langObj.push(users);
+        users.forEach(element => {
+            langObj.push(element);
+        });
         fs.writeFileSync("../data_set/founder.json", JSON.stringify(langObj));
         console.log("Buffer!");
     } else {
-        parseData = JSON.parse(jsonData);
-        langObj.push(parseData);
-        langObj.push(users);
+        parseDataArr = JSON.parse(jsonData);
+
+        parsedDataArr.forEach(element => {
+            langObj.push(element);
+        });
+
+        users.forEach(element => {
+            langObj.push(element);
+        });
+
         console.log(langObj);
         fs.writeFileSync("../data_set/founder.json", JSON.stringify(langObj));
         console.log("Completed!");
