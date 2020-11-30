@@ -127,4 +127,3 @@ Update the CSV file `./data/langData.csv` with the following entries
 | :-: | :-: | :-: | :-: | :-: |
 | NAME OF THE LANGUAGE | LANGUAGE FILE EXTENSIONS. SEPARATE MULTIPLE ENTRIES WITH PIPE | IF THE LANGUAGE IS SUPPORTED BY PRISM THEN THE PRISMJS COMPONENT NAME | FOUNDER NAME. SEPARATE MULTIPLE ENTRIES WITH PIPE | INITIAL RELEASE YEAR IN YYYY FORMAT |
 
-**Note:** Project is still under development and contributions will be accepeted once project is stable for use
