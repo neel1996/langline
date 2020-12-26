@@ -33,7 +33,7 @@
     },
     {
       "name": "tsx",
-      "indicationName": "tsx",
+      "indicationName": "jsx",
       "founder": "Jordan Walke",
       "firstRelease": 2013,
       "isActive": "TRUE",
