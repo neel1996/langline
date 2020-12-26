@@ -2969,7 +2969,7 @@ const languageDataSet: LangData[] = [
   {
     name: "TSX",
     extensions: [".tsx"],
-    prismIndicator: "tsx",
+    prismIndicator: "jsx",
     founder: ["Microsoft Corporation"],
     year: ["2012"],
   },
