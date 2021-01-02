@@ -22,7 +22,7 @@ Node library for getting information about programming languages by supplying th
 
 ## Importing LangLine to a project
 
-```
+``` javascript
 // ES5 require
 const { LangLine } = require("@itassistors/langline");
 
@@ -32,7 +32,7 @@ import { LangLine } from "@itassistors/langline";
 
 - **Fetching language with Extension**
 
-```
+``` javascript
 const { LangLine } = require("@itassistors/langline");
 
 const extension = "js"; //file extension
@@ -43,7 +43,7 @@ console.log(language);
 
 - **Fetching language with File Name**
 
-```
+``` javascript
 const { LangLine } = require("@itassistors/langline");
 
 const fileName = "addRepoApi.js"; //file name with extension
@@ -56,7 +56,7 @@ console.log(language);
 
 >Note: In this case, the supplied file will be validated to check its existance and confirm its type. If the validation fails, then the language will not be returned. This is supported only when referred in the backend module and it is not supported when used in the client side (E.g: React)
 
-```
+``` javascript
 const { LangLine } = require("@itassistors/langline");
 const path = require("path");
 
@@ -79,7 +79,7 @@ langline();
 
 ## Output
 
-```
+``` javascript
 {
   name: 'JavaScript',
   extensions: [
@@ -111,11 +111,11 @@ The languages are maintained in a JSON file which will be used by the library in
 
 Update the JSON file `./data/linguistDataSet.json` with the language specific entries 
 
-```
+``` javascript
 {
-    name: "NAME OF THE LANGUAGE",
-    prismIndicator: "LANGUAGE COMPONENT NAME AS SUCH IN PRISMJS LIBRARY",
-    extensions: [".extension"...]
+    "name": "NAME OF THE LANGUAGE",
+    "prismIndicator": "LANGUAGE COMPONENT NAME AS SUCH IN PRISMJS LIBRARY",
+    "extensions": [".extension, "..."]
 }
 ```
 
@@ -124,6 +124,6 @@ Update the JSON file `./data/linguistDataSet.json` with the language specific en
 Update the CSV file `./data/langData.csv` with the following entries
 
 | name | extensions | prismIndicator | founder | year |
-| :-: | :-: | :-: | :-: | :-: |
+|---|---|---|---|---|
 | NAME OF THE LANGUAGE | LANGUAGE FILE EXTENSIONS. SEPARATE MULTIPLE ENTRIES WITH PIPE | IF THE LANGUAGE IS SUPPORTED BY PRISM THEN THE PRISMJS COMPONENT NAME | FOUNDER NAME. SEPARATE MULTIPLE ENTRIES WITH PIPE | INITIAL RELEASE YEAR IN YYYY FORMAT |
 
