@@ -25,8 +25,12 @@ export class LangLine {
    * Method to lookup a language using extension. Pass a valid file extension to get the respective programming language
    * @param  {string} extension
    * @returns LangData - Language object with name, extensions and prismjs component name if exists
+   * @example
+   * ```
+   * const extension = "js";
+   * const language = new LangLine().withExtension(extension);
+   * ```
    */
-
   public withExtension(extension: string): LangData | ErrorObject {
     return new CheckWithExtension(
       extension,
@@ -38,8 +42,12 @@ export class LangLine {
    * Method to get the programming language based on a supplied file name
    * @param  {string} fileName
    * @returns LangData - Language object with name, extensions and prismjs component name if exists
+   * @example
+   * ```
+   * const fileName = "addRepoApi.js"; //file name with extension
+   * const language = new LangLine().withFileName(fileName);
+   * ```
    */
-
   public withFileName(fileName: string): LangData | ErrorObject {
     return new CheckWithFileName(
       fileName,
@@ -49,24 +57,25 @@ export class LangLine {
 
   /**
    * Method to get the programming language by passing on an actual file
+   * This function is not supported from front-end as it requires the `fs` module
    * @param  {string} fileName - Actual file
    * @returns Promise - resolves a promise with the language data
    */
-
   public async withFile(fileName: string): Promise<LangData | ErrorObject> {
     return await new CheckWithFile(
       fileName,
       dataFileContent
-    ).chechWithFileHandler();
+    ).checkWithFileHandler();
   }
 
   /**
    * Method which accepts a language name from a set of allowed values and returns the respective language data
    * @param  {LanguageType} languageName
    * @returns LangData
+   * @example
+   * const language = new LangLine().withLanguageName("javascript");
    */
-  
-   public withLanguageName(languageName: LanguageType): LangData | ErrorObject {
+  public withLanguageName(languageName: LanguageType): LangData | ErrorObject {
     return new CheckWithLanguageName(
       languageName,
       dataFileContent

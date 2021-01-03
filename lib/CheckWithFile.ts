@@ -17,7 +17,7 @@ export class CheckWithFile {
     };
   }
 
-  public async chechWithFileHandler(): Promise<LangData | ErrorObject> {
+  public async checkWithFileHandler(): Promise<LangData | ErrorObject> {
     const fileNameSplit = this.fileName.split(".");
     const fileExtension = fileNameSplit[fileNameSplit.length - 1];
     return await fs.promises

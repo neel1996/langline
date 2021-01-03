@@ -1,9 +1,9 @@
 import Extensions from "textextensions";
 export class ExtensionValidator {
-  constructor(private entension: string) {}
+  constructor(private extension: string) {}
 
   public isTextExtension(): boolean {
-    if (Extensions.includes(this.entension)) {
+    if (Extensions.includes(this.extension)) {
       return true;
     } else {
       return false;

@@ -1,31 +1,31 @@
 {
-    "name": "@itassistors/langline",
-    "version": "1.0.2",
-    "description": "Node library to look up programming languages based on file extensions, file name and actual file",
-    "main": "dist/index.js",
-    "types": "dist/index.d.ts",
-    "scripts": {
-        "test": "jest"
-    },
-    "keywords": [
-        "langline",
-        "linguist",
-        "languages",
-        "programming",
-        "synatx-highlighting"
-    ],
-    "repository": {
-        "url": "https://github.com/neel1996/langline"
-    },
-    "author": "itassistors",
-    "license": "Apache 2.0",
-    "dependencies": {
-        "csvtojson": "^2.0.10",
-        "istextorbinary": "^5.10.0",
-        "textextensions": "^5.10.0"
-    },
-    "devDependencies": {
-        "@types/jest": "^26.0.10",
-        "@types/node": "^14.6.0"
-    }
+  "name": "@itassistors/langline",
+  "version": "1.0.3",
+  "description": "Node JS library to look up programming languages based on file extensions, file name and actual file",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "langline",
+    "linguist",
+    "languages",
+    "programming",
+    "synatx-highlighting"
+  ],
+  "repository": {
+    "url": "https://github.com/neel1996/langline"
+  },
+  "author": "itassistors",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "istextorbinary": "^5.10.0",
+    "textextensions": "^5.10.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.10",
+    "@types/node": "^14.6.0"
+  }
 }

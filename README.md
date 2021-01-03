@@ -22,7 +22,7 @@ Node library for getting information about programming languages by supplying ei
 
 ## Importing LangLine to a project
 
-``` javascript
+```javascript
 // ES5 require
 const { LangLine } = require("@itassistors/langline");
 
@@ -32,7 +32,7 @@ import { LangLine } from "@itassistors/langline";
 
 - **Fetching language with Extension**
 
-``` javascript
+```javascript
 const { LangLine } = require("@itassistors/langline");
 
 const extension = "js"; //file extension
@@ -43,7 +43,7 @@ console.log(language);
 
 - **Fetching language with File Name**
 
-``` javascript
+```javascript
 const { LangLine } = require("@itassistors/langline");
 
 const fileName = "addRepoApi.js"; //file name with extension
@@ -52,11 +52,19 @@ const language = new LangLine().withFileName(fileName);
 console.log(language);
 ```
 
+- **Fetching language with Language Name**
+
+```javascript
+const { LangLine } = require("@itassistors/langline");
+const language = new LangLine().withLanguageName("javascript");
+console.log(language);
+```
+
 - **Fetching language by supplying an actual file**
 
->Note: In this method, the supplied file will be validated to check its existance and to confirm its type. If the validation fails, then the language will not be returned. This is supported only when referred in the backend as it relies on the `fs` module and it is not supported when used in the client side (E.g: React)
+> Note: In this method, the supplied file will be validated to check its existence and to confirm its type. If the validation fails, then the language will not be returned. This is supported only when referred in the backend as it relies on the `fs` module and it is not supported when used in the client side (E.g: React)
 
-``` javascript
+```javascript
 const { LangLine } = require("@itassistors/langline");
 const path = require("path");
 
@@ -79,7 +87,7 @@ langline();
 
 ## Output
 
-``` javascript
+```javascript
 {
   name: 'JavaScript',
   extensions: [
@@ -105,9 +113,9 @@ This field is for `prismjs` users who relies on the framework for syntax highlig
 
 ## Client side support
 
-From **v1.0.1**, the library was tweaked to access the data from [linguistDataSet.ts](data/linguistDataSet.ts) instead of reading from the JSON file to provide client side support for the library. This makes `LangLine` methods compatible with front-end develoment as well \* 
+From **v1.0.1**, the library was tweaked to access the data from [linguistDataSet.ts](data/linguistDataSet.ts) instead of reading from the JSON file to provide client side support for the library. This makes `LangLine` methods compatible with front-end develoment as well \*
 
->\* Except the `withFile` method
+> \* Except the `withFile` method
 
 ## Add a new Language
 
@@ -115,9 +123,9 @@ The languages are maintained in a JSON file and a CSV file. If you wish to add a
 
 **JSON File**
 
-Update the JSON file [linguistDataSet.json](data/linguistDataSet.json) with the language specific entries 
+Update the JSON file [linguistDataSet.json](data/linguistDataSet.json) with the language specific entries
 
-``` javascript
+```javascript
 {
     "name": "NAME OF THE LANGUAGE",
     "prismIndicator": "LANGUAGE COMPONENT NAME AS SUCH IN PRISMJS LIBRARY",
@@ -129,9 +137,6 @@ Update the JSON file [linguistDataSet.json](data/linguistDataSet.json) with the 
 
 Update the CSV file [langData.csv](data/langData.csv) with the following entries
 
-| name | extensions | prismIndicator | founder | year |
-|---|---|---|---|---|
+| name                 | extensions                                                    | prismIndicator                                                        | founder                                           | year                                |
+| -------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------- | ----------------------------------- |
 | NAME OF THE LANGUAGE | LANGUAGE FILE EXTENSIONS. SEPARATE MULTIPLE ENTRIES WITH PIPE | IF THE LANGUAGE IS SUPPORTED BY PRISM THEN THE PRISMJS COMPONENT NAME | FOUNDER NAME. SEPARATE MULTIPLE ENTRIES WITH PIPE | INITIAL RELEASE YEAR IN YYYY FORMAT |
-
-
-
