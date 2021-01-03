@@ -107,7 +107,7 @@ This field is for `prismjs` users who relies on the framework for syntax highlig
 
 From **v1.0.1**, the library was tweaked to access the data from [linguistDataSet.ts](data/linguistDataSet.ts) instead of reading from the JSON file to provide client side support for the library. This makes `LangLine` methods compatible with front-end develoment as well \* 
 
-> \* Except the `withFile` method
+>\* Except the `withFile` method
 
 ## Add a new Language
 
