@@ -13,7 +13,7 @@
     </p>
 </p>
 
-Node library for getting information about programming languages by supplying the following options,
+Node library for getting information about programming languages by supplying either of the following options,
 
 - Name of the language
 - File extension of the language (E.g: js, py)
@@ -54,7 +54,7 @@ console.log(language);
 
 - **Fetching language by supplying an actual file**
 
->Note: In this case, the supplied file will be validated to check its existance and confirm its type. If the validation fails, then the language will not be returned. This is supported only when referred in the backend module and it is not supported when used in the client side (E.g: React)
+>Note: In this method, the supplied file will be validated to check its existance and to confirm its type. If the validation fails, then the language will not be returned. This is supported only when referred in the backend as it relies on the `fs` module and it is not supported when used in the client side (E.g: React)
 
 ``` javascript
 const { LangLine } = require("@itassistors/langline");
@@ -103,13 +103,19 @@ The programming language dataset is adapted from github linguist language list. 
 
 This field is for `prismjs` users who relies on the framework for syntax highlighting. This field will come in handy for dynamic syntax highlighting when using prism with react or other frontend development frameworks
 
+## Client side support
+
+From **v1.0.1**, the library was tweaked to access the data from [linguistDataSet.ts](data/linguistDataSet.ts) instead of reading from the JSON file to provide client side support for the library. This makes `LangLine` methods compatible with front-end develoment as well \* 
+
+> \* Except the `withFile` method
+
 ## Add a new Language
 
-The languages are maintained in a JSON file which will be used by the library internally. If you wish to add a new language, fork the repo and submit a PR by updating either the JSON data file or the CSV data file
+The languages are maintained in a JSON file and a CSV file. If you wish to add a new language, fork the repo and submit a PR by updating either the JSON data file or the CSV data file
 
 **JSON File**
 
-Update the JSON file `./data/linguistDataSet.json` with the language specific entries 
+Update the JSON file [linguistDataSet.json](data/linguistDataSet.json) with the language specific entries 
 
 ``` javascript
 {
@@ -121,9 +127,11 @@ Update the JSON file `./data/linguistDataSet.json` with the language specific en
 
 **CSV File**
 
-Update the CSV file `./data/langData.csv` with the following entries
+Update the CSV file [langData.csv](data/langData.csv) with the following entries
 
 | name | extensions | prismIndicator | founder | year |
 |---|---|---|---|---|
 | NAME OF THE LANGUAGE | LANGUAGE FILE EXTENSIONS. SEPARATE MULTIPLE ENTRIES WITH PIPE | IF THE LANGUAGE IS SUPPORTED BY PRISM THEN THE PRISMJS COMPONENT NAME | FOUNDER NAME. SEPARATE MULTIPLE ENTRIES WITH PIPE | INITIAL RELEASE YEAR IN YYYY FORMAT |
+
+
 
