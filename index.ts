@@ -67,7 +67,9 @@ export class LangLine {
    * @example
    * const language = new LangLine().withLanguageName("javascript");
    */
-  public withLanguageName(languageName: LanguageType): LangData | ErrorObject {
+  public withLanguageName(
+    languageName: LanguageType | string
+  ): LangData | ErrorObject {
     return new CheckWithLanguageName(
       languageName,
       dataFileContent
