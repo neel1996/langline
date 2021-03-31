@@ -29,6 +29,7 @@ export class LangLineCLI {
     const cliOutputPrinter = new CLIOutPutPrinter();
 
     if (dataToFormat && (dataToFormat as ErrorObject).status) {
+      // eslint-disable-next-line no-console
       console.log(dataToFormat);
       return;
     }
@@ -58,6 +59,7 @@ export class LangLineCLI {
     } else if (opts.withFile) {
       dataToFormat = await new LangLine().withFile(opts.withFile);
     } else {
+      // eslint-disable-next-line no-console
       console.log(
         "Invalid input argument\nRefer `langline --help` for more info"
       );

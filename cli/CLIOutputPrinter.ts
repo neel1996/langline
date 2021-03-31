@@ -7,6 +7,7 @@ import { table } from "table";
  * Class to handle the task of printing the output to the console
  */
 export class CLIOutPutPrinter implements CLIOutputInterface {
+  // eslint-disable-next-line no-console
   static printLanguage = console.log;
 
   /**
