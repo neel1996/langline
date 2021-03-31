@@ -22,12 +22,7 @@ export class CliSwitchData {
       option: "--with-file",
       alias: "-wf",
       description: "Lookup for a language data with actual file",
-    },
-    {
-      option: "--with-language",
-      alias: "-wl",
-      description: "Lookup for a language data with actual language name",
-    },
+    }
   ];
 
   public static getSwitchOptions(): optionsDataType[] {
