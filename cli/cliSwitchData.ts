@@ -7,6 +7,9 @@ type optionsDataType = {
 export class CliSwitchData {
   constructor() {}
 
+  /**
+   * Model data for the CLI options
+   */
   public static switchOptions: optionsDataType[] = [
     {
       option: "--with-extension",
@@ -22,7 +25,7 @@ export class CliSwitchData {
       option: "--with-file",
       alias: "-wf",
       description: "Lookup for a language data with actual file",
-    }
+    },
   ];
 
   public static getSwitchOptions(): optionsDataType[] {

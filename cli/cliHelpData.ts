@@ -1,3 +1,6 @@
+/**
+ * Verbose help information for the CLI with examples
+ */
 export const CLIHelpData = {
   description: "Langline CLI - Use any of the options from below",
   usage: `\n\n

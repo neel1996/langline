@@ -3,10 +3,16 @@ import { CLIOutputInterface } from "./CLIOutputInterface";
 import { Parser } from "json2csv";
 import { table } from "table";
 
+/**
+ * Class to handle the task of printing the output to the console
+ */
 export class CLIOutPutPrinter implements CLIOutputInterface {
   static printLanguage = console.log;
-  fields = ["Name", "Founder", "Year", "Prism Indicator", "Extensions"];
 
+  /**
+   * Displays the output in a comma separated format
+   * @param data
+   */
   csvOutput(data: LangData): void {
     const lang = {
       name: data.name,
@@ -21,10 +27,20 @@ export class CLIOutPutPrinter implements CLIOutputInterface {
     CLIOutPutPrinter.printLanguage(output);
   }
 
+  /**
+   * Displays the output in JSON format
+   * @param data
+   */
   jsonOutput(data: LangData): void {
     CLIOutPutPrinter.printLanguage(JSON.stringify(data, null, 4));
   }
 
+  /**
+   * Displays the output in a clean table format
+   *
+   * Default format if no option is provided by the user
+   * @param data
+   */
   tableOutput(data: LangData): void {
     const lang = {
       name: data.name,
