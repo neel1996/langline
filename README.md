@@ -113,6 +113,67 @@ langline();
 
 The programming language dataset is adapted from github linguist language list. The founder and year data were collected using a google search web scrapping module which is available in the [addons](addons) directory
 
+## Langline CLI Support
+
+The library can also be accessed via the CLI, provided langline is installed as a global npm module. To use langline's CLI capability, install it using the following command
+
+```shell
+npm i -g @itassistors/langline
+```
+
+In CLI mode, langline supports the following options to fetch the details of a language
+
+| Alias | Option | Function |
+| ---- | ---- | ---- |
+|`-we`| `--with-extension` |   Lookup for a language data with file extension |
+|`-wfn`| `--with-file-name` |   Lookup for a language data with file name |
+|`-wf` | `--with-file` |       Lookup for a language data with actual file |
+
+```shell
+$ langline -h
+Usage: langline 
+
+
+  langline [option] [argument]
+  langline [option] [argument] --format=[argument]
+
+
+Langline CLI - Use any of the options from below
+
+Options:
+  -V, --version                  output the version number
+  -we, --with-extension <type>   Lookup for a language data with file extension
+  -wfn, --with-file-name <type>  Lookup for a language data with file name
+  -wf, --with-file <type>        Lookup for a language data with actual file
+  --format <value>               To format the output based (choices: "json", "csv", "table")
+  -h, --help                     display help for command
+
+
+E.g:
+
+  # Without explicit formatting (defaults to table output)
+  $ langline --with-extension c
+
+  Output  :
+
+  ╔══════╤════════════════╤═══════════════╤═════════════════╤════════════╗
+  ║ Name │ Founder        │ Year          │ Prism Indicator │ Extensions ║
+  ╟──────┼────────────────┼───────────────┼─────────────────┼────────────╢
+  ║ C    │ Dennis Ritchie │ 1972 and 1973 │ c               │ .c         ║
+  ║      │                │               │                 │ .cats      ║
+  ║      │                │               │                 │ .h         ║
+  ║      │                │               │                 │ .idc       ║
+  ╚══════╧════════════════╧═══════════════╧═════════════════╧════════════╝
+
+  # Specified formatting
+  $ langline --with-file main.c --format=csv
+
+  Output :
+
+  "name","founder","year","prismIndicator","extensions"
+  "C","Dennis Ritchie","1972 and 1973","c",".c;.cats;.h;.idc"
+```
+
 ## Prism Indicator Field
 
 This field is for `prismjs` users who relies on the framework for syntax highlighting. This field will come in handy for dynamic syntax highlighting when using prism with react or other frontend development frameworks
