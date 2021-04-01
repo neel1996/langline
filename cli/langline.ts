@@ -25,7 +25,7 @@ export class LangLineCLI {
   formatHandler(
     dataToFormat: LangData | ErrorObject,
     opts: commander.OptionValues
-  ) {
+  ): void {
     const cliOutputPrinter = new CLIOutPutPrinter();
 
     if (dataToFormat && (dataToFormat as ErrorObject).status) {
@@ -37,11 +37,20 @@ export class LangLineCLI {
     if (dataToFormat && (dataToFormat as LangData).name) {
       if ((opts.format && opts.format === "table") || !opts.format) {
         cliOutputPrinter.tableOutput(dataToFormat as LangData);
-      } else if (opts.format && opts.format === "csv") {
-        cliOutputPrinter.csvOutput(dataToFormat as LangData);
-      } else if (opts.format && opts.format === "json") {
-        cliOutputPrinter.jsonOutput(dataToFormat as LangData);
+        return;
       }
+      if (opts.format && opts.format === "csv") {
+        cliOutputPrinter.csvOutput(dataToFormat as LangData);
+        return;
+      }
+      if (opts.format && opts.format === "json") {
+        cliOutputPrinter.jsonOutput(dataToFormat as LangData);
+        return;
+      }
+    } else {
+      // eslint-disable-next-line no-console
+      console.log("ERROR: No valid input argument received!");
+      return;
     }
   }
 
