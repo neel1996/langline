@@ -4,7 +4,7 @@ import { LanguageType } from "./types/LanguageType";
 
 export class CheckWithLanguageName {
   constructor(
-    private languageName: LanguageType,
+    private languageName: LanguageType | string,
     private dataFileContent: LangData[]
   ) {}
 

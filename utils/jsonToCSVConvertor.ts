@@ -6,9 +6,7 @@ import fs from "fs";
 class JSONtoCSVConvertor {
   private dataFileContent: LangData[];
   constructor() {
-    this.dataFileContent = new DataFileReader(
-      path.join(__dirname, "..", "data/linguistDataSet.json")
-    ).readFromFile();
+    this.dataFileContent = new DataFileReader().readFromFile();
   }
 
   public convertToCSV() {

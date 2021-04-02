@@ -1,4 +1,3 @@
-import path from "path";
 import { CheckWithExtension } from "./lib/CheckWithExtension";
 import { CheckWithFile } from "./lib/CheckWithFile";
 import { CheckWithFileName } from "./lib/CheckWithFileName";
@@ -8,17 +7,10 @@ import { LangData } from "./lib/interface/LangDataInterface";
 import { LanguageType } from "./lib/types/LanguageType";
 import { DataFileReader } from "./utils/readFromDataFile";
 
-var dataFilePath: string = path.join(
-  __dirname,
-  "..",
-  "data/linguistDataSet.json"
-);
-
 var dataFileContent: LangData[] = [];
-
 export class LangLine {
   constructor() {
-    dataFileContent = new DataFileReader(dataFilePath).readFromFile();
+    dataFileContent = new DataFileReader().readFromFile();
   }
 
   /**
@@ -75,7 +67,9 @@ export class LangLine {
    * @example
    * const language = new LangLine().withLanguageName("javascript");
    */
-  public withLanguageName(languageName: LanguageType): LangData | ErrorObject {
+  public withLanguageName(
+    languageName: LanguageType | string
+  ): LangData | ErrorObject {
     return new CheckWithLanguageName(
       languageName,
       dataFileContent
